@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Upload new File</title>
+
+  </head>
+
+  <body>
+
+    <h2>Step 1: </h2> <h3>Upload your document</h3>
+
+
+    <form method=post enctype=multipart/form-data>
+      <input type=file name=file>
+      <input type=submit value=Upload><h4>*Only .pdf files are allowed to be uploaded</h4>
+    </form>
+    <h4>The File Directory is: {{fileDir}}</h4>
+
+    <form action="/home" method="post">
+      <input type="submit" value="home"></input>
+    </form>
+  </body>
+</html>

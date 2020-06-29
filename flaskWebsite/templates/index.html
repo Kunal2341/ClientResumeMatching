@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Resume Matching</title>
+  </head>
+
+  <body>
+    <h1>Matching your resume to companies</h1>
+    <h5>Built by Kunal Aneja</h5>
+    <h3>Upload your resume by clicking here: </h3>
+    <form action="/upload_file" method="post">
+      <input type="submit" value="upload_file"></input>
+    </form>
+    <h4>File: {{ fileDIRECTORY }}</h4>
+
+    <h1>RUN Matching Code</h1>
+    <form action="/runCode" method="post">
+      <input type="submit" value="runCode"></input>
+    </form>
+    <embed src= "/Users/kunal/Documents/ResumeNLPVdart/flaskWebsite/uploadedFiles/Document_405.pdf" type="application/pdf" width="800px" height="2100px" />
+
+
+  </body>
+</html>
