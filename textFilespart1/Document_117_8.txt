@@ -1,0 +1,52 @@
+Anusha K
+Sr. Network Engineer
+Phone: 480-630-9319
+Email: anushanetworking384@gmail.com
+CISco
+CERTIFIED
+CISCO
+CERTIFIED
+CCNA
+CCNP
+Used Fluke tool for monitoring WAN (both MPLS & ST) traffic and Wireshark for LAN
+traffic.
+Working Knowledge on
+2500,3600,3700 Access points.
+Worked on Solar winds Orion for analysis and monitoring purposes.
+Performing SIP protocol packets flow using Wireshark.
+Worked on Infoblox for creating the DNS entries, A records and CNAMES.
+Configuring VDC, VPC and FCOE, upgrading NX-OS for Nexus Family Switches.
+Provided proactive threat defence with ASA that stops attacks before they spread
+through the network.
+Maintaining and troubleshooting SAN backup networks.
+wireless devices (5508,7500 WLC Controllers and
+Chevron, CA
+Sep 2013-Dec 2014
+Network Engineer
+Responsibilities:
+Worked on Cisco Routers, Active /Passive Hubs, Switches, Cisco ASA Firewalls, NAT
+and Juniper SRX firewall
+Deploying Cisco routers and switched such as 7200, 3800, 3600 and 3500, 4500,
+5500.
+Implemented TCP/IP,TFTP and related services like DHCP/DNS/WINS
+Check for DNS issues by pinging the server's name. Experience with Wireshark, Test
+TCP& OPNET
+Escalating customer problems to management and support groups utilizing
+standard escalation model.
+Provided installation and initial user configuration of Nexus switches at the data
+centre and providing IP addressing and different user session priorities on the switch.
+Experience with devices Palo Alto Network firewalls such as security NAT, Threat
+prevention & URL filtering.
+Correlates call issues with WAN performance for advanced troubleshooting.
+Troubleshooting and installing of CRS, ISR, GSR, ASR9000 and Nexus devices.
+Configured and maintained SSL VPN, IPSEC VPN on ASA, Palo Alto and SRX series
+firewalls, Site-to-Site VPN between ASA Firewall and router
+Responsible for Data Centre Migrations and its operations.
+Secure authentication, redundancy and troubleshooting issues on BIG-IP LTM, ASM,
+APM and edit policies on F5 network access control.
+Worked on F5 LTM, GTM series like 6400, 6800, 8800 for the corporate applications
+and their availability.
+Experienced in configuring Cisco ASA firewalls in various contexts and modes to
+have the network secure.
+Installed and configured Cisco ASA 5500 series firewall and configured remote
+access IPSEC

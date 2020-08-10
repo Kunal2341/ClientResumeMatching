@@ -1,0 +1,59 @@
+Gannon University, Erie, PA.
+Worked as a Lab Assistant for the project of GPS Navigation of AROBOT.
+Helped in building the electronics circuits and applying GPS co-ordinates for the location of the
+AROBOT.
+Used PBASIC programming language to program the commands for the AROBOT.
+EDUCATIONAL PROJECTS
+"Speed control of Electric drives"
+Gannon University, Erie, PA.
+January-May 2011
+Open loop speed control of permanent magnet DC motor: Designed and developed the Simulink
+model for controlling the speed of permanent magnet DC motor which involves DC/DC converter
+by obtaining the parameters from the equations which represents the permanent magnet dc motor
+drive system.
+Speed control of DC motor by using cascaded controller: Designed and develop the Simulink
+model for controlling the speed of a DC motor by cascaded controller by using the method of
+field flux control method.
+"Motion Control Application using ADRC"
+Gannon University, Erie, PA.
+August-Dec 2010
+Motion Control is the field of Automation in which the system is prone to internal disturbances
+and external noises.
+ADRC-Active Disturbance Rejection Control is used to remove the disturbances and external
+noises present in the motion control system.
+ADRC behaviour is compared with PID controller that is sensitive to external noises.
+Developed the mathematical model and Simulink model for the system.
+Jawaharlal Nehru Technological University, Hyderabad, India
+January-May 2008
+Project Title:
+Role:
+Home Automation using TV Remote.
+Team Leader.
+Team Size:
+4 Members.
+The project provides simple and reliable methodology to control various home appliances from a certain
+distance. The TV remote that is used is an IR transmitter (RC5). It forms the transmission part of the
+project whereas the receiver section is managed by an IR receiver (TSOP 1738). Microcontroller AT
+TINY 2313 controls the programming and the switching process of the project. The relay forms the
+transmission media.
+CORE COMPETENCIES
+Mobile Communication
+Fibre Optics
+Embedded-C
+Electronics Devices and Circuits
+Digital signal processing
+Advance engineering analysis
+Engineering project management
+Modern control theory
+Digital Control
+Sensors & actuators
+Introduction of Electric drives
+Control of Electric drives
+Electronic system design and integration Wireless Communications
+Communications
+Satellite-
+PROFESSIONAL DEVELOPMENT TRAINING
+Undergone training for 8 months at Special Training Program (STP) programmed by Institute of
+Electronic Governance (IEG) and sponsored by INFOSYS.
+Developed good presentation skills and ability to deal with timely issues in a project.
+WORK

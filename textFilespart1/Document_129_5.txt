@@ -1,0 +1,50 @@
+expressing the insurance concepts in a formally defined specification to enable trading partner and intra-
+enterprise of sharing insurance data, giving a well-defined vocabulary for expressing the insurance
+concepts. TX Life is the primary specification used in the three primary domains: products, people and
+processes.
+Role/Responsibilities:
+Attended daily meetings, kept up-to-date on best practices for JavaScript frameworks and
+techniques.
+Developed sub-sites for new products, customer investigation, and coupon discounts.
+Designed and implemented multiple new features in purityproducts.com related to different
+vitamins search and purchase using AJAX, JQuery, CSS3 and HTML5.
+Handled Browser compatibility issues in HTML5, CSS3 and Java Scriptfor IE, Firefox and
+Chrome browsers.
+Implemented JQuery validation plug-in, modified JQuery validation plug-in to support custom
+validation.
+Worked with Developers in UI Integration and defect fixing. Implemented jQuery based
+accordion styles and handled complete jQuery in showing Rich Internet Application (RIA).
+Wrote numerous JavaScript functions for user input validation and verification.
+Design and implemented Vitamin Suggested module that offers to customer suggested products
+after evaluating customer's preference.
+Implemented JQuery validation plug-in, modified JQuery validation plug-in to support custom
+validation.
+Developed sub-sites for new products, customer investigation, and coupon discounts.
+Used Ajax in JSON format for asynchronous request handling and partial refreshing by the user.
+Tested and debugged using JavaScript, Ajax, Servlet, JSP, and jQuery, CSS, HTML and
+SQL.
+Used SQL for Creating, Reading, Updating, Selecting data from MYSQL database.
+Environment: Ajax, JQuery, XML, JDBC, HTML, CSS, JavaScript, Tomcat4.0, Eclipse
+Client: WIPRO, PUNE, India
+April 2011 - Dec 2013
+Role: Software Developer.
+Project 1: Regular Saver
+Regular Saver was the management solution that meets the needs of the customer. The objective of this
+system was to provide the financial planning and budget management solutions on an open source
+platform.
+Role/Responsibilities:
+Designed interactive pages with W3Cstandards.
+Was involved in third party tool integration for barcode scanning and biometric scanning.
+Designed and developed various abstract classes, interfaces, classes to construct the business
+logic
+Analyzed the requirements and designed the flow of task using flow charts and dependently
+designed flow between pages of the UI.
+Created event driven Web Forms using C#.Net and implemented form Validation controls using
+both Custom validation and JavaScript was written for Client side validations and also used the
+new validation.
+Worked with ASP.NET Web Forms, Web Services, and State Management, Caching features,
+configuring optimizations and securing the web application. Developed the Code-behind files in
+C#.NET and VB.NET.
+Been an active team player, helped in fixing bugs and also carried out troubleshooting.
+Converted the mock-ups in to hand-written HTML, CSS and JavaScript code.
+Produced semantically appropriate, standards compliant markup, and produced Rich

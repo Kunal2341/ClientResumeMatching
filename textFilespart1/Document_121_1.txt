@@ -1,0 +1,56 @@
+email: krioux@gmail.com phone: 720 -216-7245
+Ken Rioux
+Goals:
+Work within a tight-knit company
+Network with other capable and talented individuals
+Accomplish amazing things
+Education:
+University of Colorado:
+Engineering at CU. Focus in software architecture.
+Object Oriented Design: advanced design pattern utilization
+Principles of Programming languages: strengths, weaknesses, and choosing the right
+lang. for the job.
+OpenGL Graphics: 3D modelling basics up to creating custom shaders.
+Java classes sponsored by Sun Microsystems based on Calc.2 performance.
+Skills:
+3yrs towards Undergraduate Degree in Computer Science
+Node.js
+Independently building feature rich web applications with node express server and
+various node middleware tools. The forum, project showcase, and picture galleries
+here on kensnote.com are examples. Useful and light-weight, node is extremely
+powerful.
+Backbone.js
+Independently developing re-usable models, displaying them dynamically on the page,
+and tying them into secure database routes on the backend for truly object-oriented
+web page functionality. Please view the forum, project showcase, and picture
+galleries here on kensnote.com for examples.
+MongoDb
+Document based and incredibly flexible yet efficient no -sql database. Used w/ the
+forum, showcase, and pic galleries here on kensnote.com.
+Mongoose
+RESTful interface for MongoDB providing object modeling for node.js. Used with the
+forum, showcase, and pic galleries here on kensnote.com.
+Git versioning
+4+ yrs using git for version management and collaboration control. I utilize this
+every day in various projects including online git servers for remote uploading
+etc.
+Android Programming
+2yrs Java-Android-Linux development w/ OpenGLES 3D graphics support. Touch events,
+social media tie-ins, publishing, keysigning, build scripts, emulators w/o eclipse.
+project showcase
+OpenGL/es2-3
+2 yrs exp. developing graphics rich Android programs with java and user
+interactions. Whack-A-Friend is my 1st 3D game developed with custom opengl.
+Cordova/PhoneGap Development
+2 yrs linux/android development with csS3/jquery/multi-page layouts w/o eclipse.
+RiverMaps is an app developed w/ Cordova (update pending).
+Object Oriented Design
+Design with models from the ground up using cutting edge design patters: MVC
+modeling, UML, class, sequence, activity, state diagrams, use cases, and
+requirements lists.
+Linux/Unix Administration
+Administration of remote Debian VPS servers and local test servers. Configuration,
+maintenance, and automation through shell scripting. - 3yrs
+Twitter-Bootstrap
+Great looking styling components from our friends at twatter, saving quite a lot of
+time while developing UI components and the like. Kensnote forum is styled

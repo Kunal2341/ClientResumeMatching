@@ -1,0 +1,35 @@
+Anusha K
+Sr. Network Engineer
+Phone: 480-630-9319
+Email: anushanetworking384@gmail.com
+CISco
+CERTIFIED
+CISCO
+CERTIFIED
+CCNA
+CCNP
+Created network diagrams under senior supervision using MS VISIO.
+Resolved all computer related problems, monitored and maintained system
+functionality and reliability by identifying ways to prevent system failures.
+Polaris, INDIA
+May 2010 -Sep 2012
+Support Engineer
+Responsibilities:
+Perform responsibilities of supporting the daily operations of the network, telecom
+and troubleshooting network issues.
+Responsible for upgrading the IOS and configuring the new Router and Catalyst
+Switches.
+Designed and installed small Windows XP based LANS for business clients
+Troubleshot and resolved many user issues Performed network testing and base
+lining
+Designed ACLS, VLANS, troubleshooting IP addressing issues and backing up of the
+configurations on switches and routers.
+Implemented Site-to-Site VPNS over the internet utilizing 3DES, AES/AES-256 with
+PIX Firewalls
+Troubleshoot and Worked with Security issues related to PIX firewalls
+Experience with converting Cisco 6500 IOS to Cisco Nexus NX-OS in the data center
+environment.
+Provided testing for network connectivity before and after install/upgrade
+Experience in Cisco switches and routers: Physical cabling, IP addressing, Wide Area
+Network configurations.
+Responsible for creating and maintaining diagrams and documentation of

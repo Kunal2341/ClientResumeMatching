@@ -1,0 +1,42 @@
+BEN WILLIAMS
+Centennial, CO 80111
+Phone: 720-217-1701 | Email: williamsben91@gmail.com
+LinkedIn: https://www.linkedin.com/in/ben-williams-94792a185/ | Github:
+https://github.com/bones2421 | Portfolio:
+https://bones2421.github.io/updatedPortfolio.bones2421.github.io/
+SUMMARY
+Full-Stack web developer looking to assist in designing web pages and back-end servers.
+Passionate about both people and computers. Challenges are preferred. Willing to spend as
+much time as necessary to solve a problem. Will happily go into unfamiliar territory for the
+opportunity to learn. Team experiences are welcome but working solo is good as well.
+Experienced in JavaScript, HTML, CSS, and the full MERN stack. Has built full scale apps that
+mimic social media and weather apps.
+TECHNICAL SKILLS
+Languages: CSS, JavaScript, HTML, MERN Stack
+Applications: Node, React, Hard CSS/HTML
+PROJECTS
+GifTastic | https://github.com/bones2421 | https://bones2421.github.io/GifTastic/
+GiftTastic is an app that allows the user to pull gifs based on buttons or search criteria.
+They can also make and remove buttons.
+Utilize Giphy API to pull data and insert functionality for buttons and search
+Used HTML, CSS, and event listeners in JavaScript
+TriviaGame|https://github.com/bones2421|https://bones2421.github.io/unit-4-
+game.bones2421.github.io/
+An app that will display a quiz before the user. The user will have to answer trivia
+questions within a given time. They will then be given a score at the end.
+Utilize timers in JavaScript with moment.js
+Used HTML, CSS, and JavaScript to provide visuals and functionality
+Word Guess Game | https://lgithub.com/bones2421 | https://bones2421.github.io/Word-
+Guess-Game.bones2421.github.io/
+Hangman game. The user must try and guess the word by using the image and the
+dashes on screen as hints.
+Responsible for setting restrictions so the user would not break the app. Set up
+structure.
+Used HTML, CSS, and JavaScript to play sounds, provide images and make the
+framework
+EXPERIENCE
+Inbound expert at TARGET: July 2018-May 2019
+At Target employees are expected to work across departments, handle a heavy workload, be up
+and active for extended periods of time, and serve customers. For the position of Inbound
+Expert all these things are involved. The focus here is on handling freight, unloading/loading,
+and stocking the shelves. Inbound Experts are in the store before it opens and will usually

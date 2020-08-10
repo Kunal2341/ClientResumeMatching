@@ -1,0 +1,44 @@
+Mohammed Khan
+Sr. Network Engineer
+Phone: 972-483-4896
+mohammedmkhan19@gmail.com
+SUMMARY
+Over 7+ years of Experience in designing, deploying and troubleshooting Network &
+Security infrastructure on routers, switches (L2/L3) & firewalls of various vendor
+equipment.
+Working on Cisco IOS, Junos & NX-OS (7K, 5K&2K).
+Certified Amazon Web Services engineer with 2 years of experience in Cloud
+computing, Infrastructure Solutions and services, Data center virtualization and
+Database Services. Deep technical experience with architecture, design and hands-on
+diverse technology platforms including different Cloud Platforms (AWS/Azure),
+Virtualization, Database Technology.
+Involved in technology transformation from Physical distributed computing to Virtual
+& Cloud based solutions including OPNFV, NFV and SDN
+Worked on Cisco 7200, 3800, 3600, 2800, 2600, 1800 series Routers and
+Cisco 2900, 3500, 4500, 5500, 6500 and Nexus 5K series switches and Sound
+knowledge of Routing and Switching concepts and design. Develops strategies and
+corresponding MOPS's for Data Center migrations from legacy environments to new
+software-defined and automated networking infrastructure
+Troubleshooting & upgrading Avaya IP 500, UC modules, Combo cards, PBX's and
+Digital station 8
+Technology and Infrastructure consultant for Cisco and Juniper design and
+implementation projects. Specific tasks include installations, configurations, support
+and maintenance of routers and switches.
+Experience with design and deployment of MPLS Layer 3 VPN, MPLS Traffic
+Engineering, MPLS QOS
+Diverse industry exposure - Finance, Telecom, and IT consulting Markets.
+IPAM management and varied record keeping for the above, in InfoBlox, SolarWinds,
+& Remedy solutions
+Extensive experience in configuring Layer3 routing and layer2/3 switching of Juniper
+& Cisco based J2320, MX, EX, 2950, 2960, 3600, 3750, 4500, 6500, 1700, 1800, 2600
+and 3700 series routers & Switches.
+Troubleshooting & implementation of Vlan, STP, MSTP, RSTP, PVST, 802.1Q, DTP,
+HSRP, VRRP, GLBP, LACP, PAGP, AAA, TACACS, RADIUS, MD5, VTP & SVI.
+Prepared technical documentation HLD and LLD for file attachment feature.
+Implemented file attachment feature for timeline post
+Acquitted with Cisco Meraki for Cisco Wireless Devices Monitoring, managing and
+troubleshooting Cisco Wireless devices using Cisco Meraki. Configured Aruba Switch
+S3500 & 1200 Complex Stacking topologies. Prior experience in developing Data
+Center application migration strategies
+Hands-on experience with TCP/IP, LANS, WANS, and WLANS (Wi-Fi) Cisco VPN
+Concentrators, F5 Fire pass SSL VPN, 6509 Core Datacenter

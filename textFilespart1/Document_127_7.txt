@@ -1,0 +1,1 @@
+Environment: UNIX, RedHat Satellite Server, NFS, Auto Mount, DNS, Tomcat, NAGIOS4.0, Java,

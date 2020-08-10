@@ -1,0 +1,49 @@
+Leading daylight SD WAN conversion project portion of a 8 person crew on 2800
+branch Viptela over VMware and Cisco network, each site served by Private MPLS /
+Broadband / LTE.
+Determine client requirements from the SOW and provide designs for
+complex Network Solutions including Internet, MPLS- IP VPN, SD-WAN, Broadband,
+and Ethernet.
+Troubleshoots routing issues that may arise in BGP routing protocols, HP switch
+fabric, Cisco routers and switches ( 1OS, IOS- XR, NX-OS), Juniper routers and
+switches (JunOS), and F5 Load Balancers
+> Worked with complex routed IP networks, routers, layer 2/3 switches, firewalls, LAN/
+WAN networking hardware and protocols.
+Designed and implemented MPLS core running VPLS for virtualized server
+infrastructure and eventually integrated into a VXLAN combination. Well-versed in
+Networks routers and switches using, BGP, MPLS, OSPF, VXLAN.
+Configure/troubleshoot Cisco Nexus 7000 series switches for BGP, OSPF, HSRP,
+MPLS, VLAN, VRF, VXLAN, Trunks, STP, xconnect & static routes.
+Verification of Vxlan and Datacenter interconnect use cases for Vxlan, MPLS, RSVP-
+TE, LDP, BGP, OSPF, DHCP, Radius authentication, TCP/IP, Dot1x, Vlan, Lag, access
+protocols, STP for Juniper devices running Junos.
+Experienced in configuring and maintaining Security Policies, NAT policies, IPSEC
+tunnels on various firewalls like Palo Alto, Cisco ASA/ Firepower, Checkpoint firewalls
+and SIEM solutions like LogrRhythm and McAfee
+Implementing VLAN, STP, VTP, 802.1Q, SVI, OSPF, Multicast,
+technologies
+Adding and removing checkpoint firewall policies based on the requirements of
+various project requirements.
+> Deployed Site to Site and Client to Site VPNS utilizing Checkpoint Firewall-1/VPN-1.
+> Migrated previous corporate Checkpoint 4.0 Firewall-1/VPN-1 on Windows NT.
+> Configured and Created wireless sites using the Cisco Meraki System dashboard.
+Implemented site to site VPN on Cisco Meraki MX64, MX65, MC84, and MX400.
+> Implementing Cisco Meraki Wireless network.
+Upgrading Cisco ISE Appliances Company wide. Recently rolled out OpenDNS
+including onsite VM appliances.
+Experienced on Cisco ISE and advanced technologies like QOS, Multicasting, MPLS
+and MPLS-VPN and Bluecoat proxy server SG
+MPLS, VRF, BGP
+Charlotte,
+Syngenta,
+June 2018 -Aug 2019
+Sr. Network Security Engineer
+Responsibilities:
+NC
+Primary responsibility is to design, test and deploy various Network Infrastructure &
+Network Security Products in High Availability Configuration from Vendors such
+Cisco, Juniper, HP Procurve and Palo Alto.
+Migration of Cisco Catalyst, IOS Platforms to Cisco Nexus, and Juniper Platform
+Conversion on Core, distribution & Access layer switches.
+Function as part of a Firewall and Security team in support of Checkpoint Firewalls,
+Zscaler Proxy, Juniper Portals, SecAuth, Open LDAP, and Active

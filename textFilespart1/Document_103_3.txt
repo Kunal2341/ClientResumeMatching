@@ -1,0 +1,58 @@
+Alumni Consulting (Consulted to: Pinnacol Assurance)
+2010
+January 2010 - April
+Contractor
+Began working on the customer service application for Pinnacol.
+Environment: Flash Builder
+February 2009 -
+People Movers (Consulted to: Comcast Media Center)
+November 2009
+Contractor
+Built Administration tools using Flex/AIR/Web services/XML/Cairngorm.
+Built Window popup from tool Menu using Flex/AIR/Web services/XML/Cairngorm.
+Wrote deployment scripts for Flex/AIR application for ANT.
+Environment: Flash Builder
+Robert Half (Consulted to: Sparrow LLC)
+- January 2009
+Contractor
+September 2008
+Built a complex 3D Flash/Flex Menu.
+Used Cairngorm Framework.
+Created RSS Feed reader using Flex and PHP
+Environment: Flash Builder
+Peak 8 Solutions
+July 2008 - September 2008
+Contractor
+Worked with an Adobe AIR application.
+Developed an application with Flex 3 and the SHU library.
+Built automatic Unit Tests by building AIR application without IDE.
+Environment: Flash Builder
+ShareTop
+Flex Interface Architect
+April August 2008 - July 2008
+Created a product named ShareTop has a Flex interface using WebORB, PHP, and MYSQL
+Backend.
+Environment: Flash Builder
+5280 Solutions (Consulted to: National CineMedia)
+April 2008
+Flash Flex Software Architect / Consultant
+November 2007 -
+Apart of the original team to architect the website.
+The website ran on Adobe Flex on the visual layer, WebORB as a middle layer, and
+Microsoft SQL Server 2005 as the database server.
+Also used Cairngorm as a framework inside flex.
+Used C# and .Net for a backend API
+Personally developed two sections for the website, the game section and the chat section.
+The game section showed stats of the user's scores on the games using the Cairngorm
+framework and were displayed in flex. I also developed the games In Flash using
+ActionScript 3.0.
+The chat section used the WebORB Middle layer to communicate with the users. The
+interface was developed in Flex. The chat had voice and video to go with it.
+Environment: Flash Builder
+JM Marketing/QSL Marketing
+Flash architect, Software Engineer and Technical Manager
+May 2004 - 2007
+Created a database Flash Game Engine running on SQL Server and C# backend
+Architected a new system in C# and SQL Server 2005
+Use XP Programming to migrate FoxPro Database to SQL Server 2005 / C#
+Lead a team to setup a new Office in Phoenix

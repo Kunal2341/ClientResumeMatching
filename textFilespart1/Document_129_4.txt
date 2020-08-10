@@ -1,0 +1,50 @@
+Compile a system design procedure proposal that meets every requirement and follows agile
+methodology.
+Implemented application deployment on Apache Tomcat web Server.
+Used SVN for Source Control and Version Management.
+Environment: HTML5, CSS3, Bootstrap 3, AngularJS 1.5, Angular2/4, NodeJS, ReactJS,
+GRUNTJS, AJAX, JSON, Web Services, Agile Methodology, JIRA, GitHub, Bower.
+Client: Logitech, Fremont, CA
+Apr 2015 – Aug 2017
+Role: UI Developer
+Domain: Retail
+Project: Was involved in Development of the UI with SPA Designed architecture of the application.
+Implemented dependency injection container with NInject for TDD. Created IPC layer with Named Pipes.
+Created views controls and animations/transition. Implemented custom effects for presentation such as
+magnifier and spotlight. Implemented inter-process synchronization.
+Role/Responsibilities:
+Involved in Software Development Life Cycle phases like requirements gathering, Analysis,
+Design, Development and Testing.
+Designed and implemented the User Interface using HTML, XHTML, XML, CSS, JSP, AJAX
+Actively involved in using AngularJS, Bootstrap and HTML5 to enable client side date to
+meets specific criteria by applying various validation variable.
+Used JQuery core library functions for the logical implementation part at client side for all the
+applications.
+Worked on command line build tool like Grunt.js, Watchify and performed compilation and
+minification in the application.
+Worked with the browser by virtual DOM and component life cycle like Mounting, Updating and
+Unmounting in ReactJS.
+Developed AJAX based web based UI framework by utilizing jQuery library.
+Used JQuery plug-ins for Drag-and-Drop, Widgets, Menus, User Interface and Forms.
+Used Object Oriented JavaScript to designed dynamic client-side to web forms and simulate
+process for web application.
+Used JS for custom client-side validation and DOM manipulations.
+AJAX/JSON was primarily used for updating the DB with the modified content.
+Developed Date Time Picker using Object Oriented JavaScript extensively.
+Implement jQuery to navigate to different section of the page of the application using DOM
+elements, and create AJAX pages
+Used AJAX and XML to process asynchronous actions between front and back end.
+Involved in responsive web designing using various Bootstrap's classes and Grids
+Demonstrated implementation and up-gradation of JavaScript Library.
+Implemented JQuery validation plug-in, modified JQuery validation plug-in to support custom
+validation.
+Environment: JavaScript, JQuery, CSS3, HTML5, AJAX, Photoshop CC 2015, JSON, Bootstrap,
+ReactJS, JQuery, XML, JSP.
+Client: New York Life Insurance, Tampa, Florida
+Jan 2014 – Mar 2015
+Role: Web UI Developer
+Domain: Insurance
+Project: This project was about developing and redesigning previous application. The old Customer
+Service Website is being replaced with a modern, attractive, SOA-oriented site. It has various parts of the
+functionality to communicate with the backend system through web services. It uses the ACORD
+(Association for Cooperative Operations Research and Development) Life and Annuity

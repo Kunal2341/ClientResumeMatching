@@ -1,0 +1,56 @@
+Microsoft
+CERTIFIED
+aws certified
+Professional
+Informatica- Data ware house is created to analyze faulty alarms. Based on numbers of same type of faulty alarms
+management can take decision to repair/ replace hardware. If same types of faulty alarms are generated for almost all
+customers,
+then
+management can take decision to improve controller respective to that issue. Many types of reports
+like chemical consumption rate, reduction on faulty alarms generation rate etc. are generated for a year. Management
+can analyze chemical consumption history for a specific client.
+Responsibilities:
+Writing stored procedures and SSIS packages which includes a variety of transformations, for example Slowly
+Changing Dimensions, Look up, Aggregate, Derived Column, Conditional Split, Fuzzy Lookup, Multicast and Data
+Conversion.
+Cube creation and writing MDX queries.
+Production support.
+Technologies/ Tools: C#, SQL Server 2008, SSIS, SSAS and SSRS
+Nalco Holdings, IL
+Sr. Application Developer
+Description:
+myNalco.com- It is Nalco's Customer Web Portal. It is developed in SharePoint 2010. After login to myNalco.com
+user can navigate to other Nalco's websites without login again to those sites (single sign on).
+Controllers those are assigned to logged-in user are shown using WCF service as below.
+Assigned legacy controllers of different sites. To know more about legacy controller user can click on controller and
+May 2011 – Dec 2011
+redirected Envision website.
+Assigned next gen controllers of different sites. To configure controller user can click on controller and redirected to
+next gen controller configuration website.
+If user has permission, he/she can be redirected to Nalco Pro website when clicks on link.
+Nalco associates contact details who are working with him/her.
+Responsibilities:
+Integration of WCF service with SharePoint 2010 using BCS.
+Based on user stories analyze, design and prepare SRS and Design documents.
+Client interaction.
+Technologies/ Tools: C#, SharePoint 2010, WCF, ASP.NET, SQL Server 2008
+Sales Partner Systems, FL
+Sr. Application Developer
+Description:
+OASYS-Handheld Device Driver Application and Caravan Control Centre: OASYS Caravan transports provide
+paperless communication, bringing customer service to levels never before experienced in foodservice.
+This system is divided into two applications.
+1. Handheld Device Driver Application has following functionalities
+May 2010 – April 2011
+Automated systems including paperless manifest, invoices, and driver check-in forms reduce costs and eliminate
+hours of costly overtime.
+If internet available driver can update delivery status to CCC.
+Printing of invoices using Handheld printers.
+Provide stop by stop route information to driver. It removes fear of sending new drivers on a route.
+DB Sync process: After delivery driver can upload invoices, vouchers information to CCC.
+2. Caravan Control Centre (CCC)
+It is a .NET web-based application which has following functionalities.
+Route Menu: Route manager manages drivers, trucks, trailers, routes and equipment (Like Tablet PC) assigned to
+drivers.
+Operations Menu: Operations personnel manages forms, invoices, pickup and collection
+o Report Section: Delivery Status report, Routes report, Drivers details report

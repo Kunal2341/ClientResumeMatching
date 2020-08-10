@@ -1,0 +1,63 @@
+Anusha K
+Sr. Network Engineer
+Phone: 480-630-9319
+Email: anushanetworking384@gmail.com
+CISco
+CERTIFIED
+CISCO
+CERTIFIED
+CCNA
+CCNP
+Performed OSPF, BGP, DHCP Profile, HSRP, IPV6, Bundle Ethernet implementation on
+ASR 9K redundant pair.
+Implemented site to site VPN in Juniper SRX as per customer. Worked on Route-
+Reflectors to troubleshoot BGP issues related to customer route prefixes also route
+filtering using Route-maps
+Worked on wild fire advanced malware detection using IPS feature of Palo Alto.
+Worked on Palo Alto design and installation (Application and URL filtering, Threat
+Prevention, Data Filtering)
+Configured rules and maintained Palo Alto Firewalls & analysis of firewall logs using
+various tools.
+Design for Guest Network and Mobile Access Network for NAC Solution, comprising
+of a Wireless LAN Controller solution in DMZS/Internet Gateways with Cisco ISE
+Appliances for NAC.
+Involved in finalizing the design for Corporate Wireless Network Access for NAC
+Solution, comprising of Cisco ISE Appliances in all WAN Consolidation Points, and Data
+Centers.
+Worked on Cisco ISE v2.1, ACS for providing secure network access.
+Configured virtual servers, nodes and load balancing pools on the F5 LTM 6400,
+6800 devices for various medical/biomed applications and their availability
+Experience using Identity Authentication technologies, including Active Directory,
+LDAP, RADIUS TACACS, RSA, 802.1X, NAC, and token-based systems.
+Responsible for Juniper SRX firewall management and operations across our
+corporate networks.
+Design,
+5400/5600Firewalls
+Implementation of Site-to-Site VPNS over the internet using 3DES, AES/AES-256 with
+ASA Firewalls
+and configuring
+of OSPF,
+BGP
+on
+Juniper Routers
+and
+SRX
+Configure various LAN switches such as Cisco catalyst 2900, 3550, 4500, 6509
+switches and Access layer switches such as Cisco 4510, 4948, 4507 switches for VLAN,
+Fast Ether Channel configuration.
+Maintained and created scripts in Python that assisted in pulling in the necessary
+data into Splunk to meet audit and reporting requirements
+Worked on Datacenter Migration project to migrate the existing 6509, 4509 devices
+to a Nexus 7010, 5010 and Nexus 2248 FEX based solution.
+Configured Nexus 2000 Fabric Extender (FEX) which acts as a remote line card
+(module) for the Nexus 5000 to connect servers and storage devices.
+Perform ISSU upgrade on Nexus 7010 devices by operating the supervisors in
+active/standby mode on the devices by determining ISSU compatibility.
+Experience on working scripting languages Power Shell and Perl for code upgrades
+and configurations of devices.
+Testing and Verification of Cisco core routers CRS-1 and GSR-12000
+Experience in migration of VLANS & Configured VLANS with 802.1q tagging, Ether
+channels, and Spanning tree for creating Access/distribution and core layer switching.
+Configured EBGP load balancing and ensured stability of BGP peering interfaces
+Conducted on site QOS testing and prepared reports for the engineering team on
+ways the networks could be

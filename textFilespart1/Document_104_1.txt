@@ -1,0 +1,46 @@
+Syed Saleem Ahmed
+309 W 8th Street, Apartment # 6, Erie, PA-16502
+814-790-1376, saleemahmed460@yahoo.com
+Seeking for the opportunity to work as a Mobile Device Tester that will well utilize my electrical and RF
+engineering skills.
+EDUCATION
+Master of Science, Electrical Engineering
+Gannon University, Erie PA (GPA: 3.84/4)
+Dec 2011
+Bachelor of Technology, Electronics and Communication Engineering
+May 2008
+Jawaharlal Nehru Technological University, Hyderabad, India (GPA: 3.5/4)
+CORE SKILLS
+Good knowledge of 2G, 3G, CDMA, TDMA, GSM and LTE technologies
+Excellent knowledge in fiber optic communications and splicing of fiber optic cable.
+Strong communication and interpersonal skills with good leadership qualities required in a team.
+Supported assistance in solving technical problems in RF engineering.
+Excellent ability to communicate and interpret complex designs to clients.
+Ability to conduct statistical tests to optimize the performance of GSM networks.
+Analysization of drive test data for GSM technology.
+TECHNICAL SKILLS:
+Programming Languages:
+Application Packages:
+Software Applications:
+C
+Ms-PowerPoint, Ms-Word, Ms-Excel, Ms-Outlook
+MATLAB, PSPICE, SIMULINK, CAPTURE-CIS, ORCAD-LAYOUT,
+PLC-SCADA.
+Operating systems:
+Windows, Mac.
+EXPERIENCE:
+RF Drive Tester
+Glow Networks
+April – July 2012
+Tested the signal strength of 4G network of sprint
+Shakedown testing of the network
+Handover testing and reporting the data collected.
+Troubleshooting the UE and collecting data by visiting different sites.
+Lab Assistant
+Gannon University, Erie-PA
+Jan 2010-Dec 2011
+Maintenance of Lab Equipment and Instruments.
+Troubleshoot of mechanical and electrical devices and maintained records of the equipment.
+Producing reports that are generated to the Advisor on bi-weekly basis.
+Lab Assistant
+January-May

@@ -1,0 +1,54 @@
+Microsoft
+CERTIFIED
+aws certified
+Professional
+Hem Chandra
+Rockville, Maryland
+469-436-9015
+manoj@centillioninfotech.com
+OBJECTIVE:
+Lead Developer with more than 15+ years of experience in full-stack development (C#, VB.NET, .Net, ASP.NET,
+ASP.NET MVC, Web API, Angular, AWS, SharePoint, InfoPath, SQL Server, SSIS, SSRS, Web services, WCF, LINQ,
+XML, TFS 2010/13, SVN, VSS, GitHub, Telerik Controls, UML, JQuery and JavaScript) for building various desktop
+and web applications.
+SUMMARY:
+Working experience on ASP.NET, ASP.NET MVC framework, Web API and Entity Framework.
+Working experience on SharePoint 2013 and SharePoint 2010.
+Proficiently learned AWS (Design, Deployment, AWS EC2, S3, Cloud watch, Load balancing & Lambda etc.).
+Understanding of Microsoft Azure Cloud (Design, Deployment, app services, Azure Functions etc.).
+Extensive experience in coding using C# and VB.NET
+Implementation experience of various designs patterns (GOF).
+Involved in Creation, Development and Deployment of SSIS packages in SQL Server.
+Used SQL Profiler for Performance monitor to resolve Dead Locks and long running queries by checking appropriate
+changes to Transaction Isolation levels
+Database Performance of Index tuning with using Database Engine Tuning Advisor to resolve Performance issues.
+Performed and fine-tuned Stored Procedures, SQL Queries and User Defined Functions.
+Extensive experience in developing UML Models using Visio and Rational Rose.
+Practical experience to implement SOA (Service Oriented Architecture: WCF) and Three-tier architecture.
+Methodology: AGILE, Scrum, Test Driven Development.
+Worked as TFS administrator (TFS Server setup, installation, collection creation, build automation, branching &
+merging etc.)
+Vertical/Domain Experience: Travel, Banking, Insurance, Chemical, Water and Energy
+Proficiently learned new technology Angular to meet client need.
+PROFESSIONAL EXPERIENCE
+Maryland Department of Labor
+Lead Developer
+Description:
+Foreclosure System-The Foreclosure Registration System is a web-based application for submission of those
+foreclosure-related notices and registrations that are mandated by Maryland law. System verifies lender companies
+using Nationwide Multistate Licensing System & Registry (NMLS). Application is divided into three sub-systems.
+1. NOI (Notice of Intent to Foreclose): Lender companies can submit NOI to DLLR. Notice is created in pdf and send to
+borrower thorough email as well as by post. User can also upload predefined csv files for bulk submission. SSIS
+package reads and saves data into database. System sends processed NOI status email to user.
+2. NOF (Notice of Foreclosure Filing): Lender submits NOF in the system which creates notice in pdf and sends NOF to
+borrower through email.
+3. FPR (Foreclosed Property Registration): Lender company admin submits property registration of foreclosed property.
+Payment is done by PayPal payment gateway.
+User can access the system by https://www.dllr.state.md.us/ForeclosureSystems/
+Responsibilities:
+Analysis of requirement.
+NMLS and PayPal payment gateway integration.
+Application designing and coding
+Database designing and writing stored procedures.
+Oct 2018 – Present
+Client

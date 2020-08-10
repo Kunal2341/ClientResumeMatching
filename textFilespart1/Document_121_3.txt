@@ -1,0 +1,45 @@
+Desc: On-site catering to customers needs. Repairing hardware and troubleshooting
+software issues while maintaining good customer service.
+Duties: Virus cleanups, hardware diagnostics/ replacements/ upgrades/ setup,
+software troubleshooting and assistance, advising on good methods and practices.
+Maintaining website and other resources to stay current.
+Kula Causes Software Engineer
+2012
+Desc: A fast-paced start-up company with worlwide goals and tight deadlines,
+KulaCauses aims to democratize charitable giving by allowing users to donate to
+over 2 million charities around the world.
+Duties: Worked closely on a small development team to develop web interface for
+selecting and donating to world-wide charities. Complete with a dashboard for
+profile editing, charity favoriting, and viewing transaction history.
+Git versioning control & GitHub for code-review tools
+Zend Framework/PHP: (writing custom controllers, services, layouts, and views)
+jquery & Javascript: triggering events on user interaction (forms, user -input, etc)
+Custom Css frameworks using SASS, Compass, Blueprint, Twitter- Bootstrap, and CsS3 to
+support brand theming.
+SQL Database calls through RESTful Python methods.
+Social media: customizing shares/likes/more (Facebook, Twitter, Google+, ..)
+Insight Design Owner / Operator
+2010 -
+Ongoing
+Desc: Focusing on release of first android-mobile applications since last official
+position. Insight Design is a self-started software company originating in co
+focused on Website design now Mobile applications. Currently two apps on the Google
+Play Market. Expanding capabilities with OpenGLES2.0 support. (3D fun!)
+Duties: Delivering customized web solutions on a contractual basis. Custom android
+application opportunities. Expanding mobile application products and ideas.
+Concepts to Published.
+University of Colorado Student
+2010-2012
+Finishing college in the school of engineering.
+RunPC Computers Store Manager / Head Technician
+2008-2009
+Desc: Servicing, Troubleshooting, Hardware & Software Installation/Assistance,
+Computer Building, and Sales. Emphasis on repairs & custom building of PC
+computers.
+Duties: Multi-tasking while repairing 6+ computers simultaneously. Managing repair
+deadlines while offering technical and sales support for customers on phone and in
+person. Including virus cleanups, hardware diagnosis & replacement, custom builds,
+upgrades, on-site repairs, and home installations. Managed entire store alone at
+least once a week.
+email: krioux@gmail.com Contact / Download
+phone: 720

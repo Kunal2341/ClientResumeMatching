@@ -1,0 +1,56 @@
+Microsoft
+CERTIFIED
+aws certified
+Professional
+Migration of Visual Source Safe (VSS) code repository to TFS.
+Build Automation in TFS server.
+Release Management.
+Implementation of Agile Project Management (Sprint).
+TFS Permission Management.
+Familiarize Agile Methodology to team.
+Technologies/ Tools: SharePoint 2013, C#, SharePoint Designer, InfoPath, Windows Server 2012, VS 2013, Telerik
+controls, Nintex workflow and SQL Server 2008R2, Jira.
+National Institutes of Health (NIH), MD
+Senior Software Developer
+Description
+Teak Search – This project is used to search program officers involved in research of specific science terms and vice
+versa. Admin and management can also view reports like grant reports, science term reports, scientist reports,
+program officer's portfolio etc. SSIS is used to load the data from oracle central database to departmental SQL Server
+database. Once data is loaded to SQL Server, SharePoint crawling is done on it.
+Responsibilities:
+Implementation of SharePoint 2013 search and search API.
+Develop SSIS packages which include a variety of transformations, for example look up, Aggregate, Derived
+Column, Conditional Split, Fuzzy Lookup, Multicast and Data Conversion.
+Writing stored procedures on the database.
+Create SSRS reports to show grants and science related information.
+Technologies/ Tools: SharePoint 2013, C#, SSIS, SSRS, Windows Server 2012, VS 2013 and SQL Server 2012, Jira.
+May 2015 – Dec 2015
+Nalco Holdings, IL
+Business Solution Analyst
+Description:
+Envision- Envision is not only simple web application or portal, it is business centric application. It monitors level of
+chemical tanks by reading alarms send by sensors. Envision sends alerts to customers to order (purchase) chemical
+when tank level reaches to reorder level. User can analyze chemical consumption using trend charts. It shows
+different
+Sep 2012 – Mar 2015
+type
+of alarms send by sensors. Nalco 360 team can take action on those alarms based on parameter values
+like pH etc. Envision also provides to customer highly calculated and automated business proposal for Boilers,
+Cooling Towers and RO and their work flows.
+Responsive Web Design (RWD) concept is used to access it in mobile devices.
+In Envision customers and their billing information are shown after extracting data from SAP and CRM using SSIS
+(package scheduled as job in SQL Agent).
+Responsibilities:
+Based on user stories analyze, design and prepare SRS and Design documents.
+Writing stored procedures and SSIS packages which includes a variety of transformations.
+Managing a team and Client interaction.
+Develop complex components using C#.
+Exposed alarms information in the JSON format using WCF Services (Restful) for other applications like Toolbox
+and Nalco Pro.
+Production support.
+Technologies/ Tools: ASP.NET, ASP.NET MVC, C#, Entity Framework, LINQ, SQL Server 2008, Visio 2010, SSIS,
+SSRS, Ajax, WCF Services (Restful), Telerik Controls and jQuery.
+Nalco Holdings, IL
+Sr. Application Developer
+Description:
+Jan 2012 – Aug

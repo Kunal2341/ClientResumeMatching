@@ -1,0 +1,54 @@
+Priyanka Bhoi
+Senior Web/UI/Frontend Developer
+PROFESSIONAL SUMMARY:
+8+ years of IT experience as a Front-End/Web/UI Developer with actively involvement in
+designing and developing the websites.
+Extensively used HTML, CSS, HTML5, CSS3, Bootstrap, JavaScript, AJAX, JQuery,
+Angular JS & Angular 2/4/5/7, and GruntJS & NodeJS.
+Used Bootstrap for responsive design and worked with JSP templates, NodeJs & Angular
+2/4/5/7.
+Proficient in developing using Angular Forms, Events, Validations, Modules, Factory
+Services, DOM, Expressions, Directives, Controllers, filters.
+Expertise in client scripting language and server scripting languages like JavaScript, jQuery,
+JSON, DOJO, Bootstrap, Node.js, AngularJS, Backbone.js, RequireJS, Action Script, JSF
+and JSP
+Worked on responsive design using media queries, bootstrap and Angular UI bootstrap, etc.
+Developed web applications using AJAX, Object Oriented (00) JavaScript, JSON, JSONP,
+and XML.
+Experience in building Angular 2/4/5/7 components, UI services to consume rest services
+using Component based architecture provided by Angular.
+Implemented Angular 2/4/5/7 component router for navigation, Angular 2/4/5/7 services to
+connect the web application to back-end APIS made use of ES6 features.
+Generated responsive data tables using with Bootstrap grid system.
+Used Nodejs for adding dependencies to project.
+Wrote application level code to interact with backend and consume the JSON by using RXJS
+Observables.
+Extensive experience in Building web applications using JavaScript, JQuery, Angular 2.0/4.0,
+Typescript and used Bootstrap for responsive UI.
+Designed and modified User Interfaces using CSS and Angular.
+Worked closely with business-side clients to deliver attractive, easy-to-understand screens that
+appropriate reflected the company's fulfillment workflow. 3+ Years of experience in created web
+related modifications and changes using Photoshop.
+Experience in designing web pages with menus and paginations using JavaScript and JQuery
+plugins.
+Good understanding of advanced JavaScript libraries and frameworks, such as AngularJS, and
+ReactJS.
+Extensive experience with CSS3 and leveraging best practices, modifications of existing CSS
+files to enhance the user experience.
+Used JSP, HTML, CSS and JavaScript to render the dynamic web pages (presentation layer)
+for the application.
+Experience in cloud stack such as Amazon AWS.
+Performed website optimization and faster page loading using CSS sprites.
+Used JIRA for bug tracking.
+Developed the UI with AngularJS as filters, root scope, custom directives, single page
+applications and templates.
+Responsible for checking cross browser compatibility and have good experience on different
+browsers such as Safari, Google Chrome, Mozilla, Internet Explorer, etc.
+Skilled at writing SQL, Designed Stored procedures, Functions & Triggers.
+Experienced in Design, Development of web-based Applications using Apache Tomcat 7.0.
+Experience in deploying applications on Windows environments.
+Hands on experience with Integrated Development Environments (IDE's) and tools like Eclipse.
+Built and maintained WordPress themes based on a spec sheet provided by the client.
+Strong verbal and written skills. Good problem solving and communication skills. Able to work
+in a diverse environment, shares responsibility for the team's success or failure, and self-
+motivated to contribute towards team/company

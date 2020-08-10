@@ -1,0 +1,46 @@
+Interfaces.
+Coordinate with business and solicit usability requirements.
+Ability to test and debug using developer tools and the console required.
+Involved in developing a user centric market driven site redesign.
+Used JavaScript and JQuery for validating the input given to the user interface.
+Created web content and tested all the websites with multiple browsers, operating systems, and
+screen resolutions.
+Performance tuning by caching the appropriate data objects.
+Developed and maintaining the layouts using CSS for all intranet applications compliant with
+W3C.
+Environment: HTML, XHTML, CSS, DHTML, JavaScript, SQL Server 2008, ADO.NET (3.5/3.0),
+IIS7.0, XAML, WCF, AJAX, MVC 3, Win Forms, Web Forms, Web Services JavaScript, XML,
+XSL/XSLT, HTML, SQL Server 2008/2005, Windows NT, UNIT TESTING, Windows 7
+professional.
+Project2: BASE
+To consolidate Client's HR Services across all the countries in Europe, enterprise wide employee intranet
+portal was introduced for seamless delivery of enterprise content and application to its employees. The
+Portal Application was deployed on Kiosks where employee will be able to raise and track queries/cases.
+Base is used here as the case management tool. Base receives cases from Portal and used by Wipro agents
+to track and monitor resolution of cases. It had J2EE front end, Oracle as Database.
+Role/Responsibilities:
+Built complex desktop - style UI using HTML, CSS, JavaScript and AJAX including
+configuration wizards and interactive reports.
+Developed front-end layout and intro for home page using Fireworks.
+Utilized the mail merge techniques in MS Word for the time reduction in sending certificates.
+Extensively used images of the product for web and catalogue.
+Involved in designing and developing the GUI for the user interface with various controls.
+Developed Web Applications using Web Technologies Interactive Planning for the product
+development.
+Used Flash Animations and Storyboard & User Flows for e-learning tutorials using human
+factor engineering design concepts.
+Implemented business layer using Core java, Spring Beans using dependency injection, spring
+annotations, and Spring MVC components.
+Create wireframes, storyboards, user flows, process flows and site maps to effectively
+communicate interaction and design ideas.
+Create web models or prototypes that include physical, interface, logical, or data models.
+Preparation and review of Unit Test Plan, Unit Testing, Test Results review, and other quality
+relate work.
+Produced visually appealing designs focused on usability, utility, cross-browser compatibility
+with SEO techniques and web standards.
+Experienced in various MVC JavaScript frameworks like Express.js, Node.js.
+Designed and developed the applications which are responsive using Twitter Bootstrap and
+media queries.
+Developed Table Less Layout using CSS, XHTML and used new CSS features like multi-
+column
+Environment:HTML, CSS, JavaScript, JQUERY, AJAX, JSON, XML, Agile,

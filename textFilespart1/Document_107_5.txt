@@ -1,0 +1,59 @@
+In depth knowledge and understanding of the Internet and its design (DNS, Security,
+IP Routing, HTTP/HTTPS, IPSEC, VPN, Email Routing, Virus Protection etc
+Worked on Datacenter Fleet Migration project to migrate the existing 6509, 4509
+devices to a Nexus 7010, 5010 and Nexus 2248 FEX based solution.
+Knowledge on NFV and SDN products, technologies, architectures, and vendors
+Configure VDC on Nexus 7k. Virtual Port Channel (VPC) between 5K and 2K.
+Configured VRF, VRF-Lite.
+Configuring Nexus 2K (FEX) which acts as a remote line card (module) for the Nexus
+5k for the Nexus 5000 to connect servers and storage devices.
+Managed inventory of all network hardware, Management and Monitoring by use of
+SSH, Syslog, SNMP, NTP. Expertise in VolP/UC: Cisco Collaboration(CUCM, CUC,
+IM&P, CUACA, UCCE/UCCX, Expressway, Cisco IOS Gateways, Telepresence
+Prepared technical documentation HLD and LLD for flowchart based workflow.
+> Prepared technical documentation HLD and LLD for file attachment feature.
+Implemented file attachment feature for timeline post.
+Prepared technical documentations HLD and LLD for document repository and
+configurable workflow engine module. Created LAB setup with 7k and 5K NEXUS
+switches and Arista 7K for application testing
+Manage and maintain over 40,000 end users with Cisco video conferencing. Provide
+support
+WebEx, Cisco Jabber, Microsoft Skype for Business and Cisco desktop phones with
+video. Created and tested Cisco router and switching operations using OSPF routing
+protocol, ASA firewalls and MPLS switching for stable VPNS.
+Worked with Cisco Meraki cloud managed architecture to handle wireless, switching,
+security, EMM, all security cameras managed from the web. Implemented VPN &
+troubleshoot into IP-SEC tunnels, GRE Tunnels, SSL-VPN on Cisco, Aruba, Juniper.
+Configured Aruba Switch s3500 & 1200 Complex Stacking topologies. Design and
+setup of Aruba Controllers 531, redundant 7211, 3200, 3400 and 6000 series
+Worked on incorporate Cisco Nexus 9000 NXOS to ACI fabric to work in concert with
+the existing Nexus 7000s and ASRS for MPLS implementation.
+> Function
+Zscaler Proxy, Juniper Portals, SecAuth, Open LDAP, and Active Directory.
+Designed F5 solutions/support and configured virtual servers and associate them
+with pools for internal web servers and Troubleshooting Cisco APs and Meraki
+appliances
+Migrated, created, and managed pools and clusters in F5 BiglP GTM 3DNS load
+balancers across multiple Datacenters.
+Working with Cisco Nexus 2248 Fabric Extender and Nexus 5500 series to provide a
+Flexible Access Solution for datacenter access architecture
+for Cisco Call
+Manager
+10.5.2, Cisco Unity, Cisco TMS
+services,
+part of a Firewall and Security team in support of Checkpoint Firewalls,
+Installed and configured Cisco Meraki (MR66, MR18) wireless Access points in the
+warehouses
+Responsible for Troubleshooting & upgrading Avaya IP 500, UC modules, Combo
+cards, PBX's
+switching and Aruba wireless infrastructure
+Designed the ACI fabric to ensure each tenant/host is secured and has separated
+from other tenants/hosts. Used of L3/L2 outs via common tenants to reduce TCAM
+and RAM utilization.
+and Digital station
+8.
+Performed
+site refreshes
+on Cisco
+Created ACI migration plan (brownfield) create L2/L3 transitions. Map traffic flows
+for EPGS and BDS. Handled drivers for ML2 and GBO OpenStack

@@ -1,0 +1,54 @@
+Environment: AWS, OpenStack, Terraform, Chef, Ansible, OpenShift, Kubernetes, Docker, Jenkins, Maven, Git,
+Python/Shell/Perl/Ruby/PHP Scripts, Linux, ELK, New Relic, VMware, Tomcat Apache, JIRA, web &application servers,
+Networking.
+Role: DevOps Engineer
+Client: HDFC Bank, Hyderabad, India
+April 2015 to December
+2016
+Expertise on Writing Templates for AWS infrastructure as code using Terraform to build staging and production
+environments and for deploying into AWS used automation pipeline tools like Jenkins, Artifactory, Chef and
+Terraform.
+AWS Management Console. Worked with security groups
+Configured Active Directory accounts to single sign-on
+for EC2 instances along with ELB and Roles for Amazon services to interact with each other.
+Migrated MYSQL, ORACLE databases from on-premises to AWS, Created snapshots and Amazon Machine Images of
+EC2 Instances as a part of backups. Configured AWS ELB for providing High-Availability to applications across
+multiple availability zones by performing periodic health checks.
+Experience in Working on Chef with Knife commands to manage Nodes, Cookbooks, Chef Recipes, Chef attributes,
+Chef Templates. Extensively used Ruby scripting on Chef Automation for creating cookbooks comprising all
+resources, Database, templates, attributes.
+Written multiple cookbooks in Chef using Ruby scripting language for various DB configurations to modularize and
+optimize end-product configuration, converting production support scripts to Chef Recipes.
+Configured Ansible control machine and
+playbook to copy and remove files on EC2 instances.
+Created Ansible roles in YAML and defined tasks, variables, files, handlers and templates. Created inventory and
+configured the Ansible files for parallel deployment in Ansible for automating the Continuous delivery process.
+Experienced in Docker, Kubernetes and OpenShift to manage micro services for development of continuous
+integration and continuous delivery.
+Experienced in writing Chef Cookbooks and Recipes to automate our build/deployment process and do an overall
+process improvement to any manual processes and managed servers on AWS cloud platform using chef configuration
+management tools and Server automation with Chef and used tools like Maven for deployment and build management.
+Extensively worked on Puppet apply configuration and developing multiple new puppet modules with heir for all dev,
+and prod environments.
+Administration of Bamboo Implemented a Continuous delivery framework using bamboo chef, Maven in Linux
+Environment. Experienced in migrate project from Bamboo to Jenkins.
+Extensively worked on Jenkins/Hudson, Bamboo and TeamCity for Continuous Integration and strong experience
+with integration of Ant and Maven Build as build tools for the building of deployable artifacts (jar, war & ear) from
+te Ansible playbooks with Ansible roles. Used file module in Ansible
+source code.
+Used Atlassian tools JIRA, Confluence, Bitbucket, Bamboo for defect management, team collaboration, source code
+management and continuous integration and deployment practices.
+Experience with design, configuration and implementation of Nagios and monitored run scripts remotely via Nagios
+Remote Plugin Executor.
+Designed the Branching/Merging strategy for all Lobs and to have unique Build/release strategy across platform.
+Created post commit and pre-push hooks using Python in SVN and GIT repos. Setting up the SVN and GIT
+Jenkins; build jobs.
+Developed Python and Shell scripts for automation of the build and release process. Scripting in multiple languages
+on Bash, Shell scripting, python scripting etc. Wrote automation scripts in shell and python to enhance the CI-CD
+pipeline.
+Installed, monitored and configured Applications in Nginx and Apache Tomcat Server and establish connectivity to
+databases and troubleshoot issues on the fly.
+Involved in setting up JIRA as defect tracking system and configured various workflows, customizations and plugins
+for the JIRA bug/issue tracker.
+Also, as Linux System & Middleware Administrator responsible for the day to day administration and administration of
+RHEL 5, 6/ CentOS which includes installation, testing, tuning, upgrading and loading patches,

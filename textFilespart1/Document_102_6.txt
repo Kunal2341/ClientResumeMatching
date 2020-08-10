@@ -1,0 +1,36 @@
+Microsoft
+CERTIFIED
+aws certified
+Professional
+Oct 2004 – Jun 2005
+Cox & King, UK
+Programmer
+Description:
+INTRAM (Integrated Travel Management) - It is window-based project designed for travel agents for office
+operations (accounting operations). It is integrated with the front office operations. It supports hard closing and soft
+closing of the financial year. INTRAM not only generates the common reports like day books, ledgers, statements,
+trail balance, balance sheet but also very specific management MIS, clients MIS, Financial MIS, Airline MIS reports.
+Responsibilities:
+Coding and testing
+Handle Admin section that involves concept of retrieving traveller information from downloaded "AT" files and put
+the details into the SQL database.
+Sakshym services, India
+Programmer
+Description:
+Logodisplaycase - This system supports online store of display cases like boxing display cases, glass display cases,
+golf display cases, football logo case, and hockey logo case. The project is divided into two sections User section and
+Admin section. The user section contains features like order placing form, shopping basket, and registration form etc.
+Admin section provides complete management of application that includes management of database and stock. Admin
+section tracks balance between demand and supply, regular updating units prices, product info.
+Responsibilities:
+Coding and testing
+Technologies/ Tools: ASP.NET using VB.NET, SQL Server 2000, Java script.
+Feb 2003 – Sep 2004
+EDUCATION & CERTIFICATION
+Master's in computer applications, VBS Purvanchal University, India
+Bachelor's in science, University of Allahabad, India
+Microsoft Technology Specialist (MCTS) in WCF (For more information visit https://mcp.microsoft.com/anonymous/
+transcript/validate and use Transcript ID "909880" and Access Code "hemchandra" to access the information)
+AWS Certified Solutions Architect – Associate ( For more information visit
+https://www.certmetrics.com/amazon/public/transcript.aspx?transcript=01RPL6WKC2VEQOC4 )
+(Hem

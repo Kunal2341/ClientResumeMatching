@@ -1,0 +1,51 @@
+Anusha K
+Sr. Network Engineer
+Phone: 480-630-9319
+Email: anushanetworking384@gmail.com
+CISco
+CERTIFIED
+CISCO
+CERTIFIED
+CCNA
+CCNP
+Experience in migration from Cisco infrastructure to Juniper MX routers and switches
+such as EX and QFX-3500, QFX-5100
+Implement changes to the firewall rule base, network routing tables and ACL to
+allow only authorized users to access the servers.
+Created security policy according to user's requirement in Cisco ASA-5580, Juniper-
+SRX-5800 and ISG-1000 Fire-wall using CLI & GUI.
+Experience working with Cisco Nexus 2148 Fabric Extender and Nexus 5000 series
+to provide a Flexible Access Solution for a data center access architecture
+Installed Juniper firewalls to replace existing Firewalls which increased network
+uptime.
+Experience in Layer 3 Routing protocol configurations: EIGRP, OSPF, BGP.
+Worked as senior engineer with Avaya System PHI migration, merging Voicemail
+system, custom dial planning.
+Designed and deploy various network security & High Availability products like
+Cisco ASA other security products
+Coordinate and perform VPN Lan2Lan as well as Remote VPN and Firewall security
+policies as well as NAT Configurations.
+Implemented Security policy by Configuring PIX firewalls.
+Office Depot, Boca Raton, FL
+Nov 2012 - Aug 2013
+Network Engineer
+Responsibilities:
+Develop and implement strategies to support the current and future needs of the
+company.
+Configured Cisco 2600/3600/7200 series routers using RIP, OSPF, EIGRP and tested
+authentication.
+Worked extensively on Checkpoint firewalls for analyzing firewall change requests
+and implementing changes into existing firewall policies, maintaining security
+standards
+Troubleshooting complex Checkpoint issues, Site-to-Site VPN related. Performed
+upgrades for all IP series firewalls from R75-R77.
+Migrated the rules from Checkpoint firewalls to ASA firewalls
+Identifying technical problems and debugged hardware and software related
+to LANS/ WAI
+Implemented redundancy in Big IP F5 loads balancers to provide uninterrupted
+services to clients.
+Implementing and configuring F5 LTM for VIP and Virtual servers as per business
+needs.
+Switching related tasks included implementing VLAN S, VTP and configuring ISL
+trunk on Fast - Ethernet channel between switches.
+Configured and implemented Nexus 5K and 2K in lab

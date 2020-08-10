@@ -1,0 +1,57 @@
+Microsoft
+CERTIFIED
+aws certified
+Professional
+Helping team to resolve technical issues.
+Technologies/Tools: C#, ASP.NET, SSIS, TFS, Aspose and SQL Server 2012
+National Institutes of Health (NIH), MD
+Lead Developer
+Description:
+Event Management site- NIBIB staff need a way to manage registration of speakers and attendees for conferences that
+they host. The site accommodates registration of conference participants internal to NIBIB, other ICs, federal
+agencies, and external to the federal space. The site is generic enough that it is used by all NIBIB departments,
+offices, and labs as appropriate. Staffs who have rights can create event with proper dates. Those events are shown in
+public landing page. When user hits registration button in event then system asks for sign in or signup. Once user
+sign in they can do event registration. After registration end date Event Creator can generate reports like total no of
+attendees with accommodation, total no of walking attendees, total no of attendee's order for lunch, total no of
+attendees going to attend all session etc.
+Responsibilities:
+Analysis of requirement.
+Application designing and coding
+Database designing and writing stored procedures.
+Helping team to resolve technical issues.
+May 2018 – Sep 7 2018
+Client interaction
+Technologies/ Tools: C#, Web API, HTML, Angular5 and SQL Server 2012
+National Institutes of Health (NIH), MD
+Lead Developer
+Description:
+Grant Management System- This system is divided into three sub systems Grant assignment to Program officers (PO),
+Study section and council coversheet. Grant data is imported from CIT main oracle database server to department
+local SQL server. Based on PO experience Program Director assigns grants to PO. Program officers invite relevant
+officers for study section. Based on study section Program officers create council coversheets with recommendation.
+Those council coversheets are presented by Program officers in council meeting for taking decision to award grants.
+Documents versions are managed using SharePoint.
+Responsibilities:
+Designing, coding and managing modules of the application
+Develop SSIS packages which include a variety of transformations, for example look up, Aggregate, Derived
+Column, Conditional Split and Data Conversion.
+Writing stored procedures.
+Helping team to resolve technical issues.
+Production Support.
+Technologies/ Tools: ASP.net MVC 5, Visual Studios 2013, Aspose, jQuery, SharePoint 2013, C#, SSIS, Windows
+Server 2012 and SQL Server 2012, Jira.
+Nov 2016 – Apr 2018
+National Institutes of Health (NIH)
+Senior Software Developer
+Description:
+Electronic Assignment- This project is used to assign document to reviewer and track the status of documents
+assigned to reviewers. There are two types of assignments sequential and parallel. In sequential assignment document
+is assigned to next level after approval from previous level. In case of parallel assignment document is assigned to all
+at the same time. If document is approved by all reviewers, then it is considered as approved document. Application
+stores reviewers list i.e. routing based on document category.
+Responsibilities:
+MD Jan 2016 – Oct 2016
+Implementation of work flow for business processes.
+Customization using Web Parts (using SharePoint object model).
+Team Foundation Server (TFS) setup (advance installation) and configuration in Windows Server

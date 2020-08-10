@@ -1,0 +1,52 @@
+VENKAΤΑ Α
+Sr. Cloud / DevOps Engineer
+amazon Certified
+I webservices
+609-917-9483
+venkatadevops9016@gmail.com
+Developer - Associate
+Professional summary:
+Sr. Cloud & DevOps professional 7+ years of IT Experience as Cloud/DevOps Engineer comprising of Linux and System
+Administration with major focus on AWS, Azure, OpenStack, Continuous Integration, Continuous Deployment, Configuration
+Management, Build/release Engineer and Linux Systems Administrator with expertise in Private, Public and
+Hybrid Cloud platforms along with using various tools like Docker, Kubernetes, Ansible, OpenShift, Chef, Jenkins, Git, Maven.
+Experience in AWS Services EC2, IAM, Subnets, VPC, Cloud Formation, AMI, S3, SNS, SES, RedShift,
+CloudWatch, SQS, Route53, CloudTrail, Lambda, Kinesis and RDS and obtaining High Availability and Fault
+Tolerance for AWS EC2 instances utilizing the services like Elastic IP, EBS and ELB.
+Experience in AWS Cloud Formation templates to create customized VPC's, subnets and NAT to ensure successful
+deployment of Web applications, also expertise in AWS server less compute service Lambda and used AWS lambda to
+trigger changes in data shifts and action by users and run the code in the Postgres DB.
+Experience in Converting existing Terraform modules that had version conflicts to utilize CloudFormation
+templates during deployments, worked with Terraform to create stacks in AWS, and updated the Terraform scripts
+based on the requirement on regular basis.
+Experience in integrating Terraform with Ansible, Packer to create and Version the AWS Infrastructure, designing,
+automating, implementing and sustainment of Amazon machine images (AMI) across the AWS Cloud environment.
+Excellent knowledge in Azure compute services, Azure Web apps, Azure Data Factory & Storage, Azure Media &
+Content delivery, Azure Networking, Azure Hybrid Integration, and Azure Identity & Access Management.
+Experience in Azure IaaS, PaaS, Provisioning VM's, Virtual Hard disks, Virtual Networks, Deploying Web Apps and
+creating Web-Jobs, Azure Cosmos DB, Active Directory, Azure Windows server, Microsoft SQL Server, Microsoft
+Visual Studio, Windows PowerShell, Cloud infrastructure.
+Experience in cloud automation and orchestration framework using AWS, Azure and OpenStack. Implemented
+multi-tier application provisioning in OpenStack cloud, integrating it with PUPPET, migrating the application using
+MAVEN as build tool.
+Experience with setting up Chef Infrastructure, bootstrapping nodes, creating, and uploading recipes, node
+convergence in Chef SCM used Chef for server provisioning and infrastructure automation, release automation and
+deployment automation, Configure files, commands, and packages.
+Experience in Ansible setup, managing hosts file, using YAML, authoring various playbooks and custom modules
+with Ansible and worked on Ansible Playbooks to automate in AWS services like Launching EC2, Provisioning IAM,
+Configuring VPC, EBS, Monitoring using CloudWatch and CloudTrail.
+Hands on experience with puppet manifests for deployment and automation and have integrated Puppet with Jenkins
+to fully deploy on to a Jenkins server to provide with continuous deployment and testing to automate deployment of
+infrastructure.
+Experienced in working with the OpenShift Enterprise which allows developers to quickly develop, host and scale
+applications in a self-manage cloud environment, also worked on the Deployment, Configuration, Monitoring and
+Maintenance of OpenShift Container Platform.
+Experience in using Docker including Docker Hub, Docker Engine, Docker images, Docker compose, Docker swarm,
+and Docker Registry and used containerization to make our applications platform to be consistent flexible when they
+are moved into different environments.
+Experience in deploying Kubernetes Cluster on AWS and Azure cloud environments with master architecture and
+wrote many YAML files to create many services like pods, deployments, auto-scaling, load balancers, labels, health
+checks, Namespaces, Config Map etc.
+Experience in integrating Jenkins with various tools like Maven (Build tool), Git (Repository), SonarQube (code
+verification), Nexus (Artifactory) and implementing CI/CD automation for creating Jenkins pipelines
+programmatically architecting Jenkins

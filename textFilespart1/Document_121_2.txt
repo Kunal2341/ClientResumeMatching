@@ -1,0 +1,57 @@
+with this.
+Java
+5+ yrs exp. using the very flexible and 00-oriented language. Most recently used
+with creating 3D OpenGL/Android apps; Whack-A -Friend for example.
+CSS/3
+Strong exp. w/no-table design. Separation of style and content, nesting, and
+inheritance, transitions, animations, and more. This resume contains no tables and
+contains mulitiple css style variations.
+Apache/2
+Many yrs exp. setting up and configuring multiple virtual hosts, secure public
+hosting, .htaccess, redirects, mods, SSL certificates, and more.
+Javascript Development
+4 yrs exp. event handling, dom parsing, and general js development where needed.
+Custom ajax handling before ajax was widespread. More recently numerous JS
+languages: Backbone.js, Underscore.js, Express.js, Node.js, and debuggers such as
+Firebug.
+jQuery flavors
+5+ yrs exp using various jquery tools: jQuery, jQuery-mobile, jQuery-ui Used jq-
+mobile to design RiverMaps, an android cordova html5 mobile app (update pending).
+sass
+Css preprocessor that attempts to consolidate cross-browser and backwards -
+compatibility among websites and provides variables and functions within css. This
+resume is powered by it.
+Compass / Blueprint
+useful functions and "mixins" for consolidating csS3 features. Sprites, shadows,
+transitions, grid layouts, sprite tools, and more. View this resume.
+Relational Databases
+MYSQL | sqlite | postgres
+5+ yrs exp. w/ mid-to-advanced db querying, table joins, complex rules used in
+various web apps.
+Graphics Editing
+Familiarity with most graphic programs including Photoshop and Illustrator or the
+open-source GIMP for image edits. I try to leave the "designing" to the real
+artists but I can get around no problems.
+Social Media
+Tie-in of Twitter and Facebook 0auth for shares/feeds etc
+Google Maps
+exp designing attractive product interfaces alongside google maps jsv3 to output
+visually stunning products. RiverMaps uses a custom gmaps interface.
+Google Play
+-2 yrs exp. publishing, placing, and organizing applications on Google Play store.
+LAMP Stack
+7+ yrs exp. developing with and configuring Linux, Apache, MYSQL, Perl/PHP/Python
+servers (mainly PHP).
+PHP
+Convenient scripting language if secure. Sessions, authentication, cookie handlers,
+reusable custom web apps, services behind SSL, managing dynamic data, MVC
+frameworks like Zend, etc.
+C| C++ | C#
+Exp. designing and creating various functions and usable programs developed in C.
+(Recently a little rusty)
+Computer Repair/Hardware
+10+ yrs exp. building/maintaining/backing-up/upgrading/and repairing PC computers
+in professional business environments as well as independently. Virus cleanups and
+streamlining as well.
+Work History:
+Insight Repair llc Owner /

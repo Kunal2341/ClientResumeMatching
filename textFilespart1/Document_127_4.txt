@@ -1,0 +1,53 @@
+Role: Sr. Cloud & AWS Engineer
+Client: Capital One, VA, USA
+January 2017 to March
+2018
+Created AWS CloudFormation Templates to create custom-sized VPC, subnets, EC2 instances, ELB, security
+groups. Managed other AWS Services like S3, Cloud Front, Cloud Watch, RDS, Kinesis, Redshift Cluster, Route53,
+SNS, SQS, Cloud Trail.
+Implemented AWS solutions using S3, RDS, EBS, Elastic Load Balancer, and Auto-scaling groups, Optimized
+volumes and EC2 instances and Using Jenkins AWS Code Deploy plugin to deploy to AWS.
+Worked with AWS CLI and AWS API to manage resources on AWS for many services such as EC2, S3, VPC, Cloud
+Watch, ELB, Auto-scaling, created python script using AWS API Calls to manage all resources deployed on AWs.
+Adding Compute nodes into OpenStack cloud platform. Responsible for supporting and maintaining OpenStack in a
+production environment.
+Troubleshooted lifecycle services within the OpenStack including log files, message queues, database, Compute
+hardware, and network connectivity.
+Created custom machine images and automation tools like Chef/Ansible using Terraform along with packer to install
+software's after the infrastructure is provisioned.
+Involved in working with Terraform to bring up a count of 'container instances' or 'nodes' in an AWS ECS cluster
+with different instances running on each one.
+Experience with setting up Chef Infra, bootstrapping nodes, creating and uploading recipes, node convergence in Chef
+SCM.
+Created Chef Cookbooks and wrote recipes in Ruby Script to install and configured Infrastructure across
+environments and automated the process using Python Script.
+Installed and Implemented Ansible configuration management system. Used Ansible to manage Web applications,
+Environments configuration Files, Users, Mount points and Packages.
+Configured EC2 Instances for RedHat OpenShift nodes with EBS block storage for persistent volumes, and S3
+buckets for OpenShift registries along with snapshots for backups.
+Deployed OpenShift Enterprise v3.4/3.6 on RedHat 7 environment and integration with private Docker Registry.
+Experience with Container based deployments using Docker, working with Docker images, Docker Hub and Docker-
+registries and Kubernetes.
+Developed procedures to unify streamline and automate applications development and deployment procedures with
+Linux container technology using Docker swarm and Docker compose.
+Worked on implementing microservices on Kubernetes Cluster and Configured Operators on Kubernetes applications
+and all its components, such as Deployments, Config Maps, Secrets and Services.
+Configured and administered Jenkins for automated builds and Responsible for installing Jenkins master and slave
+nodes and maintenance of build pipeline.
+Configuration of various plugins for Jenkins for automation of the workflow and to optimize and smooth running of
+build jobs.
+Managed Git repository, code merging, production deployments and analyzed and resolved conflicts related to merging
+of source code for Git.
+Worked with MAVEN as a build tools on java projects for the development of build artifacts on the source code.
+Maintained build related scripts developed in shell for Maven builds, created and modified build configuration files
+including POM.xml.
+Responsible for log monitoring, auditing and enforcement of policies using New Relic Monitoring AWS Instances
+regularly using ops view and New Relic tools.
+Configuring and managing ELK stack, setup the elastic search ELK Stack to collect search and analyze log files from
+across the servers and integration of Application with monitoring tool New Relic for complete insight and proactive
+monitoring.
+Created Python scripts to totally automate AWS services which includes web servers, ELB, CloudFront distribution,
+database, EC2 and database security groups, S3 bucket and application configuration, this script creates stacks, single
+servers, or joins web servers to stacks.
+Experience in administering and maintaining Linux servers in production environments. Supported in the installation of
+packages/patches on Linux platforms. Implemented Backup & Disaster recovery management on Linux

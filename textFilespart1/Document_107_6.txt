@@ -1,0 +1,49 @@
+> Lead redactor for the writing of the LLD : production network, non-production
+network, administration and backup network, OOB network, LAN campus
+Worked on Configuration of VLAN, VRF, VX-LAN, VPC, on Nexus devices.
+Configuring OSPF and Static routing on Juniper M and MX series Routers in data
+center environment. Configuring Layer 2 switching protocols and deployment of
+Juniper EX sand QFX series switches in data center environment.
+DNS: Added and modified new Static or DHCP IP addresses in IPAM for devices.
+> Configuration & troubleshooting of routing protocols: MP-BGP, OSPF, LDP, EIGRP,
+BGP v4 by using troubleshooting tools like packet analyzers
+> Public internet connectivity using BGP. Redesigned the BGP configuration in the ASR
+9010 platforms to make it more efficient and redundant. Instituted non-stop routing,
+non-stop forwarding, and dual supervisor engine redundancy.
+> Experience with manipulating various BGP attributes such as Local Preference, MED,
+Extended Communities, Route-Reflector clusters, Route-maps and route policy
+implementation.
+Load Balancing solutions by employing Citrix NetScalar Load Balancers.
+> Experienced on configuring Server nodes, Server-pools, VIP's, SSL termination,
+Persistence, SNAT across Citrix NetScalar Load Balancers
+> Experience with configuring Cisco 6500 VsS in Distribution layer of the Data center
+network
+Involved in moving data center from one location to another location, from 6500
+based data center to Nexus based data center.
+Experience with Resolving Incident tickets and Day to Day Activities like
+Certificates, New VIP's, Etc across NetScalar. Testing, upgrade BIOS OS of Fortinet
+Firewall system. dataDesign, implementation and operational support of
+routing/switching protocols in complex environments including BGP, OSPF, EIGRP,
+Spanning Tree, 802.1q, etc.
+Performing troubleshooting on slow network connectivity issues, routing issues that
+involves OSPF, BGP and identifying the Root Cause Analysis of the issues.
+Deploying and decommissioning of Cisco Routers, Cisco switches and their
+respective software upgrades. Manage SolarWinds NPM, WPM and IPMon monitoring
+services and nodes.
+Performed OSPF, BGP, DHCP Profile, HSRP, IPV6, Bundle Ethernet implementation on
+ASR 9K redundant pair. Managed DHCP, DNS and IP address thru Infoblox, and
+Admin for Internet sites access thru Zscaler.
+Hands on Experience working on NextGen Firewalls such as Cisco ASA with
+Firepower (5585) and Palo Alto (5050). Experience with SDN/NFV technologies
+including Open Stack Neutron, VM ware NSX, Open flow, Open daylight, Open v
+Switch, Open Contrail, or Cisco ACI.
+Configured Cisco ISE tunnels with Fortinet to enable secure transport and cloud
+based/site-site VPN to AWS. New Fortinet firewall implementation, Traffic Migration
+and Upgrade Software of existing Firewalls per LLD, Testing, upgrade BIOS OS of
+Fortinet Firewall system
+Cisco Firesight management tool to manage Cisco ASA with firepower, Firepower
+appliances.
+Refining IPS Policy and Creating Rules as per the Security Standard on Cisco
+Sourcefire IPS.
+Perform firewall administration adding, updating and troubleshooting as per
+requirement rules/policies on Palo Alto 5050 & Cisco ASA 5555,
