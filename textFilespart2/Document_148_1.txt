@@ -1,0 +1,47 @@
+PALLAVI JAWA
+Sr.Software Engineer
+Pallavi.jawa87@gmail.com
+Pallavi Jawa
+Email
+ISTOB
+Certified Tester
+Foundation Level
+Pallavi.jawa87@gmail.com
+Phone :
++1(416)358-1182
+Profile Summary
+Quality Analyst with 8+ years of experience in ETL Testing, Application testing, Automation
+testing and exposure in all phases of STLC including analysis, design, testing of software system
+* An ISTQB certified Software Quality Assurance Professional
+* Holding Canada PR - UCI: 11-1327-6733 App No.:
+E001420646 Document no.:
+T603106854
+Methodology: Currently working in Agile Methodology (Scrum/Sprints) and in-depth
+experience with Waterfall methodology (SDLC)
+* Domain/Forte: Experienced in Retail, Banking, Finance and Insurance domain.
+* Deliverables: Strong Experience in creation of Test Strategy, Test Scenario, Test Plan &
+Closure documents for the respective project/program
+Daily Huddles: Solid experience in managing the Daily Defect Triage meetings (using HP
+ALM, JIRA) to triage the defects.
+Testing Experience: In-Depth exposure and experience in Migration, Functional, Integration,
+Database, ETL Testing, Regression, E2E.
+Strong Experience in Automation testing using Selenium (TestNG, Maven, POM) with Java.
+Project Management: Collaborative Team Member with strong Team building/Coaching
+skills
+* Rewards & Recognitions: Received various accolades in all the assignments worked till date
+* Professional Growth/Roadmap: Diligently/Continuously working on upgrading the Technical
+Competency to sustain the career growth and help employer in achieving the common org goal
+TECHNICAL SKILLS
+Methodology: Agile(scrum) & Waterfall
+Defect Management Tools: HP ALM, JIRA, Microsoft Test Manager
+Automation Tools: Selenium Web Driver, TestNG and Page Objects Model, Informatica9.1
+(Designer, Workflow Manager, Workflow Monitor and Server Manager).
+Languages: Java, Unix HTML, SQL
+Databases: Oracle10g, SQL Server, My SQL, DB2
+Project Management Tools: MS Project
+Platforms: Windows XP/10, UNIX
+EDUCATION & COMPETENCY
+Bachelor of Engineering: Computer Science – MD University
+ISTQB - INTERNATIONAL SOFTWARE TESTING QUALIFICATIONS BOARD (2012)
+SUN CERTIFIED JAVA PROFESSIONAL – SCJP (2010)
+CERTIFIED NCFM DEPOSITORIES MODULE

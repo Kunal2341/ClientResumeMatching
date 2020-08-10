@@ -1,0 +1,49 @@
+Surbhi Vishwakarma
+Certified Network Engineer
+(405)649-0570
+Surkarma1193@gmail.com
+Swap the faculty module on the Orlando Spine switches.
+• F5 Load Balancer, creating new VIP, upgrades the F5-BIG-IP-LTM/APM to 12.1.3.3.
+Updated the SSL certificates on F5-BIG-IP-LTM/APM and checking the Network health
+and map periodically.
+Deployed and configured Cisco/Aruba Wireless LAN Hardware products including but
+not limited to Wireless Controllers, Wireless Access Points, and Wireless Client
+hardware.
+• Hands on experience with Aruba 7200, 3600 series wireless controllers.
+Responsible in troubleshooting on Cisco ISE added new devices on network based
+on policies on ISE.
+• Configured and performed software upgrades on Cisco Wireless LAN Controllers
+2504, 4404 ,5508 for Wireless Network Access Control integration with Cisco ISE.
+• Network AMDB was used for maintain the records of the devices, so timely updating
+the AMDB with decommissioning or adding of the new device to the environment.
+• Adding the SevOne tag to the devices periodically.
+Adding configuration changes to the Juniper devices, like adding or removal of
+VLANS or decommissioning the ports.
+Experienced on Cisco ISE and advanced technologies like QOS, Multicasting, MPLS
+and MPLS-VPN and Bluecoat proxy server SG
+Performing URL filtering and content filtering by adding URL's in Bluecoat Proxy
+SG's
+Solera Holdings, Westlake, TX
+Jul 2018 - March 2019
+Network Engineer
+Responsibilities:
+Responsibilities include designing, implementing, configuring, testing and
+monitoring the Datacenter network segmentation and migration projects.
+• Successfully implemented the datacenter segmentation project with 7K, 5K and 2K
+Cisco Nexus architecture, ISR and ASR 1001, 1004, 1006 series routers, F5 BIGIP
+4000s and 7200v load balancers and Palo Alto Pa-5000/3000 series firewalls.
+• Hands-on experience working with Nexus core 7010, 7706, 5500 and 5600 series
+switches and 2000 series Fabric Extenders.
+Implemented Virtual port channels (VPC), layer 2 routing "Fabricpath", Policy based
+routing and private Vlans.
+Experience configuring VPC, VDC, Fabricpath, ACL and ISSU software upgrade in
+Nexus 7706.
+• Deployed Nexus 7706 series core switches, 56128p distribution switches, 2348UPQ
+FEX, Cisco catalyst switches like 3850, 4507R+E and 4500X series switches and
+ISR and ASR 1001X, 1002X and 1004X series routers into the existing datacenter
+network for completion of segmentation project.
+• Successfully implemented segmentation of networks in 15 different remote sites.
+Experience in carrying out the Disaster recovery exercises to ensure the reliability
+of the Recovery point systems.
+Implement Cisco Prime Infrastructure and APIC-EM solution for network
+management and

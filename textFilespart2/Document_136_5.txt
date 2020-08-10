@@ -1,0 +1,57 @@
+Automation Analyst - Integration
+Name of Company
+Type of Company
+Period
+Department
+SANLAM
+Financial Services
+September 2013 - September 2015
+Sanlam Employee Benefits
+As a senior automation / Test engineer responsible for implementing an automation
+test suite for the STEP system.
+Proof of concept to motivate for purchasing of the automation tool
+Responsible for automation script execution
+Responsible for regression testing and conducting complex functional manual testing
+Responsible for scheduling and facilitating performance test and exploratory sessions
+Extensive use of SQL
+Compiling test strategies for management.
+Liaising with internal auditors and compiling test reports for auditors.
+Mediating between the development team and test team.
+Updating management on automation progress on a weekly basis
+Information gathering using the following techniques :
+Interviewing of internal stakeholders to elicit requirements
+Observations of daily work-flow processes for the STEP system
+Interface analysis of As-Is process model
+Stakeholder analysis in that liaising with various stakeholders to understand and
+document current business processes, document priorities.
+Documenting the requirements gathered during information gathering sessions.
+Translating requirements gathered into design.
+Projects
+SEB Straight Through Electronic Processing
+Senior Test Engineer - Analysis and Testing
+Name of Company
+Type of Company
+Period
+Product Build
+CSG International
+Telecommunications
+23 May 2011 - 30 August 2013
+Optimized Routing
+Acting Test Lead for 6 Months
+Extensive use of SQL, Linux where necessary
+Responsible for conducting functional, non-functional and regression testing
+Testing of aggregated data with a good understanding of star-schemas a fact
+tables
+Responsible for compiling test summary reports for management
+Strictly adhering to testing best practices and implementing best practices
+Responsible for Package certification and release management of patches
+Using SOAP UI for API Testing
+QC ALM
+Reviewing and reworking of requirements definition for deriving test cases
+Eliciting requirements using various techniques
+Producing of mock-ups using prototypes
+Conducting document analysis of As-Is and integrated modules
+Conducting impact analysis with the developer and reviewing process flow
+Business Intelligence
+5
+КА

@@ -1,0 +1,58 @@
+Successfully installed Palo Alto PA-3060 firewall then configured and troubleshot using CLI and
+worked with Panorama management tool to manage all Palo Alto firewall and network from
+central location.
+Worked
+with
+Palo
+Alto
+firewalls using Panorama
+servers,
+performing changes
+to
+monitor/block/allow the traffic on the firewall.
+Experience with devices Palo Alto Network firewalls such as security NAT, Threat prevention
+URL filtering.
+Good understanding with network based F5 Load balancers with software module & Checkpoint.
+Used the panorama interface to control the Palo Alto firewall's centrally.
+Experience in setting up the feature of Palo Alto 5020 to enabling security measures like Site to
+Site VPN's, Dynamic Access List, Fraudulence entries, Monitoring Nodes.
+Worked extensively on Checkpoint firewalls for analyzing firewall change requests and
+implementing changes into existing firewall policies, maintaining security standards
+Troubleshooting complex Checkpoint issues, Site-to-Site VPN related. Performed upgrades for all
+IP series firewalls from R75-R77.
+Migrated the rules from Checkpoint firewalls to ASA firewalls
+Refreshed Data Center Core Switches from N7010 to N7710.
+Provide after-hours on-call support on a recurring basis.
+Configured and deployed VDC and VPC between Nexus 7710 and Nexus 5548 switches along
+with FEX 2248. Have a good understanding of Fabric Path
+Deploying and decommissioning the VLANS on core ASR 9K, Nexus 7K, 5K and its downstream
+devices.
+Creating object, groups, updating access-lists on Check Point Firewall, apply static, hide NAT
+using smart dashboards.
+Responsible for Designing & Implementations of Data Center /ACI solutions/ Virtualization
+solutions like EAP using Cisco ACI, Nexus 9k/7k/5k/2k/1k.Design Cisco Data Center
+/Application Rollouts with ACE, FWSM, & ASA.
+Worked on Cisco's Application Centric Infrastructure (ACI) implementation (Nexus 9K, APIC) and
+Created Tenants, Bridge Domains, EPGS, Contracts, Leaf Profiles, Interface Profiles.
+Creating Network Design in MS-Visio for new servers, application to be placed into multiple
+Datacenter.
+Designing and Configuration of Multi-Context Transparent/Routed Clusters of ASAS (Cisco
+5555x, 5585) in manufacturing and data center environment.
+Responsible for routine firewall permission rules configuration, troubleshooting using packet
+captures and packet tracer through CLI, ASDM and CSM.
+Firewall traffic flow Investigation and Remediation task through regular expression strings on
+SPLUNK 6.5.3.
+Configuring Web security access policies, Identity Profiles, Allowed/Block Domains List, CLI
+packet logs on 12 Web Security Appliances S680 (WSA - 9.1.2-022 GD) through M680 SMA -
+10.1.0-052 MD, Configuration Master 9.0.
+Responsible for providing support for Cisco AnyConnect, Employee/Contractor Remote Access
+VPN process, RSA token generation process.
+Built up HLD/LLD for the project and configure Cisco 5555x ASAS for Certificate-based
+authentication with Group Policies. Configuring Authorization Profiles, DACLS in ISE for
+Contractor VPN access restrictions
+Installing security firmware updates on EC2, EBS, and S3 host devices on the AWS network.
+Handling and responding to “rackdown" incident for
+more
+than 200,000 devices is
+an
+Amazon AWS

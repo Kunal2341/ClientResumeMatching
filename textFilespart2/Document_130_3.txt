@@ -1,0 +1,65 @@
+Used Cisco ACI Fabric which is based on Cisco Nexus 9000 series switches and Cisco
+Application Virtual Switch (AVS).
+Cisco ASA and FWSM, Fortinet FortiGate; F5 AFM, A10 WAF, IDS/IPS systems, and
+general knowledge of security features and protocols.
+Experience in F5 Load balancers such a BIG-IP LTM and GTM modules.
+Mapped, Network Diagrams and physical identification in MS Visio.
+Provide hands on management of Data Center services, including rack and cable
+management Experienced in the evaluation, testing, configuration and implementation
+of Palo Alto firewall security solutions
+includes working with other vendor firewalls like Cisco's ASA Firewall, Checkpoint Firewall
+across
+enterprise networks. Experience also
+and the Fortinet Firewall.
+Experience in adding Rules and Monitoring Checkpoint Firewall traffic through Smart
+Dashboard and Smart View Tracker applications.
+Experience with the Infoblox IP Address Management tool.
+Good knowledge in Network function virtualization.
+Knowledge & experience in network protocols & packet analysis.
+Extensive understanding of networking concepts, (IE. Configuration of networks, router
+configuration and wireless security, TCP/IP, VPN, Content Filtering, VLANS, and routing in
+LAN/WAN, Ethernet Port, Patch Panel and wireless networks.
+Excellent troubleshooting skills; tenaciously committed to the thorough resolution of
+technical issues.
+Experience in working with Cisco Nexus Switches and Virtual Port Channel configuration.
+Administration of production Windows Servers infrastructure that includes Domain
+Controllers, IIS Web Servers, SharePoint, File and Print and FTP/SFTP servers.
+TECHNICAL SKILLS:
+Technical Skills:
+TCP/IP Protocol Suite, OSI Model, Ethernet, Token Ring, FDDI,
+OSPF, EIGRP, RIP, BGP, HSRP, L2/L3/L4/L7 Switching,
+Protocols
+Standards
+VLAN's, VMPS, VTP, IPV4, IPV6, ATM, VOIP, LAN, SSL, SNMP
+V1, V2. T1, DS3.
+AWS
+(EC2, VPC, ELB, S3, EBS, RDS, Route53, ELB, Cloud Watch,
+CloudFormation, AWS Auto
+Scaling,
+Lambda,
+Elastic
+BeanStalk)
+Nexus 2K/5K/7K, Cisco Catalyst 2900, 3500 ,3700,6500, 4500,
+Switches
+3850,3560, 3750, 2960
+Switching
+LAN, VTP, STP, PVST+, RPVST+, Inter VLAN routing & Multi-Layer
+Switch, Ether channels, Transparent Bridging
+Routers
+Cisco 7600, 7200, 3800, 3600, 2900, 2800, 2600,1800,1700
+Routing
+OSPF,
+EIGRP,
+BGP,
+RIP
+v1/v2,
+PBR,
+Route
+Filtering,
+Redistribution, Summarization, and Static Routing
+Metro Ethernet, MPLS/VPN, Frame Relay, ADSL, TDM (T1/T3),
+and OTV configuration.
+WAN
+LAN
+Trunking Protocols, Link Aggregation, vPC/vPC+, VTP/STP, FCOE,
+Gigabit

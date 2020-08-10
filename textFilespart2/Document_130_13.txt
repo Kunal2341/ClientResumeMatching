@@ -1,0 +1,35 @@
+Performed the maintenance of Active Directory and replication scheme, DNS/DHCP
+services and time services; wrote step-by-step procedures for implementing upgrades.
+Worked with the server team to get the DHCP scope created for Voice, Data and wireless
+networks for the new Site setup.
+Environment: Cisco 4510/4948/4507 switches, Juniper switches EX-4200 switches, Cisco CAT
+2900,3550,4500,6509 switches, DNS/DHCP server, Firewalls SRX-210, BGP, VLAN, WAN& LAN,
+ACI.
+Virtusa, Hyderabad, India
+Jr. Network Engineer
+Sep 2010 - Sep 2011
+Responsibilities:
+Models consist of Cisco 3750, 2620 and, 1900 series routers and Cisco 2950, 3500 Series
+switches. Involved in implementation of Trucking using Dot19, and ISL on Cisco
+Catalyst Switches.
+Involved in Local Area Network (LAN) design, troubleshooting, and maintenance as per
+company's requirements.
+Configuring, managing and troubleshooting networks using routing protocols like RIP,
+EIGRP and OSPF (Single Area and Multi Area).
+Administration of Broad soft and Avaya telephony services
+Serve as a single point of contact for troubles on the South Carolina state government
+phone system on the Avaya platform
+Configured TCP/IP addressing scheme to assigned IP blocks.
+Worked with snipping tools like Ethereal to analyze the network problems.
+Configured VLANS to isolate different departments.
+Troubleshoot issues related to VLAN, VLAN Trunking, HSRP failovers, related issues.
+Configured IPSEC VPN on SRX series firewalls.
+Used TFTP server to backup Cisco configuration files.
+Network layer tasks included configuration of IP Addressing using FLSM, VLSM for all
+applications and servers throughout the company.
+Configured STP for loop prevention on Cisco Catalyst Switches.
+Configured VTP to manage VLAN database throughout the network for Inter-VLAN
+Routing.
+Monitor, troubleshoot, test and resolve Frame Relay, ATM, MLPPP, PPP, and Dial-up.
+Implemented Cisco Wireless Access Points and WLC's at various corporate sites fort 11n
+Infrastructure and its legacy

@@ -1,0 +1,52 @@
+Surbhi Vishwakarma
+Certified Network Engineer
+(405)649-0570
+Surkarma1193@gmail.com
+Experience in Handling various trouble tickets, firewall rule changes, assisting other
+teams to bring the device to production, making DNS changes in InfoBlox and
+routing changes.
+• Serve as part of a team of network engineers responsible for network upgrade from
+Cisco Layer 3 Catalyst switches to Juniper Layer 3 EX4200 & EX3200 switches
+across multiple sites.
+• Involved in the migration of EIGRP to OSPF in the environment as to support the
+new implementation of Juniper Devices in the network.
+Configured Juniper MX480S, EX8200S, EX4500S, EX42005, from scratch to match the
+design.
+Fifth Third Bank, Cincinnati, OH
+Jan 2015 - May 2017
+Sr. Network Engineer
+Responsibilities:
+• Responsibilities
+troubleshooting of the corporate network, monitoring network performance using
+various network tools to ensure the availability, integrity and confidentiality of
+application and equipment and to provide support for Cisco network.
+• Responsible for the design, engineering, and level 2/3 support of existing network
+technologies services and the integration of new network technologies / services.
+Key contributions include troubleshooting of complex LAN /WAN infrastructure that
+includes routing protocols EIIGRP, OSPF & BGP.
+• Automated network implementations and tasks and designed monitoring tools using
+python scripting.
+• Created documents for various platforms including Nexus 7k, ASR1K enabling
+successful deployment of new devices on the network
+• Experience configuring Virtual Device Context in Nexus 7k series switch.
+Experience with configuring Nexus 5000, Fabric Extender (FEX) which acts as a
+remote line card (module) for the Nexus 7000.
+Configuration, Testing, Planning and Design of Cisco Routers, Cisco Catalyst 2900,
+3570 and 6500 Switches.
+• Set up and configured a Cisco ASA 5506-X and Cisco FirePOWER network security
+services.
+Configured multiple SPAN sessions to monitor the traffic for troubleshooting
+purposes.
+• Worked on Migrating from Checkpoint firewalls to ASA 5540 .
+Experience in Configuring VPN, clustering and ISP redundancy in Checkpoint
+firewalls.
+included
+installation,
+configuration,
+maintenance
+and
+Configuring failover for redundancy purposes for the security devices. Implemented
+the statefull failover for ASA and Checkpoint firewall.
+• Created Virtual Contexts, VLANS, and Interfaces in ASA 5585.
+Configured Cisco 7204 and ISR routers which were also connected to Cisco ASA
+security appliances providing perimeter based firewall

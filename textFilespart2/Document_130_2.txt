@@ -1,0 +1,45 @@
+Troubleshoot end-to-end call flow issues in enterprise market involving various VoIP
+elements.
+Intensive applications of Network automation tools and testing for network automation
+and configuration management using Ansible, Python scripting.
+Extensive working experience in AAA protocols such as RADIUS, TACACS+ and Cisco
+ACS.
+Implemented vsS on Cisco catalyst 6509 and 6513 switches.
+Experience on Monitoring and Management tools such as HP Open view, Splunk, TCP
+dump, Solar Winds and Wireshark, Cisco Prime, NetFlow, Riverbed.
+Extensively used TCP/IP tool like TELNET for remote login to the routers and SSH for
+secure login.
+Working experience performing Incident, change management using ticketing tools such
+as ServiceNow, Remedy.
+Utilize Remedy ticket system to update network status. Exposure to Cisco WAAS, WCS.
+Installed and configured Cisco Unified Communications Manage (UC).
+Experience in working with Cisco Nexus Switches and Virtual Port Channel configuration.
+Responsible for Configuration and administration of firewalls, which
+includes
+Checkpoint, Juniper, Fortigate and Cisco ASA firewalls.
+Experience in risk analysis, security policy, rules creation and modification of Cisco ASA
+networks.
+Daily network operation & support (BGP, MPLS, EIGRP, QoS, WLC, F5, ASA, ISE, wireless,
+SolarWinds and VolIP).
+Created documents for various platform VOIPS including Nexus 7k, ASR9K, and ASR1K
+enabling successful deployment of new devices on the network.
+Monitored, Troubleshooted and maintained various networking equipments such as
+Riverbeds, DigiBox, MT2011 Guest Wi-FI, AWS Snowball, etc.
+Checkpoint Firewall troubleshooting and policy change requests for new IP segments that
+either come on line or that may have been altered during various planned network
+changes on the network.
+Replaced aging Checkpoint firewall architecture with new next generation Palo Alto
+appliances serving as firewalls and URL and application inspection.
+Extensive experience in monitoring and designing security policies on Palo Alto network
+firewall for controlling what traffic needs to be allowed or blocked based on customer
+requirements.
+Experience in configuration of Juniper security appliances SRX 220, SRX 240, SRX
+550, NS 50, SSG 550M, SSG 520M.
+Established VPN tunnels between Cisco routers and Cisco Firewalls and Palo Alto
+Firewalls.
+Familiar with products such as Cisco ISE, Cisco ASA 5500 series firewalls and Cisco
+ACE 4710 Load balancers.
+Performed IOS Software upgrades on switches 6509, 4510, 3750 and Cisco ASR for
+compatibility with Cisco ISE.
+Implemented Cisco Application Centric Infrastructure (ACI) as a solution for data
+centers using a Spine and Leaf

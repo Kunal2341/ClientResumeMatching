@@ -1,0 +1,4 @@
+Involved in deploying network objects, port object, and service object and inculcate them into the
+ACL's.
+Environment: HSRP, OSPF, RIP, EIGRP, OSPF, VLAN, VTP, Cisco Routers (2500, 3000, 4000),
+Cisco Switches (2960, 3560), ACL, Syslog, Proxy Servers, MS Windows, MS Word, MS

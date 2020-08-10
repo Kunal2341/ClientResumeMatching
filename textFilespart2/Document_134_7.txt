@@ -1,0 +1,45 @@
+Design and implement Wireless Intrusion Prevention Systems (WIPS) to enforce security policies
+Installing Cisco Wireless Controllers and Wireless Access Points.
+Install and upgrade Cisco Wireless LAN equipment including but not limited to 1100, 1200,
+1300 and 3500 series Access Points; 4400 and 5500 series Wireless LAN controllers; 6500 &
+3750 Core switch routers; 2960, 3560 & 3750 series switches.
+Monitor and troubleshoot BGP, EIGRP, TI circuits, and cellular backup circuits via ICMP and
+SNMP ticketing systems.
+Working on Cisco 6509 and 4507 series switches for LAN requirements that include managing
+VLANS, Port Security and troubleshooting LAN issues.
+Implemented Zone-Based Firewalling and Security Rules
+Configuration and providing management support for Palo Alto and Checkpoint Firewalls (R75,
+R76, and R77).
+on
+the Palo Alto Firewall.
+Configure, Support, update and install Checkpoint, Firemon systems. Provide monitoring of all
+Checkpoint firewalls and their logs/traffic
+Worked extensively on device profiling, authentication and authorization mechanisms using
+AAA, RADIUS, 802.1X, Policy buildups for Posture Compliance Policies and Rules for checking
+the devices coming onto Network, Remediation Process, Access and Controls, and Segmenting
+the Global Networks for NAC Solutions for both Cisco and Forescout NAC Appliances
+Expertise in networking technologies like LAN, MAN, WAN and peripheral devices.
+Develop Engineering Documentations to record F5 environment and change processes
+LTM/GTM/iRules.
+Environment: Cisco routers 7200; Cisco Catalyst switches 6500, 4500, 2950; Cisco PIX Firewalls
+535, 525 Routing Protocols OSPF, BGP; STP, VTP, VLAN; VPN, MPLS, HSRP, GLBP, Big-IP F5 Load
+Balancer, Cisco Works; MS Visio, Checkpoint, Cisco ASA and Palo Alto firewalls, Blue Coat Proxy.
+Client: Gain Capital, Bedminster, NJ
+Role: Network Engineer
+Nov'15 - Dec'16
+Responsibilities:
+Configuring Static, IGRP, EIGRP, and OSPF Routing Protocols on Cisco 1600, 2600, 2800, 3600,
+7300 series Routers and different Firewall Vendors.
+Worked with multiple clients of CenturyLink such as Telecom, Financial (Banking and
+Insurance), Restaurants, Retail and Manufacturing Clients to support offices, campuses,
+warehouses and distribution centers and building up their network from scratch, including
+designing, installations, configurations and troubleshooting of their network.
+Configured Site to Site IPsec VPN tunnels to peer with different clients and each of client having
+different specifications of Phase 1 and Phase 2 policies using Cisco ASA 5500 series firewalls.
+Configured Easy VPN server and SSL VPN to facilitate various employees' access internal servers
+and resources with access restrictions.
+Design Cisco, Meraki, and Aruba WLAN/WiFi infrastructures.
+Configured Aruba access points troubleshoot connectivity issues with Aruba access points.
+Prepared wireless survey reports, reports documenting completed projects and AP placement
+maps.
+Controller base Wi-Fi Networking with Meraki (Cloud

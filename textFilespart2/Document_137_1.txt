@@ -1,0 +1,47 @@
+Nasif Shawkat
+882/c Malibagh Chowdhury para, Dhaka-1217, Bangladesh
+Contact no:+880-1681313420
+Email: nasif0208@gmail.com
+SUMMARY
+More than 4 (four) years of Software Quality Assurance experience in Desktop, Web and mobile based application.
+Strong knowledge in developing automated test scripts using popular automation tools and frameworks.
+EDUCATION
+: Master of Science in Computer Science
+: 2017
+: American International University of Bangladesh (AIUB)
+Degree Name
+Pass. Year
+Institution
+: Bachelor of Science in Computer Science and Engineering
+: 2015
+: Ahsanullah University of Science & Technology (AUST)
+Degree Name
+Pass. Year
+Institution
+WORK EXPERIENCES
+ENOSIS SOLUTIONS
+Senior Software Quality Assurance Engineer
+(July 01, 2017 – Present)
+Responsibilities:
+Determine testing scope, task breakdown and estimation.
+Design test code.
+Update Task Status & Comments Following Proper Workflow.
+Monitor All Tasks of a Release.
+Retrieve Latest Code from Appropriate Repository.
+Submit Changes to Appropriate Repository with Comments.
+View Log and Understand the Changes.
+Automate Script for Testing with Selenium Web Driver/Nightwatch.js/ Ranorex.
+ENOSIS SOLUTIONS
+Software Quality Assurance Engineer
+(July 02, 2015 – June 30, 2017)
+Responsibilities:
+Requirement Analysis and identifying testing scopes.
+Posting Relevant Questions According to Requirement.
+Test Plan, Test Case and Test Report preparation.
+Report Issues with Appropriate Details.
+Analyze Existing Bugs to Reproduce.
+Determining Root Cause of Bugs.
+Execute Tests & Verify Enhancements.
+Prepare Appropriate Testing Environment.
+Identify Assigned Tasks from Issue Tracker.
+Update Task Status & Comments Following Proper

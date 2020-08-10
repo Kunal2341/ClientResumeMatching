@@ -1,0 +1,37 @@
+Sobia Razak
+Fullerton, California
+(714) 767-6558
+sobia.razak@yahoo.com
+Worked directly and extensively with Lead, and Project Manager to organize test plans for different
+stages of software development.
+Worked efficiently with each QA team member to implement cross training of various applications of
+software.
+Position: Software QA Analyst
+Company: Thomson Elite
+Location: Los Angeles, CA
+Duration: September 2007 – December 2007
+Description: Thomson Elite creates billing products for use by the legal industry. Analyzed and tested a web-based
+product called 3E. 3E is an all-encompassing software that includes various applications for use by legal firms.
+Applications include Calendar Management, Conflicts, Reports, Billing, Collections, Profitability, etc.
+Responsibilites:
+Based on the Use Case and Functional Design Specifications (FDS) analysis, created test cases, test
+scenarios, and test scripts for manual testing process.
+Performed Sanity Testing in Calendar Management app
+clients, scheduling and creating events and tasks.
+Raised Change Requests for 3E V2.3 Calendar Management application on StarTeam V1.0.
+Executed Regression Testing for possible errors after all enhancements put in place.
+Used SQL queries to run reports; search for past present and future events and tasks related to particular
+clients.
+ation and tested functionality for billing
+Created UAT Test Cases, Test Scripts based on functional requirements.
+Performed UAT Testing due to many enhancements in newest software version to ensure application is
+functioning effectively and ensure ease of use for end user.
+Performed Ad Hoc, Positive, and Negative Testing to test for possible breaks in software code.
+Worked efficiently with QA teams and individuals to implement cross training of various applications of
+software.
+Extensive communication with application Developers and Business Analysts to track progress project.
+EDUCATION
+Bachelors Degree in Business Administration
+California State University of Fullerton
+*References available upon request.
+3 of

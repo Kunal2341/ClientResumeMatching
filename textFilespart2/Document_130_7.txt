@@ -1,0 +1,45 @@
+Automated network implementations and tasks and designed monitoring tools using python
+scripting
+Installing and configuring F5 Load balancers and firewalls with LAN/WAN configuration.
+Worked on F5 LTMS & GTMS to improve web application delivery speed and replication
+through and between distributed global data centers.
+Involved in iRule management like loading rules, writing iRule syntax using TCL language.
+Worked with Blue coat and handled the Trouble Tickets on F5 Load Balancers.
+Configuring Virtual servers (standard and performance layer 4), pools and nodes on Viprions.
+Configured Local & Cer
+Experience working with Juniper devices like EX-2200, EX-4200, EX-4500, MX-480, M
+Series, SRX650, SRX240 and Juniper J series j230, M 320 and MX960 routers. Worked on
+ral Bypass list for
+ue coat prохy server.
+Juniper EX4200 & EX4550 switches.
+Responsible for installing and configuring Juniper QFX3500 switch. Rebuilt old HQ with core
+and distribution with new Juniper QFX core switches and EX4300 distribution switches.
+Worked on Juniper SRX 5800 firewalls to create policies using J-Web User Interface.
+Dealt with implementation of Cisco ASA 5585 devices and Juniper SRX 550 devices to apply
+security policies on it.
+Worked with the installation of Palo Alto firewall, migrated with a team from predominantly
+checkpoint environment to Palo Alto global solution.
+Experience with convert Checkpoint VPN rules over to the Cisco ASA solution. Migration with
+both Checkpoint and Cisco ASA VPN experience.
+Deep understanding of cloud technologies, such as IaaS, PaaS, Software-defined networks
+(SDN), Network Functions Virtualization (NFV), Openstack, and other emerging technologies
+Migration from Cisco firewalls to Palo Alto firewalls platforms PA 4000 and PA 500 and PA-
+200 firewalls network technologies including Optical VoIP VPN SAN switching and routing.
+Manage Cisco VOIP Networks using Cisco Unified Call Manager (Version 11.x,10.x,9.x,8.x),
+Cisco Telepresence, Voice Gateways, UCCX.
+I Upgraded ASA 5505S to 5525X with Firepower.
+Setup high availability ASA pair with Firepower.
+Assisting with the design and deployment of a Cisco Firepower cluster in the core.
+Implemented Cisco Application Centric Infrastructure (Cisco ACI) as a solution for data
+centers using a Spine and Leaf architecture
+Troubleshot complex routing and switching issues in a HSRP and GLBP environment.
+Performed Troubleshooting and monitored routing protocols such RIP, OSPF, EIGRP & BGP.
+Configuration and Monitoring of Citrix NetScaler (Both MPX and VPX).
+Worked on VM Ware migration from physical servers to virtual servers.
+Coordinate with multiple vendors (Cisco, Juniper, etc.) to troubleshoot network outages and
+issues
+Configuration and troubleshooting of CSM, integration with ASA devices.
+Working on security levels with RADIUS, TACACS+.
+Create a Virtual Network on Windows Azure to connect all the servers.
+Configured inside ACL, outside ACL, inside, outside interfaces.
+Configuring Static, BGP and OSPF Routing Protocols on Cisco

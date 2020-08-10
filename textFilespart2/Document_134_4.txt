@@ -1,0 +1,41 @@
+Client: Thomson Reuters, Eagan, MN
+July 2018 - Till Date
+Role: Network Engineer
+Responsibilities:
+Deployed and maintained security/network devices and data centers for Service provider
+network.
+Experience with Installing and troubleshooting Data center migration with 24/7 support.
+Involved in the configuration & troubleshooting routing protocols like MP-BGP, OSPF, LDP,
+EIGRP, RIP, BGP v4, and MPLS.
+Provide oversight, direction, engineering, and design of data networking for enterprise load
+balancing.
+Manage various Security platforms; Juniper, Cisco ASA, Next-Gen, Check Point, Microsoft
+Azure, AWS Cloud and Fortinet Firewalls.
+Provide subject matter expertise in Cisco Routing, Switching, Security and Load balancing.
+Troubleshooting problems with applications, network and security infrastructure, including
+routers, switches, firewalls, VPN appliances, proxy servers, DNS appliances and Wireless
+devices.
+Configured and Created wireless sites using the Cisco Meraki System dashboard.
+Implemented site to site VPN on Cisco Meraki MX64, MX65, MC84, and MX400. Implementing
+Cisco Meraki Wireless network.
+Deployed and managed Cisco Meraki products SD-WAN including Cisco Meraki Security
+Appliances (MX25, MX450, MX400, MX600 and MX100), Cisco Meraki switches and Cisco
+Meraki Wireless Aps (MR84, MR74, MR52).
+Managed Configuration, Logging and Reporting of Palo Alto firewall through the Panorama.
+Hands on experience with Cisco switches (6500, 3750, etc) and Cisco routers (7200, 2900, 2800,
+etc.).Fortinet firewalls (30D - 300E), SD- WAN technology ( VeloCloud), 4G hardware.
+Produce design documentation and MS Visio drawings.
+Created all required technical documentation in accordance with Huntington's Change Control
+and project management processes and procedures.
+Performing administrative tasks with Palo Alto Networks (Panorama) including Security, NAT
+policy definitions; application filtering; Regional based rules; URL filtering, Data filtering, file
+blocking, User based policies.
+Researching and implemented new data network technologies like Cisco NGFW/Sourcefire, Palo
+Alto NGFW and Proxy/Content filtering, ACI (Application Centric Infrastructure).
+Refreshed Cisco ASA Firewalls from 5540 to 5545-X and Migrated Cisco ASA Firewall to Palo
+Alto while Data Center Migration, Refreshed VPN Test Environment for Cisco ISE Testing,
+Migrated Multiple Cisco Nexus 93180 NX-OS to ACI Platform.
+Migrated Internet, VPN, Business Partner and WEB Presence DMZ Containers from Old DC to
+NGDC with required Network Performance Upgrade which includes Migrating Cisco 6508 to
+Nexus 7710 Multi VDCS, Upgrading ASA Firewalls, migrating few Palo Altos, WAS Proxy upgrade
+and Created Network Design MS Visio for Physical and Logical Representation of

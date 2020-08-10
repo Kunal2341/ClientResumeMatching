@@ -1,0 +1,53 @@
+Sobia Razak
+Fullerton, California
+(714) 767-6558
+sobia.razak@yahoo.com
+Responsible for creating User Scenarios, Test Ideas, Test Outlines, Test Cases and Scripts to manually
+execute during software testing of both Datalabs Designer and Datalabs.
+Conducting GUI, Ad Hoc, Functional, Black Box, Regression, Positive, and Negative Testing to ensure the
+application is working as per requirements.
+Played a role in designing functional parts of a specific aspect of the Datalabs software for ease of use by
+clients.
+Utilized TestTrack Seapine to log all defects and issues for both applications.
+Assisted in training colleagues on parts of the application to ensure thorough testing is conducted.
+Position: Quality Assurance Analyst
+Company: Arts & Technologies Inc,
+Location: Torrance, CA
+Duration: February 2008- June 2010
+Description: The project is a web-based application for administration to maintain new hires and enrollments,
+changes, terminations, and monthly invoice review for company sub contractors. Also, a web interface for the
+contractors to manage and keep track of their contracts.
+Responsibilities:
+Created test plan and test specifications as per requirements in project documents.
+Incorporated and used Test Director to log all defects including documentation issues.
+Automated the test cases for GUI testing using Quick Test Professional.
+Tested a range of check points (GUI, Bitmap, Database, Text) to test whether numerous GUI and field
+objects meet the requirement specifications.
+Performed Black Box and Regression testing; smoke, manual and automated testing was done across the
+entire application and test data was created for test cases.
+Used SQL queries to ensure correct data and information was being generated across entire application.
+Tested cross browser functionality including browsers Internet Explorer, Netscape, Safari and Firefox.
+Before release of a new version of application, created appropriate and useful testing release notes.
+Fully discussed project concerns and updates in project review and defect review board meetings to
+verify and review defects reported against the application in its current version.
+Position: Quality Assurance Analyst
+Company: Hythiam Inc.
+Location: Santa Monica, CA
+Duration: December 2007- February 2008
+Description: The project "ITMS" Integrated Treatment Management System is a web-based application to be used by
+a patient's Provider, the Care Coach and the patients themselves. ITMS is used to maintain a very large patient
+database and to track patient progress; data includes patient's personal information, health conditions, addictions, etc.
+Responsibilities:
+Based on Business Requirements analysis and Use Case, created the Test Plan, Test Scenarios, Test
+Cases, and Test Scripts and manually executed the Scripts successfully.
+Integrated and implemented Bug Tracker software into the company for use by QA, BSAS, and
+Developers.
+Performed UAT testing across numerous software components before new version release to test for any
+functional problems/defects for customer usability purposes.
+Performed System, Functional, Integration, Positive, Negative, and Regression testing across entire
+software application.
+Performed extensive Ad Hoc testing to search for small or fatal errors in various components of
+software.
+Executed search queries to search for patient records for the purpose of back-end testing.
+Thoroughly discussed the defect report with developers and Project Manager for defect resolutions.
+2 of

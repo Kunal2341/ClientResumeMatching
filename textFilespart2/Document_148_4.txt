@@ -1,0 +1,41 @@
+The objective of the project is to extract data from multiple sources and stored in different
+databases and load into oracle system which is the staging area and the business logic is applied to
+transform the tables in the required way. TD will provide multiple financial and regulatory reports
+and information to the Federal Agencies. The data warehouse is fed by marketing data, sample
+data, market (competitor) data, prescription data and others.
+Key Responsibilities:
+Develop test plans based on test strategy.
+Created and executed test cases based on test strategy and test plans based on ETL
+Mapping document.
+Involved in extensive DATA validation using SQL queries and back-end testing
+Creating Test Cases and Test Scripts to validate source and Target data.
+Technologies and Tools Used: - ETL Testing, ALM, SQL Developer, Unix shell scripting, Agile,
+Sql query creation/execution, Test ETL Jobs.
+Syncada India Ops, Pune
+Client: US BANK, U.S. A
+Domain: Banking Testing
+Sr. Test Analyst
+Dec 2011-Seр 2013
+Description:
+Data Exchange (US BANK)
+Syncada Product is a web-based application for Banks and businesses. It's a global payment
+network that banks can offer to their corporate and government clients, as a more efficient way to
+pay and be paid. It continuously needs enhancements and developments that keep it up to date with
+the currently emerging technologies, this also provides the customers an easy, enhanced, new and
+better platform to work upon every time.
+Key Responsibilities:
+Involved in preparing test plans and providing estimations for the new changes. Writing
+and executing Test cases in MTM according to the acceptance criteria. Product and
+functional training to new joiners. Reviewing the test cases written by peers.
+Involved in extensive DATA validation using SQL queries and back-end testing.
+Creating Test Cases and Test Scripts to validate source and Target data. Providing weekly
+status reports to clients
+Defect Tracking in Test Track Pro and Retesting the Defects
+Technologies and tools used: - Agile, SQL Developer, QC10.0, sql
+Infosys Technologies, Pune
+Client: Low's companies Inc, USA
+Domain: Retail/Finance Testing
+Test Analyst
+Sep 2009- Deс 2011
+Description:
+Page 4 of

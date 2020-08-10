@@ -1,0 +1,42 @@
+Citizens Bank, Providence, RI
+Jan 2016- Oct 2016
+Network Engineer
+Responsibilities:
+Working with Cisco Nexus 2248 Fabric Extender and Nexus 5500 series to provide a
+Flexible Access Solution for datacenter access architecture
+Configuring, upgrading and deployment of Nexus 7010, 5596 and 2248.
+Worked on upgrading Cisco ISE 3300 Appliances and 1.0.4 Cisco ISE software on VM
+ware's.
+Worked with Cisco ISE to identify threats in the network for rapid containment and
+remediation.
+Worked on Extensively on Cisco Firewalls, Cisco PIX (506E/515E/525) & ASA
+5500(5510/5540) Series.
+Experience with converting PIX rules over to the Cisco ASA solution.
+Configuring VPN, clustering and ISP redundancy in Checkpoint firewall.
+Worked on Checkpoint Platform including Provider Smart Domain Manager.
+Worked on configuring, managing and supporting Checkpoint Gateways
+Experienced with Checkpoint VPN rules over Cisco ASA VPN. This filters traffic by
+inspecting the application layer.
+Implementation configuration and troubleshooting of Checkpoint Firewall R 77.
+Involved in Configuration of Access lists (ACL) on checkpoint firewall for the proper
+network routing for the B2B network connectivity.
+Worked with Host Master for shared web hosting and managed Web Application firewall
+(WAF), DNS and DHCP management using Infoblox and Analyzed networks using
+Wireshark.
+Provided level 2 phone and email support and troubleshooting of networking and VOIP
+issue.
+Configured the automatic policy builder using the deployment wizard tool in ASM.
+Dealt with creating VIP pools, nodes and created custom iRules for the virtual servers like
+cookie persistency and redirection of URL on F5 ASM cookies issues and configures ASM
+policies.
+Experience in Deploying and decommissioning Cisco switches, Cisco Meraki Products
+and their respective software upgrades.
+Implemented site to site VPN on Cisco Meraki MX64, MX65, MC84, and MX400.
+Deployed and managed Cisco Meraki products SD-WAN including Cisco Meraki Security
+Appliances (MX25, MX450, MX400, MX600 and MX100), Cisco Meraki switches and
+Cisco Meraki Wireless Aps (MR84, MR74, MR52).
+Working with BGP, OSPF protocols in MPLS Cloud.
+Establishing VPN Tunnels using IPSEC encryption standards and configuring and
+implementing site-to-site VPN, Remote VPN.
+Experience in white listing webpages and blocking webpages with Blue Coat Proxy SG
+and Blue Coat

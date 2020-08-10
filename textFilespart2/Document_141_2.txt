@@ -1,0 +1,54 @@
+Windsor came to e-commerce with a mission to create an oasis that inspires and empowers
+women. Windsor aims to bring everyday fashion with widely spread over 200+ locations.
+Windsor also has brands and resource for plus-size women.
+Played a significant role in requirement gathering for migration from Virid to Shopify.
+Prepared test plans, Test estimates, test cases, defect reports and execution logs in line
+with Project Methodology for functional requirements.
+Develop and Maintain automated smoke tests using selenium and extend the test
+coverage on critical cases reduced effort of testing on each build release by 60%.
+Prepared and executed regression Tests and extend support during UAT testing cycles.
+Execution of End-to-End cases which involves various systems like Storefront, Payment
+gateways, Shopify, Aptos-WMS, Multi-Shipping, Aptos-CRM
+Bug Reporting & Tracking in JIRA, Bugherd.
+Communication and coordination with onsite team & client for requirements and project
+status.
+Met customer's Service-Level Agreements (SLA)'s on addressing the defects.
+Providing assistance & KT to new team members to acquire knowledge on Technical
+assistance.
+Attending project meetings, release meetings, and QA status meetings with development
+team
+Senior Quality Analyst
+(Aldershot - UK)
+SSP is a global provider of technology systems and solutions across the entire insurance
+industry, using expertise to enable customers to transform their business and increase their
+profitability.
+Project: SSP
+Working closely with development team to provide quality assurance on the company's
+websites and applications
+Expertise in end to end testing on NativeUlI, UXP-EC, Web Journey and Self-service
+applications
+Delivery of test plans, test cases, defect reports and execution logs in line with Project
+Methodology for functional requirements
+Test preparation and execution of regression and UAT testing cycles
+Handled both functional manual testing and test Automation deliverables using Soap UI
+Handled integration testing with Insure I 90 (Mainframes) System & NativeUl (saas).
+Involved in show and tell presentations to project stakeholders
+Participated in Bug Triage meetings and prepared Root Cause Analysis (RCA) documents.
+Bug Tracking & Reporting in Bugzilla.
+Quality Analyst
+(Reading - UK)
+AOMI is a real time performance management tool, which is used across the globe by leading
+customer sectors like Banking, Financial Services, BPO and Public Sectors. AOMI is used by Leads
+and Managers to plan track and manage the work of their team and help them to enhance their
+Productivity and Utilization.
+Project: AOMİ-ActiveOps
+Involved in Requirement gathering, understand and analyze product requirements
+Actively involved in Daily Scrum calls, Sprint Planning, Sprint Review and Retrospective
+Meetings.
+Analyzing the root cause of defects, reporting defects and tracking it to closure
+Involved in preparing estimation for testing activities using Poker planning
+Implemented a Test case review checklist for Functional and Smoke Test case review
+which helped peers at the time of review.
+Conducted Accessibility testing to increase the usability for visually paired people. Worked
+with JAWS screen reader tool
+Manage and review Change Request (CR) validation by the team and handle

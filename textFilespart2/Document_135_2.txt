@@ -1,0 +1,85 @@
+VIETTEL PERU SAC - BITEL
+Position: Technical Manager |Trujillo, Peru
+First Peruvian to hold the position in La Libertad region of Peru.
+(Dec 2014- August 2015)
+Responsible to fulfill technical monthly targets assigned to the branch by the Board of Directors of the
+company; planned, organized, led, controlled, followed-up and assessed results of the tasks and
+duties assigned to the technical team.
+Responsible to operate the technical department in the region, 1 Vice Technical Manager, 4 engineers
+specialist in transmission, radio frequency, infrastructure and electromechanical,4 in-house 24x7 NOC
+analyst staff and 5 teams of 6 technicians, each deployed strategically around the region.
+Responsible to manage the ICT infrastructure of the branch, accountability for the operational
+performance (KPI) and availability of the hardware components and software systems of the network.
+Position: Vice Technical Manager | Trujillo, Peru
+(Dec 2013- Dec 2014)
+Led the implementation of +100 base stations 3G/4G technologies and responsible for analyzing
+weekly and monthly technical reports related to the rollout of base stations, FTTH transmission
+network, site routers ZTEXR10 and aggregation layer devices (Huawei CX600).
+Managed the in house Network Operation Center (NOC) and provided technical support and remote
+troubleshooting due to escalation over the transmission network (FTTH), DWDM and RAN systems.
+Ensured the compliance of the optimization plans to minimize or avoid potential issues that could
+affect the network based on the KPI of the company and led the optimization plan for the FTTH
+internet service network to 113 schools around La Libertad region.
+Position: Transmission Engineer Assistant |Trujillo, Peru
+(Dec 2012 - Nov 2013)
+Led the on-site implementation and optimization plans of the transmission network infrastructure;
+deploying and splicing +600km optical fiber (24fo and 12fo) for the backbone and access network
+transmission in 1+1 redundancy configuration.
+Led the access and metro IP network installation and configuring project setup of + 100 ZTE Layer 3
+switches and 5 Huawei CX600 metro service platform and provided troubleshooting of predominantly
+optical fiber and microwave links systems coordinating the level 2 escalation technical support with
+the NOC team.
+Position: Infrastructure Engineer Assistant |Trujillo, Peru
+(Dec 2011- Nov 2012)
+Responsible for +100 site renting for base stations (suitable survey, price renting,negotiation,etc)
+Implemented and commissioned base stations to the core network; installing antennas, cabinets,
+indoor and outdoor equipment for the Radio Access Network (RAN) infrastructure.
+VOLUNTEER EXPERIENCE
+WINDAID INSTITUTE
+Position: Project Engineer/Wind turbine home system installer
+Building and installing small wind turbine systems for homes, schools or community centers in rural areas of Perú
+bringing a clean and reliable source of electricity in locations where traditional electricity is not available.
+(Aug 2017- March 2018)
+LANGUAGES
+English – Fluent
+E Spanish – Native
+Portuguese - Basic
+EDUCATION
+March 2011
+Antenor Orrego Private University -Trujillo, Perú
+B.S. Electronic Engineering
+TECHNICAL SKILLS
+- Troubleshooting
+· Electrical systems
+- RF Optimization
+- RMM
+- CCNA
+- FTTH
+- Wireless Network
+3G/4G//LTE
+• TCP/IP
+- DNS/DHCP
+" OTDR analysis
+" Router/Switch
+configuration
+Administration
+" Backup solutions
+PERSONAL SKILLS AND INDUSTRY KNOWLEDGE
+" Leadership
+- Critical Thinking
+- Communication
+" Negotiation
+" Scheduling
+- Strategic Planning
+- Risk Management
+" Operations
+• Project Recovery
+- Renewable Energy
+- ITIL framework
+Project Coordination
+Project Management
+- Telecom Project
+Management
+Management
+REFERENCES
+References and diplomas available upon

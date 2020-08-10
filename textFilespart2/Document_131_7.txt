@@ -1,0 +1,48 @@
+Surbhi Vishwakarma
+Certified Network Engineer
+(405)649-0570
+Surkarma1193@gmail.com
+Experience in migrating the existing Palo Alto Firewalls to the new deployed Nexus
+core environment.
+• Experience with load balancers to provide Land Balancing towards Access layer
+from core layer and configuring F5 LTM both by GUI and TMSH/CLI and Cisco load
+balancers (CSM, ACE and GSS).
+• Worked on F5 LTM, GTM series like 6400, 6800, 8800 for the corporate applications
+and their availability.
+Upgraded load balancers from radware to F5 BIGIP v9 which improved functionality
+and scalability in the enterprise.
+Managed the F5 BIGIP GTM/LTM appliances to include writing iRules, SSL offload and
+everyday task of creating WIP and VIPS.
+Implementation and Configuration Profiles, I Rules) of F5 Big-IP LTM-3600 load
+balancers
+• Hands-on experience in server load-balancing utilizing F5 LTM-Big IP, including APM,
+ASM and Viprion device modules.
+• Install Wireless Access Points (WAPS) in new and existing commercial sites.
+Experience in Wireless LAN (IEEE 802.11) and deployment of light weight access
+point.
+Experience with wireless 802.11a/b/g/n/ac experience for increased wireless LAN
+speeds (WLAN), improved reliability and network performance.
+Experience on cisco wireless management systems which includes cisco 8540
+Wireless controller, cisco 5520 Wireless LAN controller, and virtual wireless
+controllers.
+• Dealt with creating VIP (virtual servers), pools, nodes and applying iRules for the
+virtual servers like cookie persistency
+• Migrated the existing F5 BIGIP load balancers to the newly built core environment.
+IBM, Dallas, TX
+Jun 2017 - Jun 2018
+Network Security Engineer
+Responsibilities:
+Configuration, Troubleshooting and Maintenance of Palo Alto Firewalls - PA200,
+PA2000 series, PA3000 series, PA4000 and PA5000 series as well as a centralized
+management system (Panorama) to manage large scale firewall deployments.
+• Worked extensively in Configuring, Monitoring and Troubleshooting Cisco's ASA
+5585 Security appliance.
+Implementing security migrations from Cisco ASA firewalls to Pa-5000/3000 series
+firewalls.
+• Vendors Network connectivity investigation, Creating Firewall Rule Change
+Requests mostly in Cisco ASA to PaloAlto firewalls
+• Assist customers with correcting configurations of firewalls for various issues to
+include basic configuration, Global Protect VPNS, IPSEC VPNS, security policies, NAT
+policies.
+Improve perimeter security by configuring Palo Alto firewall devices application
+level

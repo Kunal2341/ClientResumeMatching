@@ -1,0 +1,43 @@
+Configuring rules and maintaining Palo Alto firewalls and analysis of firewall logs using various
+tools.
+Work with Software Distribution teams to develop and execute Custom Prop for Endpoint
+systems
+Manage and monitor security rules and policies for Endpoint Protection
+Understand different types of NAT on Cisco ASA firewalls and apply them.
+Configuration, operation, and troubleshooting of BGP, OSPF, EIGRP, RIP, VPN routing protocol in
+Cisco Routers & L3 Switches.
+Configured MPLS L3 and L2 VPNS for customers.
+FWSM configurations in single/multiple contexts with routed and transparent modes.
+Environment: Juniper routers and switches, Cisco routers 7200; Cisco Catalyst switches 6500,
+4500, 2950; Big-IP F5 Load Balancer, Cisco Works; MS Visio, Checkpoint, Cisco ASA and Palo Alto
+firewalls, Blue Coat Proxy, Cisco PIX Firewalls 535, 525 Routing Protocols OSPF, BGP, STP, VTP,
+VLAN, VPN, MPLS, HSRP, GLBP.
+Client: Cyber Info Systems, India
+Role: Network Engineer
+May'2011 – June'2014
+Responsibilities:
+Responsible for troubleshooting complex problems related to the Internet and network interface
+cards.
+Responsible for initiating the complete recovery and troubleshoot complex issue of hardware and
+software including internet issues.
+Sound knowledge in routing protocols like Rip, EIGRP, OSPF in IPV4 & IPV6.
+Involved in sales of HP products and services and maintain Customer satisfactory records.
+Troubleshooting modular routers of D-Link, Linksys.
+Involved in IP Quality of Service (QoS) implementation including Priority and Class-Based
+Weighted.
+Experience with Cisco 3500, 6500 series equipment and configuring and deploying.
+From the scratch and fixing those with various modules like Gig card, VPN SPA Card, T1-WIC
+card and other modules.
+Experience in deploying EIGRP/BGP redistribution and the changing the metrics for the primary
+and backup Paths for the packet prioritization and EIGRP tuning.
+Involved in designing data communications and networks utilizing that utilize a mixture of frame
+relay, Point to point T1, T3 & OC3 lines.
+Involved in designing and applying QOS to 2600 series routers for all the branches.
+Worked on Riverbed devices for WAN bandwidth Optimization in the data centers for the
+sensitive marked data applications.
+Experience on designing and troubleshooting of complex BGP and OSPF routing problems.
+Experienced in SYSLOG analysis & Proxy servers.
+Experience with connectivity of Cisco Networking Equipment with F5 Load Balancer.
+Expert level understanding with F5 component to provide high availability with providing
+services across data centers.
+Involved in configuring the ASA Firewall for the safety of the corporate

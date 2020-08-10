@@ -1,0 +1,48 @@
+Successfully installed Palo Alto PA-3060 firewall to protect data center and provides L3 support
+for routers/switches/firewall.
+Managed Configuration, Logging and Reporting of Palo Alto firewall through the Panorama.
+Managed URL filtering, File blocking, Data filtering by Palo Alto firewall, Barracuda NG
+Firewalls.
+Hands on experience with telnet, vlan and other configuration and deploying the same into
+multiple networking devices like routers, switches and firewalls.
+Configuring and troubleshooting security technologies like ACL (Standard & Extended), NAT
+(Static, Dynamic), PAT, GRE Tunnels, VPN (IP-Sec, SSL, Site to Site), Network Access Control
+(NAC), AAA TACACS & RADIUS servers, Cisco Secure ACS, BIG-IP F5 Load Balancer LTM
+6400, ASA 5500 Series, Palo Alto Firewall.
+Migrated from all the other firewalls to the NexGen Palo Alto firewall series like 3050 and 5020
+series.
+Involved in Threat Prevention, URL Filtering, Malware analysis and global protection.
+Configured ASA 5520 Firewall to support Cisco VPN Client on Windows 7/XP/Vista & Windows
+10.
+Responsible for Cisco ASA firewall administration across our global networks.
+Provided administration and support on Bluecoat and WSA Proxy for content filtering and
+internet access between site and VPN client users.
+Hands on experience on Up-gradation of Cisco IOS (IOS RX & NX OS) of different Cisco devices
+& modules.
+Implemented redundancy with HSRP, VRRP, GLBP, Ether channel technology (LACP, PAGP) etc.
+Expertise in configuration of routing protocols and deployment of OSPF, EIGRP, BGP and policy
+routing over Cisco routers, Route-Filters, Prefix-List, Distribute-List, Route-Maps.
+Sound knowledge on PBX (Private Branch Exchange), SIP trunk's and Avaya VolP installations.
+Migrated from all the other firewalls to the NexGen Palo Alto firewall series like 3050 and 5020
+series.
+Involved in Threat Prevention, URL Filtering, Malware analysis and global protection.
+Sound knowledge on DMVPN, MPLS technology L3 VPN, goS Services, Bluecoat packet
+shaper, Cisco Secure Access Control Server (ACS), OpenDNS, IPS/IDS, Cisco Security
+Appliance.
+Experience in adding Rules, URL Filtering, Identity Awareness, End-Point Security, Licensing,
+Application Control & policy provisioning and monitoring Checkpoint Firewall (4000, 5100, and
+5200) traffic through Smart Dashboard, Smart View Tracker applications.
+Provisioned Checkpoint firewalls integrated with an AWS environment.
+Implemented AWS networking
+services Amazon
+VPC for
+the
+Private/Public
+Cloud, EC2 instances, IAM, and S3.
+Experienced in Cisco Identity Service Engine (ISE) Devices 3350, 3300.
+Efficient designing of IP Addressing Scenario using IPAM (IP address management), VLSM and
+Sub netting.
+Configuring and troubleshooting Network Backups through TFTP, Password Recovery, Logging
+Synchronous, NTP Configurations, Route filtering, Re-distribution, Offset List, Leak Map,
+Avaya VoIP Phones. Sound knowledge on
+Wireless Network, 802.11 (B, G, N &A) frequencies, Radio Frequencies. Wireless

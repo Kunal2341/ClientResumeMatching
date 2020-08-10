@@ -1,0 +1,58 @@
+Deriving test cases from informational requirements for SAP Business Object
+Reports.
+Testing the reporting model for SAP Business Object Reports
+Analysis of data warehouse and data marts
+Testing of ETL processes for OLAP and OLTP
+Working with Star Schemas for aggregated data and Dimensional Modelling
+BA
+Name of Company
+Type of Company
+Period
+Product Build
+e-Cash System s
+ecommerce - Online Wallet and Payment Systems
+01 May 2010 - May 2011
+Systems design and analysis
+Analyzing stakeholder and business requirements through document analysis, in-
+terface analysis for As-is system modules
+Updating existing document repository for system, solution and project related in-
+formation
+Create functional and technical specifications and test plans from business
+solutions
+Conceptual outline of the wallet model and reviewing of system components of
+the wallet system for Online Gaming transactions and transfers
+Documenting process flow design using UML and BPMN
+Prototyping mock-ups for client Gaming websites and Gaming payment upload
+systems
+Facilitating focus group session to elicit information from external stakeholders
+Facilitating scum ceremonies, review sessions
+Gather high-level requirements during workshops and reaching closure an
+concensus on requirements
+Conducting technical walkthrough sessions and demos to the project stakholders
+Strategic Projects
+Lobanet - Payment upload system
+ecash Wallet - Asynchronous Credit Card Payments, Account registrations,
+Client Websites, XML Interface
+Test Team Lead and Test Analyst
+Name of Company
+Type of Company
+Period
+Product Build
+e-Cash System s
+eCommerce
+03 December 2007 - May 2010
+Testing and analysis
+Online Wallet and Payment Systems
+Promoted to Test Team Lead my responsibilities the included the following:
+Responsible for leading a team of 4 test analysts of which 2 were automation tes-
+ters
+Responsible for performance reviews and KPIS
+Planning and scheduling all test activities relating to project including
+Responsible for conducting regular load and performance testing of Wallet System
+Conducting testing for system, integration and end to end levels for Gaming Sites
+Responsible for backend testing of XML APIS using SOAPUI and JMeter
+Conducting and guiding the operations team to assist with fail-over testing
+As the lead responsible for enforcing best practices and ensuring the test teams
+adheres to process standards
+6.
+KA

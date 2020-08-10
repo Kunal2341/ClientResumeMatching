@@ -1,0 +1,53 @@
+ANDREY GAYDUKOV
+Los Angeles, CA | Mobile: (310) 746 6717 | Email: andrey3657@gmail.com |LinkedIn
+SOFTWARE QA ENGINEER
+SUMMARY:
+2+ years of experience in Quality Assurance and Software Testing of Web and Mobile Applications
+Experienced writing Test Plans, Test Scenarios and Test Cases reviewing Business Design Doc
+Strong understanding of Software Development Life Cycle (SDLC), Knowledge of both Agile and
+Waterfall Software development methodology
+Experienced in black box Functionality, Regression, Smoke/Sanity, Integration, browser/platform
+compatibility testing using
+Knowledge of the C++ language, skills for representing and manipulating data within a computer
+Work independently, accurately meet deadlines, and identify process improvements.
+Hands on using HTML, Java Script, UNIX/LINUX commands for QA
+Team player and ability to work independently in fast changed environment
+Detail-oriented, self-motivated, and strong multi-tasking abilities
+TECHNICAL SKILLS:
+Mobile platforms:
+Programming:
+Networking:
+Bug tracking:
+iOS, Android OS
+HTML, CSS, XML, XPath, JavaScript, ReactJS, jQuery, Java FX, Swift, C, C++
+TCP/IP, FTP, HTTP, Internet, Intranet
+Jira, Bugzilla
+Chrome, MS internet Explorer, Mozilla Firefox, Safari
+Git, GitHub, Selenium, Cucumber, TestRail, Browser Developers Tools,
+Postman, WordPress, Ajax
+SQL, MS-Access
+Browsers:
+Tools:
+Other:
+EXPERIENCE:
+08/2017 – Present
+Software QA Engineer, PremiumSoft Labs, Phoenix, AZ
+Design and develop test strategies, test cases for Web and Mobile apps, identify defects and root cause,
+record and maintain defect-tracking inventory and close tickets
+Develop test script, scenarios and plans based on the employee profile and business requirements
+Write SQL queries to analyze and validate test results and data
+Developing and managing quality assurance programs, to include report generation and analysis
+Perform functional, nonfunctional testing of web app and mobile devices
+Cross browser, cross platform testing
+Actively participated and Interacted with product management teams in the review and analysis of
+functional requirements
+Developed and executed SQL queries to verify the proper insertion, deletion and updates
+Worked closely with Software Developers to isolate, track and troubleshoot defects
+Managed release requirements for each release to updated test schedule and time of development and
+execution with bug testing time implemented.
+Performed device compatibility testing, Usability, Localization testing
+Tested application behavior under various interrupts, integration with social media - Facebook, Twitter
+Identified numerous functional, usability and performance issues, report to JIRA
+EDUCATION:
+Associates degree in Computer Science, Santa Monica, CA
+Bachelor's degree in Management, State University of Moscow,

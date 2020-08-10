@@ -1,0 +1,26 @@
+Surbhi Vishwakarma
+Certified Network Engineer
+(405)649-0570
+Surkarma1193@gmail.com
+Jr. Network Engineer
+Responsibilities:
+• Configuration and administration of Cisco Switches and Routers.
+Responsible for installing, maintaining and supporting computer communication
+networks within the organization.
+• Involved in configuring trunk port between two switches and adding Vlans to the
+trunks.
+Support to plan and execute LAN (VLAN Management) and WAN management
+activity.
+Directly worked with customers to offer Level 2, Expertise in handling routers,
+servers, and switches.
+Responsible for support and upgrades of a 250-user network.
+• Performed onsite data center support that includes monitoring of systems alarms,
+electrical power, server administration and network alerts.
+• Provided customer support including daily backup procedures, testing network
+connections, equipment installation and turn-up, and remote hands assistance.
+Experience in configuring and troubleshooting EIGRP, OSPF & BGP Routing
+protocols.
+Experienced with physical layer interfaces and cabling standards.
+Planned and implemented IP address schemes and subnet masks.
+Troubleshooting and supporting multiple OS and hardware environments.
+• Responsible for documenting network related

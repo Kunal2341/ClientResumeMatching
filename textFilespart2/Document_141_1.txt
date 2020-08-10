@@ -1,0 +1,51 @@
+K KISHORE KUMAR REDDY
+1101-25 Bay Mills Blvd
+Toronto, ON, M1T 3P4
+kishorekumarkr@gmail.com | 647-781-5558
+QA LEAD
+Test Methodologies | Agile | Defect Management
+CAREER HIGHLIGHTS
+10+ years' of Proven experience as Quality Analyst in Manual Testing and hands-on
+experience in Automation.
+Proven experience working in Agile environment and holding daily scrum meetings.
+Extensive knowledge of Software Development Life Cycle (SDLC) & Software Testing Life
+Cycle (STLC).
+Prepared and involved in Test Planning, Backlog grooming, Requirement analysis and
+Project Tracking
+Experienced in preparing and maintaining Requirements Traceability Matrix for extensive
+test coverage.
+Implemented Testing Methodologies and prepared Test Strategies. Proven experience in
+Test cases creation and execution.
+Specialized in Functional, Regression, Integration, Web, Mobile app, Sanity and End to End
+testing.
+Experienced in eCommerce, Retail, Insurance and Real Time management Domains
+Hands-on experience with the Show and Tell process which increases the quality of
+delivery at the time of review meetings.
+Conceptualized and Implemented project management best practices to schedule and
+monitor software development and testing project progress.
+Assembled, mentored and managed offshore testing teams and shouldered the
+responsibility of deliverables for UK and USA clients.
+Experienced in Bug Triage Meetings which helped in setting expectations.
+Prepared Root Cause Analysis documents
+Proficient using software tools such as MS Word, MS Excel, MS PowerPoint and MS Project
+Implemented Brainstorming sessions to ensure cross application knowledge
+Involved in 1SO 9001 and ISO 27001 Internal Audits.
+Team Player with excellent interpersonal and customer relation skills. Proven
+communication, presentation skills and leadership qualities.
+Awarded as 'Role Star' for the contribution beyond expected deliverable
+TECHNICAL SKILLS
+eCommerce: Shopify, Demandware ; Aptos CRM and Aptos WMS
+Defect Tracking tools: JIRA, Bugzilla, Bugherd and Prism (In-House tool)
+Proficiency in Agile and Waterfall methodologies.
+Test case Management tools: Testopia
+Project Management tools: Testopia, Confluence, Prism (In-House tool)
+Version Control : Tortoise SVN and GitHub
+Web services testing using SoapUl, Postman
+Selenium Web driver with TestNG and POM; Jenkins for CI
+SQL Server 2005/2008 Database
+WORK EXPERIENCE
+Company: Aspire Systems (India) Pvt. Ltd
+Nov 2009 - Aug 2019
+Test Lead
+Project: Windsor
+(CA -

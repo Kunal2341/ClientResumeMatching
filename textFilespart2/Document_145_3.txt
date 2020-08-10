@@ -1,0 +1,17 @@
+IT Skills
+MICROSOFT OFFICE
+Word, PowerPoint, Excel, OneNote, Visio
+Selenium, Protractor, Jenkins, Git, JIRA, Integrity-ALM, HP ALM,
+Maven, POSTMAN, JMETER, WireShark, ThingWorx (loT)
+VS code, Eclipse
+Agile, Scrum, Waterfall model
+JavaScript, TypeScript, Java, SQL, HTML, CSS, Angular
+TOOLS
+IDE USED
+SOFTWARE METHODOLOGY
+PROGRAMMING LANGUAGE
+Strengths
+QA Manual
+Automation
+Requirement Analysis
+Defect
