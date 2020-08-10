@@ -1,0 +1,3 @@
+TRAIN,gs://enitity_extract_data/0JSONL.jsonl
+VALIDATE,gs://enitity_extract_data/74JSONL.jsonl
+TEST,gs://enitity_extract_data/35JSONL.jsonl

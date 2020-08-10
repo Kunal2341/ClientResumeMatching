@@ -1,0 +1,133 @@
+{
+	"annotations": [
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 12,
+		  "start_offset": -1
+		}
+	  },
+	  "display_name": "NAME"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 13,
+		  "start_offset": -1
+		}
+	  },
+	  "display_name": "PHONE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 4,
+		  "start_offset": -1
+		}
+	  },
+	  "display_name": "ELITE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1103,
+		  "start_offset": 1100
+		}
+	  },
+	  "display_name": "JUL"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 995,
+		  "start_offset": 992
+		}
+	  },
+	  "display_name": "CNA"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 9,
+		  "start_offset": -1
+		}
+	  },
+	  "display_name": "COTTONWOOD"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1097,
+		  "start_offset": 1088
+		}
+	  },
+	  "display_name": "DATE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 522,
+		  "start_offset": 518
+		}
+	  },
+	  "display_name": "JUNE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 16,
+		  "start_offset": -1
+		}
+	  },
+	  "display_name": "WORKEXPERIENCE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 3,
+		  "start_offset": -1
+		}
+	  },
+	  "display_name": "SALT"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 34,
+		  "start_offset": -1
+		}
+	  },
+	  "display_name": "WORKEXPERIENCE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 3,
+		  "start_offset": -1
+		}
+	  },
+	  "display_name": "SALT"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 7,
+		  "start_offset": -1
+		}
+	  },
+	  "display_name": "ASSISTED"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 305,
+		  "start_offset": 292
+		}
+	  },
+	  "display_name": "SKILL"
+	},
+	],
+	"text_snippet": {
+		"content": "\nInformation Science\nFinancial and Managerial\nLesly Vasquez\n1245 2 W. 93rd Street Los Angeles, CA 90044\n(801) 410-2159\nleslyvasquez801@gmail.com\nEDUCATION\nElite Training Academy\nCNA Certification\nJul 2012\nSalt Lake Community College\nJune 2019\nGeneral Studies\nCottonwood High School\nHigh School Diploma\nJune 2011\nPROFESSIONAL EXPERIENCE\nRheem – Salt Lake City, UT\nForklift Operator\n• Supervised a team of 10 assembly associates\nOperated forklifts to load and unload trailers\nMay 2017 – May 2019\n• Managed the cycle count of all inventory\nFiled reports of any missing inventory\nTrained new employees on operating machinery\nCDI Media – Salt Lake City, UT\nTeam Lead\nAug 2012 – Dec 2016\nSupervised a team of 20 associates\nFiled paperwork and maintained inventory\nInspected Equipment and Machinery\nAssembled products to be shipped out\nResponsible for Quality Control\nApr 2015 – Apr 2016\nCosta Vida – Salt Lake City, UT\nTeam Lead\nSupervised a team of 3 customer service associates\nProvided excellent customer service\nAssisted customers with complaints and questions\nMaintained the restaurant sanitary at all times\nSUMMARY OF QUALIFICATIONS\nSpanish fluency\nAbility to adapt and work unsupervised\nExcellent communication skills\nFast Learner\n• Ability to work in a fast-paced setting\nGreat attention to"
+	}
+}

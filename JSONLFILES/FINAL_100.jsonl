@@ -1,0 +1,59 @@
+{"textSnippet":{"content":"NISARGA HASSAN SREEDHAR
+San Jose, California |+1 (925) 789-8911| nisarga.nishu20@gmail.com | www.linkedin.com/in/nisarga-sreedhar-39938516b
+EDUCATION:
+Master's in Electrical Engineering (Computer Networking), San Jose State University, California, USA.
+Coursework: Internetworking, Broadband communications, Network Security, Internet of Things (IoT), Voice over IP
+Bachelor of Engineering in Telecommunication Engineering, Dayananda Sagar College of Engineering, Visvesvaraya
+Technological University, India
+May 2020
+June 2017
+TECHNICAL SKILLS:
+Network technologies: HTTP, DNS, DHCP, HTTPS, TLS-SSL, TCP/IP, UDP, IPV4, IPV6, ICMP, OSPF, BGP, ARP, VLAN, STP,
+SIP, IPS, IDS, NAT, IS-IS, 802.11, MPLS, WPA2, WPA3, Packet level troubleshooting
+Programming: Python
+OS Platform: Linux (Ubuntu, CentOS), Kali Linux, Cisco IOS
+Tools and IDE: Advanced Design System (ADS), Wireshark, VMware Workstation, VirtualBox, GNS3, Cisco Packet Tracer, PUTTY
+CERTIFICATION:
+Cisco Certified Network Associate (CCNA) 200-301
+AWS Certified Cloud Practitioner (CLF-C01)
+(In Progress)
+(In progress)
+EXPERIENCE:
+June 2019 - July 2019
+Marmon Food & Beverages Technologies, Cornelius, India
+Network Engineer Intern
+Python based Serial Communication (IoT)
+Used an Iot Dongle to read a file, convert it into a packet by adding header and footer and transmit serially.
+Python code was written to send the file from dongle to Food Holding Bin.
+ACADEMIC PROJECTS:
+Secure routing in IoT networks
+Aug 2019 - current
+Design and configure an IoT based network using Cisco Packet Tracer.
+Perform a Man in the Middle attack to one of the devices using Kali Linux.
+Detection of the attack and solution to the problem faced.
+Illumino: IoT Smart Light
+Aug 2019 - Dec 2019
+Create a hardware of an IoT smart light using Arduino ESP8266 and Cayenne IoT Platform.
+Designed to operate in three modes: Auto mode, Lamp mode, Security mode.
+Use of Cayenne web application to detect temperature and provides a siren at thresholds.
+Voice over IP for Wireless Ad Hoc Networks (WANET)
+Aug 2019 - Dec 2019
+Simple Call Establishment between two clients in a WANET that have registered with the Asterisk server.
+Call on Hold with one user client to attend another client.
+Call Conferencing between all three clients, all performed using X-Lite softphone software.
+Experiencing Virtualization using Virtual Box
+Jan 2019 - April 2019
+Worked on Open vSwitch in Virtual Box on an Ubuntu machine to run ovs and its versions successfully.
+Demonstrated how the VLANS are implemented, three VMs and one virtual switch is created.
+Attempted to communicate between the VMs and observed the PING result.
+Corporate Company Network Design
+Aug 2018 - Dec 2018
+• Designed and implemented a basic corporate network topology for the interconnection between offices with
+switches, routers, and hosts.
+• Implemented the design using routing protocols such as OSPF, BGP, DNS, VLAN, STP, IP, DHCP and HSRP.
+Tested and troubleshot configurations in the console to check the communication between the networks.
+Design of X-Band 8PSK Modulator using ADS
+Jan 2017 - April 2017
+Designed various components of the modulator used in a satellite at ISRO (Indian Space Research Organization), Bangalore.
+Performed optimization of the components at 8.75GHZ frequency using the tools available in ADS to obtain the desired results of
+Insertion loss, Return loss and Isolation"},"annotations":[{"displayName":"NAME","textExtraction":{"textSegment":{"startOffset":"0","endOffset":"23"}}},{"displayName":"LOCATION","textExtraction":{"textSegment":{"startOffset":"24","endOffset":"44"}}},{"displayName":"PHONE","textExtraction":{"textSegment":{"startOffset":"49","endOffset":"63"}}},{"displayName":"EMAIL","textExtraction":{"textSegment":{"startOffset":"65","endOffset":"90"}}},{"displayName":"LINKEDIN","textExtraction":{"textSegment":{"startOffset":"93","endOffset":"139"}}},{"displayName":"EDUCATION","textExtraction":{"textSegment":{"startOffset":"151","endOffset":"207"}}},{"displayName":"LOCATION","textExtraction":{"textSegment":{"startOffset":"208","endOffset":"252"}}},{"displayName":"SKILL","textExtraction":{"textSegment":{"startOffset":"187","endOffset":"206"}}},{"displayName":"EDUCATION","textExtraction":{"textSegment":{"startOffset":"366","endOffset":"422"}}},{"displayName":"SKILL","textExtraction":{"textSegment":{"startOffset":"282","endOffset":"306"}}},{"displayName":"DAYANANDA","textExtraction":{"textSegment":{"startOffset":"424","endOffset":"433"}}},{"displayName":"DATE","textExtraction":{"textSegment":{"startOffset":"509","endOffset":"517"}}},{"displayName":"DATE","textExtraction":{"textSegment":{"startOffset":"518","endOffset":"527"}}},{"displayName":"HTTP,","textExtraction":{"textSegment":{"startOffset":"568","endOffset":"573"}}},{"displayName":"SOFTWARE","textExtraction":{"textSegment":{"startOffset":"754","endOffset":"760"}}},{"displayName":"SOFTWARE","textExtraction":{"textSegment":{"startOffset":"774","endOffset":"779"}}},{"displayName":"SOFTWARE","textExtraction":{"textSegment":{"startOffset":"781","endOffset":"787"}}},{"displayName":"SOFTWARE","textExtraction":{"textSegment":{"startOffset":"798","endOffset":"808"}}},{"displayName":"SOFTWARE","textExtraction":{"textSegment":{"startOffset":"810","endOffset":"819"}}},{"displayName":"SOFTWARE","textExtraction":{"textSegment":{"startOffset":"865","endOffset":"874"}}},{"displayName":"SOFTWARE","textExtraction":{"textSegment":{"startOffset":"876","endOffset":"894"}}},{"displayName":"SOFTWARE","textExtraction":{"textSegment":{"startOffset":"896","endOffset":"906"}}},{"displayName":"SOFTWARE","textExtraction":{"textSegment":{"startOffset":"914","endOffset":"933"}}},{"displayName":"AWARDCERTIFICATION","textExtraction":{"textSegment":{"startOffset":"956","endOffset":"996"}}},{"displayName":"COMPANY ","textExtraction":{"textSegment":{"startOffset":"810","endOffset":"815"}}},{"displayName":"AWARDCERTIFICATION","textExtraction":{"textSegment":{"startOffset":"1005","endOffset":"1047"}}},{"displayName":"DATE","textExtraction":{"textSegment":{"startOffset":"1088","endOffset":"1109"}}},{"displayName":"COMPANY","textExtraction":{"textSegment":{"startOffset":"1110","endOffset":"1146"}}},{"displayName":"LOCATION","textExtraction":{"textSegment":{"startOffset":"1148","endOffset":"1164"}}},{"displayName":"SKILL","textExtraction":{"textSegment":{"startOffset":"1165","endOffset":"1188"}}},{"displayName":"SOFTWARE","textExtraction":{"textSegment":{"startOffset":"754","endOffset":"760"}}},{"displayName":"SKILL","textExtraction":{"textSegment":{"startOffset":"1202","endOffset":"1222"}}},{"displayName":"SOFTWARE","textExtraction":{"textSegment":{"startOffset":"754","endOffset":"760"}}},{"displayName":"DATE","textExtraction":{"textSegment":{"startOffset":"1464","endOffset":"1472"}}},{"displayName":"HARDWARE","textExtraction":{"textSegment":{"startOffset":"914","endOffset":"933"}}},{"displayName":"COMPANY ","textExtraction":{"textSegment":{"startOffset":"810","endOffset":"815"}}},{"displayName":"SOFTWARE","textExtraction":{"textSegment":{"startOffset":"798","endOffset":"808"}}},{"displayName":"HARDWARE","textExtraction":{"textSegment":{"startOffset":"1696","endOffset":"1711"}}},{"displayName":"DATE","textExtraction":{"textSegment":{"startOffset":"1712","endOffset":"1731"}}},{"displayName":"HARDWARE","textExtraction":{"textSegment":{"startOffset":"1696","endOffset":"1711"}}},{"displayName":"HARDWARE","textExtraction":{"textSegment":{"startOffset":"1778","endOffset":"1793"}}},{"displayName":"SOFTWARE","textExtraction":{"textSegment":{"startOffset":"1798","endOffset":"1818"}}},{"displayName":"SOFTWARE","textExtraction":{"textSegment":{"startOffset":"1900","endOffset":"1923"}}},{"displayName":"COMPANY","textExtraction":{"textSegment":{"startOffset":"2000","endOffset":"2032"}}},{"displayName":"DATE","textExtraction":{"textSegment":{"startOffset":"1464","endOffset":"1472"}}},{"displayName":"DATE","textExtraction":{"textSegment":{"startOffset":"1723","endOffset":"1731"}}},{"displayName":"COMPANY","textExtraction":{"textSegment":{"startOffset":"2026","endOffset":"2031"}}},{"displayName":"SOFTWARE","textExtraction":{"textSegment":{"startOffset":"2140","endOffset":"2155"}}},{"displayName":"SOFTWARE","textExtraction":{"textSegment":{"startOffset":"2282","endOffset":"2307"}}},{"displayName":"DATE","textExtraction":{"textSegment":{"startOffset":"2355","endOffset":"2363"}}},{"displayName":"DATE","textExtraction":{"textSegment":{"startOffset":"2366","endOffset":"2376"}}},{"displayName":"SOFTWARE","textExtraction":{"textSegment":{"startOffset":"781","endOffset":"787"}}},{"displayName":"DATE","textExtraction":{"textSegment":{"startOffset":"1464","endOffset":"1467"}}},{"displayName":"DATE","textExtraction":{"textSegment":{"startOffset":"2675","endOffset":"2679"}}},{"displayName":"DATE","textExtraction":{"textSegment":{"startOffset":"2682","endOffset":"2690"}}},{"displayName":"MULTIPLESKILLS","textExtraction":{"textSegment":{"startOffset":"2885","endOffset":"2929"}}},{"displayName":"HARDWARE","textExtraction":{"textSegment":{"startOffset":"3042","endOffset":"3064"}}},{"displayName":"DATE","textExtraction":{"textSegment":{"startOffset":"3075","endOffset":"3096"}}},{"displayName":"COMPANY","textExtraction":{"textSegment":{"startOffset":"3165","endOffset":"3206"}}},{"displayName":"INSERTION","textExtraction":{"textSegment":{"startOffset":"3347","endOffset":"3356"}}}]

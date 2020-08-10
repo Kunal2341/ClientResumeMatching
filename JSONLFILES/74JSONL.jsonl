@@ -1,0 +1,358 @@
+{
+	"annotations": [
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 31,
+		  "start_offset": -1
+		}
+	  },
+	  "display_name": "NAME"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 48,
+		  "start_offset": 33
+		}
+	  },
+	  "display_name": "ADDRESS"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 68,
+		  "start_offset": 58
+		}
+	  },
+	  "display_name": "PHONE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 99,
+		  "start_offset": 78
+		}
+	  },
+	  "display_name": "EMAIL"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 134,
+		  "start_offset": 108
+		}
+	  },
+	  "display_name": "GITHUB"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 185,
+		  "start_offset": 148
+		}
+	  },
+	  "display_name": "LINK"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 225,
+		  "start_offset": 196
+		}
+	  },
+	  "display_name": "LINKEDIN"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 243,
+		  "start_offset": 234
+		}
+	  },
+	  "display_name": "SKILL"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 261,
+		  "start_offset": 244
+		}
+	  },
+	  "display_name": "SKILL"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 488,
+		  "start_offset": 464
+		}
+	  },
+	  "display_name": "SKILL"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 675,
+		  "start_offset": 634
+		}
+	  },
+	  "display_name": "MULTIPLESKILLS"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 694,
+		  "start_offset": 688
+		}
+	  },
+	  "display_name": "REACT,"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 842,
+		  "start_offset": 828
+		}
+	  },
+	  "display_name": "MULTIPLESKILLS"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 919,
+		  "start_offset": 874
+		}
+	  },
+	  "display_name": "GITHUB"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 970,
+		  "start_offset": 926
+		}
+	  },
+	  "display_name": "LINK"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1007,
+		  "start_offset": 1003
+		}
+	  },
+	  "display_name": "SKILL"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1141,
+		  "start_offset": 1119
+		}
+	  },
+	  "display_name": "SKILL"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1226,
+		  "start_offset": 1222
+		}
+	  },
+	  "display_name": "SKILL"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1182,
+		  "start_offset": 1157
+		}
+	  },
+	  "display_name": "SKILL"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1279,
+		  "start_offset": 1268
+		}
+	  },
+	  "display_name": "JAVASCRIPT,"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1423,
+		  "start_offset": 1390
+		}
+	  },
+	  "display_name": "GITHUB"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1475,
+		  "start_offset": 1429
+		}
+	  },
+	  "display_name": "LINK"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 833,
+		  "start_offset": 828
+		}
+	  },
+	  "display_name": "SKILL"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1539,
+		  "start_offset": 1527
+		}
+	  },
+	  "display_name": "SKILL"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1654,
+		  "start_offset": 1610
+		}
+	  },
+	  "display_name": "MULTIPLESKILLS"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1681,
+		  "start_offset": 1666
+		}
+	  },
+	  "display_name": "WORKEXPERIENCE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1692,
+		  "start_offset": 1682
+		}
+	  },
+	  "display_name": "DATE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1705,
+		  "start_offset": 1693
+		}
+	  },
+	  "display_name": "COMPANY"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1712,
+		  "start_offset": 1706
+		}
+	  },
+	  "display_name": "LOCATION"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1854,
+		  "start_offset": 1832
+		}
+	  },
+	  "display_name": "HARDWARE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1904,
+		  "start_offset": 1892
+		}
+	  },
+	  "display_name": "AWARDCERTIFICATION"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1938,
+		  "start_offset": 1919
+		}
+	  },
+	  "display_name": "WORKEXPERIENCE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 2020,
+		  "start_offset": 1995
+		}
+	  },
+	  "display_name": "WORKEXPERIENCE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 2025,
+		  "start_offset": 2021
+		}
+	  },
+	  "display_name": "DATE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 28,
+		  "start_offset": -1
+		}
+	  },
+	  "display_name": "WORKEXPERIENCE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 638,
+		  "start_offset": 634
+		}
+	  },
+	  "display_name": "SKILL"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 2298,
+		  "start_offset": 2290
+		}
+	  },
+	  "display_name": "SOFTWARE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 2496,
+		  "start_offset": 2424
+		}
+	  },
+	  "display_name": "EDUCATION"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 2570,
+		  "start_offset": 2497
+		}
+	  },
+	  "display_name": "EDUCATION"
+	},
+	],
+	"text_snippet": {
+		"content": "\nJuan Carlos Castellanos Navarro\nAurora CO 80247 | Phone: 7209710087 | Email: jccnnetwork@gmail.com\nGithub: http://github.com/monguis/ | Portfolio: https://jccn-portfolio.herokuapp.com/\nLinkedIn: www.linkedin.com/in/jccnlkdin\nSummary\nBilingual computer engineer with highly developed abstraction skills, capable to understand complex problems\nto develop solutions. Known as a team player who is able to interact effectively with clients and colleagues.\nPossessing strong leadership traits with the ability to learn how to use new tools and technologies in a short\ntime. Ready-set to achieve company goals.\nTechnical Skills\nLanguages: JavaScript, MySQL, HTML, CSS, C/C++, Java.\nLibraries: React, Amazon S3, jQuery, Bootstrap UI, Materialize UI, Pug templating, Node.js, Sequelize,\nMongoose, Express.js, Handlebars.js.\nDatabases: MYSQL, MongoDB.\nProjects\nTableTop Tap | Repo: https://github.com/BestBroBradley/project-two\nDemo: https://sheltered-falls-54052.herokuapp.com/\nThe admin of the website allows CRUD operations to administer what is being displayed on the site.\nThe app has two sides, Admin and Public.\nCreated Back-end functionality which includes authentication, database (design and implementation)\nand testing API routes (Postman).\nTools / languages used: Javascript, MYSQL,HTML, CSS, Passport.js(local-strategy), express.js,\nsequelize, pug templating, Bulma UI.\nBurger | Repo: https://github.com/monguis/burger\nDemo:https://powerful-badlands-43542.herokuapp.com/\nThis app displays MYSQL capabilities combined with back-end API responses.\nDesign, Programming, and Deployment.\nTools/languages used: Javascript, MYSQL, express.js, Bootstrap UI.\nExperience\nSales Associate\n2016– 2019\nMicro Center\nDenver CO\nAdvised customers by listening to their problems to find the best solution for their needs with a vast inventory of\ntechnological products.\nKey Accomplishments:\nAssigned as an AMD champion.\nAs Champion, Micro Center Denver became # 1 AMD selling store in the nation for 6 months\nSoftware Developer, Owner\n2015\nMOES Solutions\nJalisco Mexico\nDesigned and developed Java applications with administrative functions, built for fast food restaurants with a\nfast-growing potential.\nKey Accomplishments:\nReduced Restaurant operation cost by 13% on average thanks to the implemented software, due to\nbetter management of ingredients and portion.\nAccomplished better sustainability for individual locations.\nEducation\nFull Stack Web Development Certificate: University of Denver, Denver CO.\nBachelors in Computer Engineering: University of Guadalajara, Guadalajara"
+	}
+}

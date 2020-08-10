@@ -1,0 +1,547 @@
+{
+	"annotations": [
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 23,
+		  "start_offset": 0
+		}
+	  },
+	  "display_name": "NAME"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 44,
+		  "start_offset": 24
+		}
+	  },
+	  "display_name": "LOCATION"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 63,
+		  "start_offset": 49
+		}
+	  },
+	  "display_name": "PHONE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 90,
+		  "start_offset": 65
+		}
+	  },
+	  "display_name": "EMAIL"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 139,
+		  "start_offset": 93
+		}
+	  },
+	  "display_name": "LINKEDIN"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 207,
+		  "start_offset": 151
+		}
+	  },
+	  "display_name": "EDUCATION"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 252,
+		  "start_offset": 208
+		}
+	  },
+	  "display_name": "LOCATION"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 206,
+		  "start_offset": 187
+		}
+	  },
+	  "display_name": "SKILL"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 422,
+		  "start_offset": 366
+		}
+	  },
+	  "display_name": "EDUCATION"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 306,
+		  "start_offset": 282
+		}
+	  },
+	  "display_name": "SKILL"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 433,
+		  "start_offset": 424
+		}
+	  },
+	  "display_name": "DAYANANDA"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 517,
+		  "start_offset": 509
+		}
+	  },
+	  "display_name": "DATE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 527,
+		  "start_offset": 518
+		}
+	  },
+	  "display_name": "DATE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 573,
+		  "start_offset": 568
+		}
+	  },
+	  "display_name": "HTTP,"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 760,
+		  "start_offset": 754
+		}
+	  },
+	  "display_name": "SOFTWARE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 779,
+		  "start_offset": 774
+		}
+	  },
+	  "display_name": "SOFTWARE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 787,
+		  "start_offset": 781
+		}
+	  },
+	  "display_name": "SOFTWARE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 808,
+		  "start_offset": 798
+		}
+	  },
+	  "display_name": "SOFTWARE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 819,
+		  "start_offset": 810
+		}
+	  },
+	  "display_name": "SOFTWARE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 874,
+		  "start_offset": 865
+		}
+	  },
+	  "display_name": "SOFTWARE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 894,
+		  "start_offset": 876
+		}
+	  },
+	  "display_name": "SOFTWARE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 906,
+		  "start_offset": 896
+		}
+	  },
+	  "display_name": "SOFTWARE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 933,
+		  "start_offset": 914
+		}
+	  },
+	  "display_name": "SOFTWARE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 996,
+		  "start_offset": 956
+		}
+	  },
+	  "display_name": "AWARDCERTIFICATION"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 815,
+		  "start_offset": 810
+		}
+	  },
+	  "display_name": "COMPANY "
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1047,
+		  "start_offset": 1005
+		}
+	  },
+	  "display_name": "AWARDCERTIFICATION"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1109,
+		  "start_offset": 1088
+		}
+	  },
+	  "display_name": "DATE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1146,
+		  "start_offset": 1110
+		}
+	  },
+	  "display_name": "COMPANY"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1164,
+		  "start_offset": 1148
+		}
+	  },
+	  "display_name": "LOCATION"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1188,
+		  "start_offset": 1165
+		}
+	  },
+	  "display_name": "SKILL"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 760,
+		  "start_offset": 754
+		}
+	  },
+	  "display_name": "SOFTWARE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1222,
+		  "start_offset": 1202
+		}
+	  },
+	  "display_name": "SKILL"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 760,
+		  "start_offset": 754
+		}
+	  },
+	  "display_name": "SOFTWARE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1472,
+		  "start_offset": 1464
+		}
+	  },
+	  "display_name": "DATE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 933,
+		  "start_offset": 914
+		}
+	  },
+	  "display_name": "HARDWARE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 815,
+		  "start_offset": 810
+		}
+	  },
+	  "display_name": "COMPANY "
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 808,
+		  "start_offset": 798
+		}
+	  },
+	  "display_name": "SOFTWARE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1711,
+		  "start_offset": 1696
+		}
+	  },
+	  "display_name": "HARDWARE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1731,
+		  "start_offset": 1712
+		}
+	  },
+	  "display_name": "DATE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1711,
+		  "start_offset": 1696
+		}
+	  },
+	  "display_name": "HARDWARE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1793,
+		  "start_offset": 1778
+		}
+	  },
+	  "display_name": "HARDWARE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1818,
+		  "start_offset": 1798
+		}
+	  },
+	  "display_name": "SOFTWARE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1923,
+		  "start_offset": 1900
+		}
+	  },
+	  "display_name": "SOFTWARE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 2032,
+		  "start_offset": 2000
+		}
+	  },
+	  "display_name": "COMPANY"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1472,
+		  "start_offset": 1464
+		}
+	  },
+	  "display_name": "DATE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1731,
+		  "start_offset": 1723
+		}
+	  },
+	  "display_name": "DATE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 2031,
+		  "start_offset": 2026
+		}
+	  },
+	  "display_name": "COMPANY"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 2155,
+		  "start_offset": 2140
+		}
+	  },
+	  "display_name": "SOFTWARE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 2307,
+		  "start_offset": 2282
+		}
+	  },
+	  "display_name": "SOFTWARE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 2363,
+		  "start_offset": 2355
+		}
+	  },
+	  "display_name": "DATE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 2376,
+		  "start_offset": 2366
+		}
+	  },
+	  "display_name": "DATE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 787,
+		  "start_offset": 781
+		}
+	  },
+	  "display_name": "SOFTWARE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 1467,
+		  "start_offset": 1464
+		}
+	  },
+	  "display_name": "DATE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 2679,
+		  "start_offset": 2675
+		}
+	  },
+	  "display_name": "DATE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 2690,
+		  "start_offset": 2682
+		}
+	  },
+	  "display_name": "DATE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 2929,
+		  "start_offset": 2885
+		}
+	  },
+	  "display_name": "MULTIPLESKILLS"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 3064,
+		  "start_offset": 3042
+		}
+	  },
+	  "display_name": "HARDWARE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 3096,
+		  "start_offset": 3075
+		}
+	  },
+	  "display_name": "DATE"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 3206,
+		  "start_offset": 3165
+		}
+	  },
+	  "display_name": "COMPANY"
+	},
+	{
+	  "text_extraction": {
+		"text_segment": {
+		  "end_offset": 3356,
+		  "start_offset": 3347
+		}
+	  },
+	  "display_name": "INSERTION"
+	},
+	],
+	"text_snippet": {
+		"content": "\nJuan Carlos Castellanos Navarro\nAurora CO 80247 | Phone: 7209710087 | Email: jccnnetwork@gmail.com\nGithub: http://github.com/monguis/ | Portfolio: https://jccn-portfolio.herokuapp.com/\nLinkedIn: www.linkedin.com/in/jccnlkdin\nSummary\nBilingual computer engineer with highly developed abstraction skills, capable to understand complex problems\nto develop solutions. Known as a team player who is able to interact effectively with clients and colleagues.\nPossessing strong leadership traits with the ability to learn how to use new tools and technologies in a short\ntime. Ready-set to achieve company goals.\nTechnical Skills\nLanguages: JavaScript, MySQL, HTML, CSS, C/C++, Java.\nLibraries: React, Amazon S3, jQuery, Bootstrap UI, Materialize UI, Pug templating, Node.js, Sequelize,\nMongoose, Express.js, Handlebars.js.\nDatabases: MYSQL, MongoDB.\nProjects\nTableTop Tap | Repo: https://github.com/BestBroBradley/project-two\nDemo: https://sheltered-falls-54052.herokuapp.com/\nThe admin of the website allows CRUD operations to administer what is being displayed on the site.\nThe app has two sides, Admin and Public.\nCreated Back-end functionality which includes authentication, database (design and implementation)\nand testing API routes (Postman).\nTools / languages used: Javascript, MYSQL,HTML, CSS, Passport.js(local-strategy), express.js,\nsequelize, pug templating, Bulma UI.\nBurger | Repo: https://github.com/monguis/burger\nDemo:https://powerful-badlands-43542.herokuapp.com/\nThis app displays MYSQL capabilities combined with back-end API responses.\nDesign, Programming, and Deployment.\nTools/languages used: Javascript, MYSQL, express.js, Bootstrap UI.\nExperience\nSales Associate\n2016– 2019\nMicro Center\nDenver CO\nAdvised customers by listening to their problems to find the best solution for their needs with a vast inventory of\ntechnological products.\nKey Accomplishments:\nAssigned as an AMD champion.\nAs Champion, Micro Center Denver became # 1 AMD selling store in the nation for 6 months\nSoftware Developer, Owner\n2015\nMOES Solutions\nJalisco Mexico\nDesigned and developed Java applications with administrative functions, built for fast food restaurants with a\nfast-growing potential.\nKey Accomplishments:\nReduced Restaurant operation cost by 13% on average thanks to the implemented software, due to\nbetter management of ingredients and portion.\nAccomplished better sustainability for individual locations.\nEducation\nFull Stack Web Development Certificate: University of Denver, Denver CO.\nBachelors in Computer Engineering: University of Guadalajara, Guadalajara"
+	}
+}

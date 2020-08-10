@@ -1,0 +1,51 @@
+{"textSnippet":{"content":"Juan Carlos Castellanos Navarro
+Aurora CO 80247 | Phone: 7209710087 | Email: jccnnetwork@gmail.com
+Github: http://github.com/monguis/ | Portfolio: https://jccn-portfolio.herokuapp.com/
+LinkedIn: www.linkedin.com/in/jccnlkdin
+Summary
+Bilingual computer engineer with highly developed abstraction skills, capable to understand complex problems
+to develop solutions. Known as a team player who is able to interact effectively with clients and colleagues.
+Possessing strong leadership traits with the ability to learn how to use new tools and technologies in a short
+time. Ready-set to achieve company goals.
+Technical Skills
+Languages: JavaScript, MySQL, HTML, CSS, C/C++, Java.
+Libraries: React, Amazon S3, jQuery, Bootstrap UI, Materialize UI, Pug templating, Node.js, Sequelize,
+Mongoose, Express.js, Handlebars.js.
+Databases: MYSQL, MongoDB.
+Projects
+TableTop Tap | Repo: https://github.com/BestBroBradley/project-two
+Demo: https://sheltered-falls-54052.herokuapp.com/
+The admin of the website allows CRUD operations to administer what is being displayed on the site.
+The app has two sides, Admin and Public.
+Created Back-end functionality which includes authentication, database (design and implementation)
+and testing API routes (Postman).
+Tools / languages used: Javascript, MYSQL,HTML, CSS, Passport.js(local-strategy), express.js,
+sequelize, pug templating, Bulma UI.
+Burger | Repo: https://github.com/monguis/burger
+Demo:https://powerful-badlands-43542.herokuapp.com/
+This app displays MYSQL capabilities combined with back-end API responses.
+Design, Programming, and Deployment.
+Tools/languages used: Javascript, MYSQL, express.js, Bootstrap UI.
+Experience
+Sales Associate
+2016– 2019
+Micro Center
+Denver CO
+Advised customers by listening to their problems to find the best solution for their needs with a vast inventory of
+technological products.
+Key Accomplishments:
+Assigned as an AMD champion.
+As Champion, Micro Center Denver became # 1 AMD selling store in the nation for 6 months
+Software Developer, Owner
+2015
+MOES Solutions
+Jalisco Mexico
+Designed and developed Java applications with administrative functions, built for fast food restaurants with a
+fast-growing potential.
+Key Accomplishments:
+Reduced Restaurant operation cost by 13% on average thanks to the implemented software, due to
+better management of ingredients and portion.
+Accomplished better sustainability for individual locations.
+Education
+Full Stack Web Development Certificate: University of Denver, Denver CO.
+Bachelors in Computer Engineering: University of Guadalajara, Guadalajara"},"annotations":[{"displayName":"NAME","textExtraction":{"textSegment":{"startOffset":"0","endOffset":"31"}}},{"displayName":"ADDRESS","textExtraction":{"textSegment":{"startOffset":"32","endOffset":"47"}}},{"displayName":"PHONE","textExtraction":{"textSegment":{"startOffset":"57","endOffset":"67"}}},{"displayName":"EMAIL","textExtraction":{"textSegment":{"startOffset":"77","endOffset":"98"}}},{"displayName":"GITHUB","textExtraction":{"textSegment":{"startOffset":"107","endOffset":"133"}}},{"displayName":"LINK","textExtraction":{"textSegment":{"startOffset":"147","endOffset":"184"}}},{"displayName":"LINKEDIN","textExtraction":{"textSegment":{"startOffset":"195","endOffset":"224"}}},{"displayName":"SKILL","textExtraction":{"textSegment":{"startOffset":"233","endOffset":"242"}}},{"displayName":"SKILL","textExtraction":{"textSegment":{"startOffset":"243","endOffset":"260"}}},{"displayName":"SKILL","textExtraction":{"textSegment":{"startOffset":"463","endOffset":"487"}}},{"displayName":"MULTIPLESKILLS","textExtraction":{"textSegment":{"startOffset":"633","endOffset":"674"}}},{"displayName":"REACT,","textExtraction":{"textSegment":{"startOffset":"687","endOffset":"693"}}},{"displayName":"MULTIPLESKILLS","textExtraction":{"textSegment":{"startOffset":"827","endOffset":"841"}}},{"displayName":"GITHUB","textExtraction":{"textSegment":{"startOffset":"873","endOffset":"918"}}},{"displayName":"LINK","textExtraction":{"textSegment":{"startOffset":"925","endOffset":"969"}}},{"displayName":"SKILL","textExtraction":{"textSegment":{"startOffset":"1002","endOffset":"1006"}}},{"displayName":"SKILL","textExtraction":{"textSegment":{"startOffset":"1118","endOffset":"1140"}}},{"displayName":"SKILL","textExtraction":{"textSegment":{"startOffset":"1221","endOffset":"1225"}}},{"displayName":"SKILL","textExtraction":{"textSegment":{"startOffset":"1156","endOffset":"1181"}}},{"displayName":"JAVASCRIPT,","textExtraction":{"textSegment":{"startOffset":"1267","endOffset":"1278"}}},{"displayName":"GITHUB","textExtraction":{"textSegment":{"startOffset":"1389","endOffset":"1422"}}},{"displayName":"LINK","textExtraction":{"textSegment":{"startOffset":"1428","endOffset":"1474"}}},{"displayName":"SKILL","textExtraction":{"textSegment":{"startOffset":"827","endOffset":"832"}}},{"displayName":"SKILL","textExtraction":{"textSegment":{"startOffset":"1526","endOffset":"1538"}}},{"displayName":"MULTIPLESKILLS","textExtraction":{"textSegment":{"startOffset":"1609","endOffset":"1653"}}},{"displayName":"WORKEXPERIENCE","textExtraction":{"textSegment":{"startOffset":"1665","endOffset":"1680"}}},{"displayName":"DATE","textExtraction":{"textSegment":{"startOffset":"1681","endOffset":"1691"}}},{"displayName":"COMPANY","textExtraction":{"textSegment":{"startOffset":"1692","endOffset":"1704"}}},{"displayName":"LOCATION","textExtraction":{"textSegment":{"startOffset":"1705","endOffset":"1711"}}},{"displayName":"HARDWARE","textExtraction":{"textSegment":{"startOffset":"1831","endOffset":"1853"}}},{"displayName":"AWARDCERTIFICATION","textExtraction":{"textSegment":{"startOffset":"1891","endOffset":"1903"}}},{"displayName":"WORKEXPERIENCE","textExtraction":{"textSegment":{"startOffset":"1918","endOffset":"1937"}}},{"displayName":"WORKEXPERIENCE","textExtraction":{"textSegment":{"startOffset":"1994","endOffset":"2019"}}},{"displayName":"DATE","textExtraction":{"textSegment":{"startOffset":"2020","endOffset":"2024"}}},{"displayName":"WORKEXPERIENCE","textExtraction":{"textSegment":{"startOffset":"2025","endOffset":"2054"}}},{"displayName":"SKILL","textExtraction":{"textSegment":{"startOffset":"633","endOffset":"637"}}},{"displayName":"SOFTWARE","textExtraction":{"textSegment":{"startOffset":"2289","endOffset":"2297"}}},{"displayName":"EDUCATION","textExtraction":{"textSegment":{"startOffset":"2423","endOffset":"2495"}}},{"displayName":"EDUCATION","textExtraction":{"textSegment":{"startOffset":"2496","endOffset":"2569"}}}]
