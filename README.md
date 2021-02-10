@@ -8,6 +8,7 @@ https://github.com/Kunal2341/ClientResumeMatching/tree/master/DocumentsEXPLAININ
 # Naive Baise Classifier
 The following Jupyter Notebook gives a step-by-step description on Naive Baise Classifier
 https://github.com/Kunal2341/ClientResumeMatching/blob/master/Jnotebooks/Naive%20Bayes%20Classifier.ipynb
+
 # External APIs
 Uses GCP cloud platform and their vision, NLP, and entity extraction APIs which support the process of the program
 
@@ -19,7 +20,9 @@ Uses GCP cloud platform and their vision, NLP, and entity extraction APIs which 
 	- Using custom built AI to extract entities for common designs of resumes
 - Document AI
 	- To get the data in a tabular form
-
+## GCP Entity Extraction Personal Model
+The data is still being generated but the model will be able to extract entities from the resume. Check https://github.com/Kunal2341/ClientResumeMatching/blob/master/Jnotebooks/ALL%20CODE%20.ipynb to learn more. 
+![Example GCP Entity Extraction UI](https://raw.githubusercontent.com/Kunal2341/ClientResumeMatching/master/DocumentsEXPLAINING/GCPEntityExtraction.png)
 # How to run it
 
 Must install **requirments.txt** in order to have all the different libaries
