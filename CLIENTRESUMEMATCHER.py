@@ -47,7 +47,7 @@ keyDIR = imgTxtVisionAPIPath #JSON key file to call the api
 credentials = service_account.Credentials.from_service_account_file(keyDIR) #using service account to go through google
 client = vision.ImageAnnotatorClient(credentials=credentials) # client api
 
-filePDFPath = '/Users/kunal/Documents/VdartResumeProject/Testing_Delete/Document_402.pdf'
+filePDFPath = '/Users/kunal/Documents/VdartResumeProject/A_RunningFiles/Document_402.pdf'
 
 def deleteEverythingInFolder(folder_pdf):
     #deletes everything in the folder including folders and files
