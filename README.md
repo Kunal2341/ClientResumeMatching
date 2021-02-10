@@ -1,7 +1,13 @@
+
 # Client Resume Matcher 
 ### Connecting Employees to Employers
 A client company is looking for employees. Employees are looking for jobs. Employees send in a resume and the company sends in a job description. Extract exact which resume matches the job description the best.
-
+## Learning more about how it works
+All my reasearch and powerpoint descriptions are in this directory
+https://github.com/Kunal2341/ClientResumeMatching/tree/master/DocumentsEXPLAINING
+# Naive Baise Classifier
+The following Jupyter Notebook gives a step-by-step description on Naive Baise Classifier
+https://github.com/Kunal2341/ClientResumeMatching/blob/master/Jnotebooks/Naive%20Bayes%20Classifier.ipynb
 # External APIs
 Uses GCP cloud platform and their vision, NLP, and entity extraction APIs which support the process of the program
 
@@ -11,11 +17,14 @@ Uses GCP cloud platform and their vision, NLP, and entity extraction APIs which 
 	- Extract Basic entities from document
 - Entity Extraction API  
 	- Using custom built AI to extract entities for common designs of resumes
+- Document AI
+	- To get the data in a tabular form
 
 # How to run it
 
 Must install **requirments.txt** in order to have all the different libaries
 Open Command Prompt - Navigate to where you installed *requirments.txt* and run 
+It takes **~ 2 minutes** to run
 ```
 pip install -r requirements.txt
 ```
@@ -63,6 +72,45 @@ After Running
 	    └── Document_402_102-10_09
     └── Document_202.pdf
     └── Document_203.pdf
+```
+## Pdf2image
+
+So for my project I really struggled in converting a pdf to a image so here is a step by step instuction\
+
+1. Install pdf2image 
+	1. `pip install pdf2image`
+2.  Install poppler
+	1. This is very important
+	2. [https://poppler.freedesktop.org/](https://poppler.freedesktop.org/)
+		3. Click on "https://poppler.freedesktop.org/poppler-0.86.1.tar.xz" 
+		4.  This will install a compressed file of poppler so then you use 7zip (must install seperatly)
+		5.  Once you extract it, move the file to your specific location
+		6. Now you know the poppler location path
+3. Make sure you have these libaries imported. Use `pip install` if not working
+	4. `import PIL`
+	5. `from PIL import Image`
+	6. `from pdf2image import convert_from_path`	
+	7. `import os`
+4. Code
+**Make sure you change your poppler path**
+```python
+def convert_pdf_2_image(uploaded_image_path, uploaded_image,img_size):
+    project_dir = os.getcwd()
+    os.chdir(uploaded_image_path)
+    file_name = str(uploaded_image).replace('.pdf','')
+    output_file = file_name+'.jpg'
+    pages = convert_from_path(uploaded_image, 200,poppler_path='/Users/kunal/Documents/VdartWorking/Poppler/poppler-0.68.0_x86/poppler-0.68.0/bin/')
+    for page in pages:
+        page.save(output_file, 'JPEG')
+        break
+    os.chdir(project_dir)
+    img = Image.open(output_file)
+    img = img.resize(img_size, PIL.Image.ANTIALIAS)
+    img.save(output_file)
+    return output_file
+
+os.chdir("/Users/kunal/Documents/")
+convert_pdf_2_image("/Users/kunal/Documents/", "invite.pdf", (200,200))
 ```
 # Final Output
 Check **ExampleResult.txt** for an example printed result
@@ -120,6 +168,14 @@ The Final Output will be the *Document_201_1.xlsx* file. Inside the file you get
 	 - Header
 	 - Row
 	 - Value
+# Character Data
+The first 2 rows out of all 56 is shown below. 
+This data can be vital to understand and calculate to understand if a entire word is bold. Check lines **62-330**  for  more information
+
+|Char|NumberOfChars|ModeHeight|ModeWidth|MedianArea|MeanArea|ModeArea|MaxOutlierNum|NumOutlierZScore|NumOutlierIQR|AvgStrokeWidth|
+|-|-|-|-|-|-|-|-|-|-|-|
+|a|159|31|10|46.1538|47.7806|46.1538|60.1099|1|17|2.8397|
+|b|21|31|12|35.4067|36.207|35.406|52.1931|0|0|2.8397
 
 # Bold Words
 |Part|Threshold Name|Definition|Number|
@@ -136,6 +192,9 @@ The Final Output will be the *Document_201_1.xlsx* file. Inside the file you get
 
 # Faces
 An example Image is the following once the face has been highlighted on Document
+The area is the calculated using a Polygon Matrix 
+**((114, 157), (399, 157), (399, 442), (114, 442))**
+Each is a point on a polygon as shown in the image
 ![Example Highlighted Face Img](https://raw.githubusercontent.com/Kunal2341/ClientResumeMatching/master/DocumentsEXPLAINING/FacehighlightedExample.png)
 
 # Entities Data
@@ -164,6 +223,48 @@ The first 3 lines of an example result of Horizontal lines is the following
 |3|207|1439|1654|215|
 
 ## Vertical Lines
-Were not detected in this document
+Were not detected in this document but the format will be the same as Horizontal lines except it will be HPos instead of YPos. 
 
-# 
+# Tabular Data
+This is from the DocumentAI API from GCP. 
+An example is the following:
+
+```
+Page number: 1
+Table 0: 
+Header Row 0: Finance Consultant, Consulting Engagements (3 Firms), 2018-2020
+
+Row 0: • Interim o o o Director Of Finance & Interim Controller, Aptitude Health (Engaged by RGP), 2019-2020
+Issue & Scope: Director Of Finance for $17 Million multi-entity organization resigned with short notice
+Tools & Analysis: Intacct & Excel
+Findings & Results: Fulfilled month-end & year-end responsibilities with minimal training & guidance,
+enabling organization to continue financial operations without disruption; Performed analysis that yielded
+
+Row 1: 95% decrease in quarterly commissions calculations time; Improved financial processes
+
+Row 2: • IT Finance Consultant, McKesson (Engaged by Strive Consulting), 2019
+```
+# Entities Document AI
+This is using the Document AI API which returnns a list of major values in the Document with their score. An example is shown below:
+|Entity|Percent Accurate|[Number of Times detected, Start Index, End Index]|
+|-|-|-|
+|kalininsergg92@gmail.com|0.966053|[[1, 59, 91]]|
+|437-231-58-07|0.939058|[[1, 92, 112]]|
+|05/27/1992|0.486468|[[1, 113, 137]]|
+
+This can be used to understand what exactly the document is doing
+
+# Entites Form Key Value Document AI
+This can be much more usefull than the Entities Form because it gives a Key to the Value in a dictonary format
+|Key|Value|Percent Accurate|Page #|
+|-|-|-|-|
+|E-mail:|kalininsergg92@gmail.com\n|0.966053|1|
+|Phone:|437-231-58-07\n|0.939058|1
+|DATE OF BIRTH\n|05/27/1992\n|0.486468|1|
+
+# Conclusion
+This project and give a very conclusive result for any resume. 
+I need to uptade the code so that it will adapt to resumes for multiple pages. 
+
+Made by Kunal Aneja through Vdart Digital.
+kunal.aneja101@gmail.com
