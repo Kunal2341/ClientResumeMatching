@@ -136,7 +136,7 @@ The Final Output will be the *Document_201_1.xlsx* file. Inside the file you get
 
 # Faces
 An example Image is the following once the face has been highlighted on Document
-
+![Example Face Highlighted]https://github.com/Kunal2341/ClientResumeMatching/blob/master/DocumentsEXPLAINING/FacehighlightedExample.png
 # Entities Data
 An Example Result is as the following
 |Key|Data|
