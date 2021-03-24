@@ -1,0 +1,641 @@
+C:\Users\kunal\Anaconda3\python.exe C:/Users/kunal/Documents/VdartResumeProject/PythonCode/FINALDOCUMENTPARSEALL.py
+/Users/kunal/Documents/VdartResumeProject/Testing_Delete/Document_402/Document_402.pdf
+Running Document_402_1.jpg
+Printing ALL info about document
+Called API --> Width:1654 -- Height: 2339
+   Char  NumberOfChars
+0     a            159
+1     b             21
+2     c             80
+3     d             79
+4     e            274
+5     f             36
+6     g             62
+7     h             57
+8     i            173
+9     j              0
+10    k             25
+11    l             89
+12    m             51
+13    n            206
+14    o            202
+15    p             30
+16    q              1
+17    r            151
+18    s            129
+19    t            193
+20    u             67
+21    v             23
+22    w             35
+23    x              7
+24    y             20
+25    z              4
+26    A             38
+27    B             11
+28    C             41
+29    D             27
+30    E             23
+31    F              6
+32    G              6
+33    H             12
+34    I             45
+35    J              8
+36    K              4
+37    L             16
+38    M             12
+39    N             24
+40    O             11
+41    P             45
+42    Q              0
+43    R             11
+44    S             49
+45    T             33
+46    U              9
+47    V             13
+48    W              9
+49    X              3
+50    Y              1
+51    Z              0
+Error when calculating Mode
+Error when calculating Mode
+C:/Users/kunal/Documents/VdartResumeProject/PythonCode/FINALDOCUMENTPARSEALL.py:137: RuntimeWarning: invalid value encountered in double_scalars
+  if np.abs(z_score) > threshold and y > mean_1:
+There is 52 symbols in the array.
+Its a,b,c,d...x,y,z, A,B,C...X,Y,Z.
+In each Position is the RGB for that image
+Example
+[[[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [255, 255, 255], [255, 255, 255], [255, 255, 255], [0, 0, 0], [0, 0, 0], [0, 0, 0]], [[0, 0, 0], [255, 255, 255], [255, 255, 255], [0, 0, 0], [0, 0, 0], [0, 0, 0], [255, 255, 255], [255, 255, 255], [255, 255, 255], [0, 0, 0]]]
+Char j has only 0
+Char q has only 1
+Char x has only 7
+Char z has only 4
+Char F has only 6
+Char G has only 6
+Char J has only 8
+Char K has only 4
+Char Q has only 0
+Char U has only 9
+Char W has only 9
+Char X has only 3
+Char Y has only 1
+Char Z has only 0
+    Detected Width  NumberOfCharsDetected
+0                0                     10
+1                1                    158
+2                2                    744
+3                3                    780
+4                4                    316
+5                5                     73
+6                6                     40
+7                7                     11
+8                9                      6
+9               10                      1
+10              12                      1
+11              13                      2
+12              14                      2
+13              16                      2
+Stroke width is between 2.0 - 3.0.
+Most likely --> 2.8397
+   Char  NumberOfChars
+0     a            159
+1     b             21
+2     c             80
+3     d             79
+4     e            274
+5     f             36
+6     g             62
+7     h             57
+8     i            173
+9     j              0
+10    k             25
+11    l             89
+12    m             51
+13    n            206
+14    o            202
+15    p             30
+16    q              1
+17    r            151
+18    s            129
+19    t            193
+20    u             67
+21    v             23
+22    w             35
+23    x              7
+24    y             20
+25    z              4
+26    A             38
+27    B             11
+28    C             41
+29    D             27
+30    E             23
+31    F              6
+32    G              6
+33    H             12
+34    I             45
+35    J              8
+36    K              4
+37    L             16
+38    M             12
+39    N             24
+40    O             11
+41    P             45
+42    Q              0
+43    R             11
+44    S             49
+45    T             33
+46    U              9
+47    V             13
+48    W              9
+49    X              3
+50    Y              1
+51    Z              0
+Calculated all the infomation about the document now running the 2 differet tests
+CAPITAL WEIGHT IS 0.6000000000000001
+Finished
+TOTAL WORDS --> 644
+Calculating if the word/paragraph/block is bold
+NISARGA	-->	160.0
+HASSAN	-->	160.0
+SREEDHAR	-->	160.0
+2	-->	NISARGA HASSAN 	-->	100.0
+((543, 56), (1112, 56), (1112, 90), (543, 90))
+3	-->	NISARGA HASSAN SREEDHAR 	-->	100.0
+EDUCATION	-->	160.0
+MaybeError
+1504 1505
+May	-->	86.67
+Engineering	-->	32.73
+Computer	-->	45.0
+Broadband	-->	17.78
+Voice	-->	32.0
+Bachelor	-->	32.5
+Engineering	-->	14.55
+Telecommunication	-->	19.41
+Engineering	-->	20.91
+Dayananda	-->	17.78
+June	-->	40.0
+TECHNICAL	-->	160.0
+SKILLS	-->	160.0
+Network	-->	51.43
+2	-->	SKILLS : 	-->	50.0
+HTTP	-->	40.0
+DNS	-->	53.33
+DHCP	-->	84.0
+HTTPS	-->	32.0
+UDP	-->	74.67
+ICMP	-->	40.0
+OSPF	-->	84.0
+BGP	-->	90.67
+ARP	-->	53.33
+VLAN	-->	40.0
+IDS	-->	53.33
+NAT	-->	10.67
+Programming	-->	50.91
+CentOS	-->	26.67
+IOS	-->	53.33
+Tools	-->	32.0
+IDE	-->	106.67
+Design	-->	26.67
+System	-->	11.67
+ADS	-->	53.33
+VMware	-->	26.67
+PuTTY	-->	44.8
+CERTIFICATION	-->	156.31
+AWS	-->	53.33
+CLF	-->	53.33
+EXPERIENCE	-->	160.0
+Marmon	-->	30.0
+Food	-->	65.0
+Beverages	-->	17.78
+Technologies	-->	13.33
+Cornelius	-->	17.78
+June	-->	40.0
+Dongle	-->	26.67
+Python	-->	10.67
+Food	-->	28.0
+Holding	-->	22.86
+Bin	-->	53.33
+ACADEMIC	-->	140.0
+PROJECTS	-->	160.0
+Secure	-->	26.67
+2	-->	PROJECTS : 	-->	50.0
+networks	-->	25.0
+Aug	-->	23.33
+Design	-->	26.67
+Man	-->	53.33
+Middle	-->	26.67
+problem	-->	17.14
+Illumino	-->	12.5
+IoT	-->	53.33
+Smart	-->	46.0
+Light	-->	62.4
+Aug	-->	23.33
+Dec	-->	53.33
+Designed	-->	20.0
+mode	-->	25.0
+Voice	-->	32.0
+Hoc	-->	53.33
+Networks	-->	12.5
+WANET	-->	150.4
+Aug	-->	23.33
+Dec	-->	53.33
+Simple	-->	16.67
+WANET	-->	32.0
+Experiencing	-->	19.17
+Box	-->	53.33
+Jan	-->	53.33
+Worked	-->	26.67
+Open	-->	40.0
+Box	-->	53.33
+Ubuntu	-->	16.67
+Demonstrated	-->	13.33
+VLANs	-->	32.0
+VMs	-->	106.67
+VMs	-->	106.67
+PING	-->	44.0
+Corporate	-->	28.89
+Company	-->	65.71
+Network	-->	51.43
+Design	-->	38.33
+Aug	-->	60.67
+Dec	-->	53.33
+Designed	-->	20.0
+implemented	-->	12.73
+OSPF	-->	80.0
+BGP	-->	90.67
+DNS	-->	53.33
+VLAN	-->	48.0
+DHCP	-->	80.0
+HSRP	-->	80.0
+Design	-->	43.33
+Band	-->	65.0
+8PSK	-->	95.0
+Modulator	-->	17.78
+ADS	-->	144.0
+Jan	-->	53.33
+8	-->	of X - Band 8PSK Modulator using ADS 	-->	37.5
+Designed	-->	20.0
+ISRO	-->	120.0
+Indian	-->	16.67
+Space	-->	52.0
+Research	-->	32.5
+Organization	-->	13.33
+ADS	-->	53.33
+Finished
+NISARGA	-->	160.0		Word Test 2
+HASSAN	-->	160.0		Word Test 2
+SREEDHAR	-->	160.0		Word Test 2
+NISARGA HASSAN 	-->	100.0		Para Test 2
+NISARGA	-->	113.64		Capital
+HASSAN	-->	100.0		Capital
+SREEDHAR	-->	138.31		Capital
+NISARGA	-->	97.02		Test1
+HASSAN	-->	105.56		Test1
+SREEDHAR	-->	106.25		Test1
+N/A	-->	118.9153		Test1
+Jose	-->	18.75		Test1
+925	-->	25.0		Test1
+nisarga.nishu20@gmail.com	-->	6.0		Test1
+www.linkedin.com/in/nisarga-sreedhar-39938516b	-->	1.63		Test1
+EDUCATION	-->	160.0		Word Test 2
+EDUCATION	-->	115.16		Capital
+EDUCATION	-->	101.39		Test1
+N/A	-->	61.1111		Test1
+Engineering	-->	32.73		Word Test 2
+Computer	-->	45.0		Word Test 2
+2020	-->	75.0		Test1
+Master's	-->	9.38		Test1
+Electrical	-->	3.75		Test1
+Engineering	-->	10.23		Test1
+Computer	-->	18.75		Test1
+Jose	-->	18.75		Test1
+May	-->	86.67		Word Test 2
+May	-->	45.83		Test1
+N/A	-->	16.6667		Test1
+Broadband	-->	17.78		Word Test 2
+Voice	-->	32.0		Word Test 2
+Broadband	-->	8.33		Test1
+Voice	-->	7.5		Test1
+Bachelor	-->	32.5		Word Test 2
+Engineering	-->	14.55		Word Test 2
+Telecommunication	-->	19.41		Word Test 2
+Engineering	-->	20.91		Word Test 2
+Dayananda	-->	17.78		Word Test 2
+Bachelor	-->	18.75		Test1
+Engineering	-->	3.41		Test1
+Telecommunication	-->	4.41		Test1
+Engineering	-->	3.41		Test1
+Dayananda	-->	4.17		Test1
+Visvesvaraya	-->	3.12		Test1
+2017	-->	75.0		Test1
+June	-->	40.0		Word Test 2
+June	-->	18.75		Test1
+TECHNICAL	-->	160.0		Word Test 2
+SKILLS	-->	160.0		Word Test 2
+TECHNICAL	-->	105.23		Capital
+SKILLS	-->	65.36		Capital
+TECHNICAL	-->	66.67		Test1
+SKILLS	-->	72.92		Test1
+N/A	-->	44.4444		Test1
+Network	-->	51.43		Word Test 2
+HTTP	-->	40.0		Word Test 2
+DNS	-->	53.33		Word Test 2
+DHCP	-->	84.0		Word Test 2
+HTTPS	-->	32.0		Word Test 2
+UDP	-->	74.67		Word Test 2
+ICMP	-->	40.0		Word Test 2
+OSPF	-->	84.0		Word Test 2
+BGP	-->	90.67		Word Test 2
+ARP	-->	53.33		Word Test 2
+VLAN	-->	40.0		Word Test 2
+Network	-->	16.07		Test1
+technologies	-->	3.12		Test1
+HTTP	-->	18.75		Test1
+DNS	-->	12.5		Test1
+DHCP	-->	32.29		Test1
+HTTPS	-->	15.0		Test1
+UDP	-->	27.78		Test1
+IPv6	-->	18.75		Test1
+ICMP	-->	18.75		Test1
+OSPF	-->	20.83		Test1
+BGP	-->	12.5		Test1
+ARP	-->	12.5		Test1
+VLAN	-->	9.38		Test1
+IDS	-->	53.33		Word Test 2
+NAT	-->	10.67		Word Test 2
+IDS	-->	12.5		Test1
+802.11	-->	25.0		Test1
+WPA2	-->	18.75		Test1
+WPA3	-->	9.38		Test1
+Programming	-->	50.91		Word Test 2
+Programming	-->	26.14		Test1
+CentOS	-->	26.67		Word Test 2
+IOS	-->	53.33		Word Test 2
+OS	-->	81.25		Test1
+Platform	-->	4.69		Test1
+CentOS	-->	6.25		Test1
+Kali	-->	9.38		Test1
+IOS	-->	12.5		Test1
+Tools	-->	32.0		Word Test 2
+IDE	-->	106.67		Word Test 2
+Design	-->	26.67		Word Test 2
+System	-->	11.67		Word Test 2
+ADS	-->	53.33		Word Test 2
+VMware	-->	26.67		Word Test 2
+PuTTY	-->	44.8		Word Test 2
+Tools	-->	7.5		Test1
+and	-->	27.78		Test1
+IDE	-->	48.61		Test1
+Design	-->	6.25		Test1
+ADS	-->	12.5		Test1
+Wireshark	-->	4.17		Test1
+VMware	-->	6.25		Test1
+Workstation	-->	3.41		Test1
+VirtualBox	-->	7.5		Test1
+PuTTY	-->	15.0		Test1
+CERTIFICATION	-->	156.31		Word Test 2
+CERTIFICATION	-->	167.65		Capital
+CERTIFICATION	-->	87.18		Test1
+N/A	-->	47.4359		Test1
+200-301	-->	32.14		Test1
+AWS	-->	53.33		Word Test 2
+AWS	-->	27.78		Test1
+CLF	-->	53.33		Word Test 2
+CLF	-->	12.5		Test1
+C01	-->	25.0		Test1
+EXPERIENCE	-->	160.0		Word Test 2
+EXPERIENCE	-->	119.63		Capital
+EXPERIENCE	-->	101.25		Test1
+N/A	-->	60.0		Test1
+Marmon	-->	30.0		Word Test 2
+Food	-->	65.0		Word Test 2
+Beverages	-->	17.78		Word Test 2
+Technologies	-->	13.33		Word Test 2
+Cornelius	-->	17.78		Word Test 2
+June	-->	40.0		Word Test 2
+Marmon	-->	6.25		Test1
+Food	-->	32.29		Test1
+&	-->	75.0		Test1
+Beverages	-->	8.33		Test1
+Technologies	-->	3.12		Test1
+Cornelius	-->	4.17		Test1
+India	-->	7.5		Test1
+June	-->	18.75		Test1
+2019	-->	75.0		Test1
+July	-->	32.29		Test1
+2019	-->	75.0		Test1
+based	-->	7.5		Test1
+Dongle	-->	26.67		Word Test 2
+Dongle	-->	6.25		Test1
+Python	-->	10.67		Word Test 2
+Food	-->	28.0		Word Test 2
+Holding	-->	22.86		Word Test 2
+Bin	-->	53.33		Word Test 2
+Python	-->	6.25		Test1
+Holding	-->	10.71		Test1
+Bin	-->	12.5		Test1
+ACADEMIC	-->	140.0		Word Test 2
+ACADEMIC	-->	107.16		Capital
+ACADEMIC	-->	79.17		Test1
+N/A	-->	66.6667		Test1
+PROJECTS	-->	160.0		Word Test 2
+PROJECTS	-->	101.83		Capital
+PROJECTS	-->	97.4		Test1
+Aug	-->	23.33		Word Test 2
+2019	-->	75.0		Test1
+Secure	-->	26.67		Word Test 2
+networks	-->	25.0		Word Test 2
+Secure	-->	6.25		Test1
+IoT	-->	12.5		Test1
+networks	-->	9.38		Test1
+Design	-->	26.67		Word Test 2
+Design	-->	12.5		Test1
+Man	-->	53.33		Word Test 2
+Middle	-->	26.67		Word Test 2
+Man	-->	27.78		Test1
+Middle	-->	12.5		Test1
+Kali	-->	9.38		Test1
+problem	-->	17.14		Word Test 2
+Detection	-->	8.33		Test1
+problem	-->	5.36		Test1
+Illumino	-->	12.5		Word Test 2
+Illumino	-->	9.38		Test1
+IoT	-->	53.33		Word Test 2
+Smart	-->	46.0		Word Test 2
+Dec	-->	53.33		Word Test 2
+IoT	-->	12.5		Test1
+Smart	-->	7.5		Test1
+Dec	-->	27.78		Test1
+2019	-->	75.0		Test1
+Light	-->	62.4		Word Test 2
+Light	-->	24.17		Test1
+2019	-->	75.0		Test1
+Aug	-->	23.33		Word Test 2
+ESP8266	-->	32.14		Test1
+Designed	-->	20.0		Word Test 2
+mode	-->	25.0		Word Test 2
+Designed	-->	9.38		Test1
+mode	-->	9.38		Test1
+2019	-->	75.0		Test1
+Voice	-->	32.0		Word Test 2
+Hoc	-->	53.33		Word Test 2
+Networks	-->	12.5		Word Test 2
+WANET	-->	150.4		Word Test 2
+Dec	-->	53.33		Word Test 2
+WANET	-->	52.6		Capital
+Voice	-->	15.0		Test1
+Wireless	-->	9.38		Test1
+Ad	-->	45.83		Test1
+Hoc	-->	27.78		Test1
+Networks	-->	4.69		Test1
+WANET	-->	47.5		Test1
+N/A	-->	7.6768		Test1
+Dec	-->	27.78		Test1
+2019	-->	75.0		Test1
+Aug	-->	23.33		Word Test 2
+Simple	-->	16.67		Word Test 2
+WANET	-->	32.0		Word Test 2
+WANET	-->	58.02		Capital
+Simple	-->	6.25		Test1
+WANET	-->	7.5		Test1
+Box	-->	53.33		Word Test 2
+Virtual	-->	10.71		Test1
+Box	-->	27.78		Test1
+Virtualization	-->	5.36		Test1
+using	-->	7.5		Test1
+Experiencing	-->	19.17		Word Test 2
+Jan	-->	53.33		Word Test 2
+Experiencing	-->	3.12		Test1
+Jan	-->	27.78		Test1
+2019	-->	75.0		Test1
+2019	-->	75.0		Test1
+Worked	-->	26.67		Word Test 2
+Open	-->	40.0		Word Test 2
+Box	-->	53.33		Word Test 2
+Ubuntu	-->	16.67		Word Test 2
+Worked	-->	6.25		Test1
+Open	-->	9.38		Test1
+Virtual	-->	5.36		Test1
+Box	-->	12.5		Test1
+Ubuntu	-->	6.25		Test1
+Demonstrated	-->	13.33		Word Test 2
+VLANs	-->	32.0		Word Test 2
+VMs	-->	106.67		Word Test 2
+Demonstrated	-->	3.12		Test1
+VLANs	-->	7.5		Test1
+VMs	-->	45.83		Test1
+VMs	-->	106.67		Word Test 2
+PING	-->	44.0		Word Test 2
+VMs	-->	45.83		Test1
+PING	-->	9.38		Test1
+Network	-->	51.43		Word Test 2
+Design	-->	38.33		Word Test 2
+Network	-->	16.07		Test1
+Design	-->	12.5		Test1
+Company	-->	65.71		Word Test 2
+Dec	-->	53.33		Word Test 2
+Company	-->	30.36		Test1
+Dec	-->	27.78		Test1
+2018	-->	75.0		Test1
+Corporate	-->	28.89		Word Test 2
+Corporate	-->	8.33		Test1
+N/A	-->	3.5714		Test1
+2018	-->	75.0		Test1
+Aug	-->	60.67		Word Test 2
+Designed	-->	20.0		Word Test 2
+implemented	-->	12.73		Word Test 2
+•	-->	75.0		Test1
+Designed	-->	9.38		Test1
+OSPF	-->	80.0		Word Test 2
+BGP	-->	90.67		Word Test 2
+DNS	-->	53.33		Word Test 2
+VLAN	-->	48.0		Word Test 2
+DHCP	-->	80.0		Word Test 2
+HSRP	-->	80.0		Word Test 2
+OSPF	-->	20.83		Test1
+BGP	-->	27.78		Test1
+DNS	-->	12.5		Test1
+VLAN	-->	9.38		Test1
+DHCP	-->	45.83		Test1
+HSRP	-->	32.29		Test1
+Design	-->	43.33		Word Test 2
+Band	-->	65.0		Word Test 2
+8PSK	-->	95.0		Word Test 2
+Modulator	-->	17.78		Word Test 2
+ADS	-->	144.0		Word Test 2
+Design	-->	18.75		Test1
+X	-->	100.0		Test1
+Band	-->	45.83		Test1
+8PSK	-->	64.58		Test1
+Modulator	-->	4.17		Test1
+using	-->	7.5		Test1
+ADS	-->	45.83		Test1
+N/A	-->	22.2222		Test1
+Jan	-->	53.33		Word Test 2
+Jan	-->	27.78		Test1
+2017	-->	75.0		Test1
+April	-->	7.5		Test1
+2017	-->	75.0		Test1
+Designed	-->	20.0		Word Test 2
+ISRO	-->	120.0		Word Test 2
+Indian	-->	16.67		Word Test 2
+Space	-->	52.0		Word Test 2
+Research	-->	32.5		Word Test 2
+Organization	-->	13.33		Word Test 2
+Designed	-->	9.38		Test1
+ISRO	-->	63.54		Test1
+Indian	-->	12.5		Test1
+Space	-->	15.0		Test1
+Research	-->	18.75		Test1
+Organization	-->	3.12		Test1
+Bangalore	-->	4.17		Test1
+ADS	-->	53.33		Word Test 2
+Performed	-->	4.17		Test1
+components	-->	3.75		Test1
+8.75GHz	-->	16.07		Test1
+available	-->	4.17		Test1
+ADS	-->	12.5		Test1
+Return	-->	6.25		Test1
+FINISHED ALL
+Saved   -->Document_402_102-10_09:47FINAL.jpg
+1 - THRESHOLDSYMBOLMEANTESTWORD --> Splits words into symbols and run tests for each symbol using the findInfo() and their weights.
+	 If the average of all those weights are greater than this number then it is counted
+		0		
+
+1 - THRESHOLDPARAGROUPSYMWORD --> Uses same method as the avg of symbols but then add another layer of averge of words
+		3		
+
+1 - capitalWeight --> how much extra weight for capital words
+		0.6000000000000001		
+
+2 - THRESHOLDFORWORD --> threshold for the weights of the entire word summary (out of 100)
+	 VAR = "weights" FOR ALL THE WEIGHTS 0 AND 1 are True and False for each out of the 4 tests --> mean, median, mode, and outlier
+		10		
+
+2 - THRESHOLDFORPARA --> Threshold for each word in the paragraph indiviually. Para can have different thresholds as a single word
+	 Also counts in the threshold of "TOTALSUMFINALPARATHRESHOLD"
+		0		
+
+2 - CUTOFWORDSTHATARE3ORUNDER --> Simple cut off words that are under 3 letters.
+	 Watch out for arconmys and for words that are incorectly detected  EX: = "&"
+		T		
+
+2 - MAXIMUMLENGTHOFWORDSPARA --> The maximum number of words that should be in a paragraph for it to be even counted as a possiblity for bold
+		10		
+
+2 - TOTALSUMFINALPARATHRESHOLD --> threshold for average of the total weights for each word in the paragraph (out of 100)
+	 same as word (just average)
+		0		
+
+2 - THRESHOLDFORANYTHINGTHATISNOTALETTER --> There are 52 detected possible letters in the english dictionary. If it is a punctionaltion or special character
+	 it defaults to this number for all of the 4 tests (Mean,median,mode,outlier). EX: "." or "?"
+		30		
+
+[[((543, 56), (718, 56), (718, 90), (543, 90)), 160.0, 'NISARGA', 'Word'], [((732, 56), (886, 56), (886, 90), (732, 90)), 160.0, 'HASSAN', 'Word'], [((899, 56), (1112, 56), (1112, 90), (899, 90)), 160.0, 'SREEDHAR', 'Word'], [((543, 56), (1112, 56), (1112, 90), (543, 90)), 100.0, 'NISARGA HASSAN ', 'Para'], [((543, 56), (718, 56), (718, 90), (543, 90)), 113.64, 'NISARGA', 'Capital'], [((732, 56), (886, 56), (886, 90), (732, 90)), 100.0, 'HASSAN', 'Capital'], [((899, 56), (1112, 56), (1112, 90), (899, 90)), 138.31, 'SREEDHAR', 'Capital'], [((543, 56), (718, 56), (718, 90), (543, 90)), 97.02, 'NISARGA', 'SymbolAvg'], [((732, 56), (886, 56), (886, 90), (732, 90)), 105.56, 'HASSAN', 'SymbolAvg'], [((899, 56), (1112, 56), (1112, 90), (899, 90)), 106.25, 'SREEDHAR', 'SymbolAvg'], [((543, 56), (1112, 56), (1112, 90), (543, 90)), 118.9153, 'N/A', 'SymbolAvg'], [((192, 118), (238, 118), (238, 151), (192, 151)), 18.75, 'Jose', 'SymbolAvg'], [((432, 118), (470, 118), (470, 151), (432, 151)), 25.0, '925', 'SymbolAvg'], [((608, 118), (918, 118), (918, 151), (608, 151)), 6.0, 'nisarga.nishu20@gmail.com', 'SymbolAvg'], [((948, 118), (1513, 118), (1513, 151), (948, 151)), 1.63, 'www.linkedin.com/in/nisarga-sreedhar-39938516b', 'SymbolAvg'], [((82, 175), (283, 175), (283, 205), (82, 205)), 160.0, 'EDUCATION', 'Word'], [((82, 175), (283, 175), (283, 205), (82, 205)), 115.16, 'EDUCATION', 'Capital'], [((82, 175), (283, 175), (283, 205), (82, 205)), 101.39, 'EDUCATION', 'SymbolAvg'], [((82, 175), (293, 175), (293, 205), (82, 205)), 61.1111, 'N/A', 'SymbolAvg'], [((346, 232), (489, 232), (489, 264), (346, 264)), 32.73, 'Engineering', 'Word'], [((507, 232), (627, 232), (627, 264), (507, 264)), 45.0, 'Computer', 'Word'], [((1512, 232), (1566, 230), (1567, 258), (1513, 260)), 75.0, '2020', 'SymbolAvg'], [((83, 232), (185, 232), (185, 264), (83, 264)), 9.38, "Master's", 'SymbolAvg'], [((225, 232), (337, 232), (337, 264), (225, 264)), 3.75, 'Electrical', 'SymbolAvg'], [((346, 232), (489, 232), (489, 264), (346, 264)), 10.23, 'Engineering', 'SymbolAvg'], [((507, 232), (627, 232), (627, 264), (507, 264)), 18.75, 'Computer', 'SymbolAvg'], [((848, 232), (893, 232), (893, 264), (848, 264)), 18.75, 'Jose', 'SymbolAvg'], [((1451, 234), (1504, 232), (1505, 260), (1452, 262)), 86.67, 'May', 'Word'], [((1451, 234), (1504, 232), (1505, 260), (1452, 262)), 45.83, 'May', 'SymbolAvg'], [((1451, 234), (1566, 230), (1567, 258), (1452, 262)), 16.6667, 'N/A', 'SymbolAvg'], [((427, 265), (546, 265), (546, 296), (427, 296)), 17.78, 'Broadband', 'Word'], [((1244, 265), (1307, 265), (1307, 296), (1244, 296)), 32.0, 'Voice', 'Word'], [((427, 265), (546, 265), (546, 296), (427, 296)), 8.33, 'Broadband', 'SymbolAvg'], [((1244, 265), (1307, 265), (1307, 296), (1244, 296)), 7.5, 'Voice', 'SymbolAvg'], [((82, 296), (188, 296), (188, 330), (82, 330)), 32.5, 'Bachelor', 'Word'], [((226, 296), (370, 296), (370, 330), (226, 330)), 14.55, 'Engineering', 'Word'], [((409, 296), (641, 296), (641, 330), (409, 330)), 19.41, 'Telecommunication', 'Word'], [((650, 296), (793, 296), (793, 330), (650, 330)), 20.91, 'Engineering', 'Word'], [((809, 296), (933, 296), (933, 330), (809, 330)), 17.78, 'Dayananda', 'Word'], [((82, 296), (188, 296), (188, 330), (82, 330)), 18.75, 'Bachelor', 'SymbolAvg'], [((226, 296), (370, 296), (370, 330), (226, 330)), 3.41, 'Engineering', 'SymbolAvg'], [((409, 296), (641, 296), (641, 330), (409, 330)), 4.41, 'Telecommunication', 'SymbolAvg'], [((650, 296), (793, 296), (793, 330), (650, 330)), 3.41, 'Engineering', 'SymbolAvg'], [((809, 296), (933, 296), (933, 330), (809, 330)), 4.17, 'Dayananda', 'SymbolAvg'], [((1285, 296), (1432, 296), (1432, 330), (1285, 330)), 3.12, 'Visvesvaraya', 'SymbolAvg'], [((1514, 330), (1568, 329), (1568, 356), (1514, 357)), 75.0, '2017', 'SymbolAvg'], [((1450, 331), (1505, 330), (1505, 357), (1450, 358)), 40.0, 'June', 'Word'], [((1450, 331), (1505, 330), (1505, 357), (1450, 358)), 18.75, 'June', 'SymbolAvg'], [((89, 390), (279, 390), (279, 419), (89, 419)), 160.0, 'TECHNICAL', 'Word'], [((292, 390), (410, 390), (410, 419), (292, 419)), 160.0, 'SKILLS', 'Word'], [((89, 390), (279, 390), (279, 419), (89, 419)), 105.23, 'TECHNICAL', 'Capital'], [((292, 390), (410, 390), (410, 419), (292, 419)), 65.36, 'SKILLS', 'Capital'], [((89, 390), (279, 390), (279, 419), (89, 419)), 66.67, 'TECHNICAL', 'SymbolAvg'], [((292, 390), (410, 390), (410, 419), (292, 419)), 72.92, 'SKILLS', 'SymbolAvg'], [((89, 390), (424, 390), (424, 419), (89, 419)), 44.4444, 'N/A', 'SymbolAvg'], [((83, 447), (185, 447), (185, 478), (83, 478)), 51.43, 'Network', 'Word'], [((354, 447), (416, 447), (416, 478), (354, 478)), 40.0, 'HTTP', 'Word'], [((437, 447), (489, 447), (489, 478), (437, 478)), 53.33, 'DNS', 'Word'], [((506, 447), (578, 447), (578, 478), (506, 478)), 84.0, 'DHCP', 'Word'], [((594, 447), (677, 447), (677, 478), (594, 478)), 32.0, 'HTTPS', 'Word'], [((911, 447), (964, 447), (964, 478), (911, 478)), 74.67, 'UDP', 'Word'], [((1113, 447), (1178, 447), (1178, 478), (1113, 478)), 40.0, 'ICMP', 'Word'], [((1195, 447), (1259, 447), (1259, 478), (1195, 478)), 84.0, 'OSPF', 'Word'], [((1275, 447), (1327, 447), (1327, 478), (1275, 478)), 90.67, 'BGP', 'Word'], [((1343, 447), (1395, 447), (1395, 478), (1343, 478)), 53.33, 'ARP', 'Word'], [((1411, 447), (1481, 447), (1481, 478), (1411, 478)), 40.0, 'VLAN', 'Word'], [((83, 447), (185, 447), (185, 478), (83, 478)), 16.07, 'Network', 'SymbolAvg'], [((193, 447), (335, 447), (335, 478), (193, 478)), 3.12, 'technologies', 'SymbolAvg'], [((354, 447), (416, 447), (416, 478), (354, 478)), 18.75, 'HTTP', 'SymbolAvg'], [((437, 447), (489, 447), (489, 478), (437, 478)), 12.5, 'DNS', 'SymbolAvg'], [((506, 447), (578, 447), (578, 478), (506, 478)), 32.29, 'DHCP', 'SymbolAvg'], [((594, 447), (677, 447), (677, 478), (594, 478)), 15.0, 'HTTPS', 'SymbolAvg'], [((911, 447), (964, 447), (964, 478), (911, 478)), 27.78, 'UDP', 'SymbolAvg'], [((1047, 447), (1096, 447), (1096, 478), (1047, 478)), 18.75, 'IPv6', 'SymbolAvg'], [((1113, 447), (1178, 447), (1178, 478), (1113, 478)), 18.75, 'ICMP', 'SymbolAvg'], [((1195, 447), (1259, 447), (1259, 478), (1195, 478)), 20.83, 'OSPF', 'SymbolAvg'], [((1275, 447), (1327, 447), (1327, 478), (1275, 478)), 12.5, 'BGP', 'SymbolAvg'], [((1343, 447), (1395, 447), (1395, 478), (1343, 478)), 12.5, 'ARP', 'SymbolAvg'], [((1411, 447), (1481, 447), (1481, 478), (1411, 478)), 9.38, 'VLAN', 'SymbolAvg'], [((191, 480), (233, 480), (233, 509), (191, 509)), 53.33, 'IDS', 'Word'], [((250, 480), (305, 480), (305, 509), (250, 509)), 10.67, 'NAT', 'Word'], [((191, 480), (233, 480), (233, 509), (191, 509)), 12.5, 'IDS', 'SymbolAvg'], [((394, 480), (465, 480), (465, 509), (394, 509)), 25.0, '802.11', 'SymbolAvg'], [((570, 480), (644, 480), (644, 509), (570, 509)), 18.75, 'WPA2', 'SymbolAvg'], [((659, 480), (735, 480), (735, 509), (659, 509)), 9.38, 'WPA3', 'SymbolAvg'], [((83, 513), (248, 513), (248, 543), (83, 543)), 50.91, 'Programming', 'Word'], [((83, 513), (248, 513), (248, 543), (83, 543)), 26.14, 'Programming', 'SymbolAvg'], [((428, 543), (513, 543), (513, 573), (428, 573)), 26.67, 'CentOS', 'Word'], [((745, 543), (786, 543), (786, 573), (745, 573)), 53.33, 'IOS', 'Word'], [((83, 543), (118, 543), (118, 573), (83, 573)), 81.25, 'OS', 'SymbolAvg'], [((126, 543), (221, 543), (221, 573), (126, 573)), 4.69, 'Platform', 'SymbolAvg'], [((428, 543), (513, 543), (513, 573), (428, 573)), 6.25, 'CentOS', 'SymbolAvg'], [((540, 543), (584, 543), (584, 573), (540, 573)), 9.38, 'Kali', 'SymbolAvg'], [((745, 543), (786, 543), (786, 573), (745, 573)), 12.5, 'IOS', 'SymbolAvg'], [((88, 575), (151, 575), (151, 606), (88, 606)), 32.0, 'Tools', 'Word'], [((211, 575), (257, 575), (257, 606), (211, 606)), 106.67, 'IDE', 'Word'], [((392, 575), (469, 575), (469, 606), (392, 606)), 26.67, 'Design', 'Word'], [((478, 575), (557, 575), (557, 606), (478, 606)), 11.67, 'System', 'Word'], [((575, 575), (627, 575), (627, 606), (575, 606)), 53.33, 'ADS', 'Word'], [((781, 575), (877, 575), (877, 606), (781, 606)), 26.67, 'VMware', 'Word'], [((1493, 575), (1574, 575), (1574, 606), (1493, 606)), 44.8, 'PuTTY', 'Word'], [((88, 575), (151, 575), (151, 606), (88, 606)), 7.5, 'Tools', 'SymbolAvg'], [((159, 575), (202, 575), (202, 606), (159, 606)), 27.78, 'and', 'SymbolAvg'], [((211, 575), (257, 575), (257, 606), (211, 606)), 48.61, 'IDE', 'SymbolAvg'], [((392, 575), (469, 575), (469, 606), (392, 606)), 6.25, 'Design', 'SymbolAvg'], [((575, 575), (627, 575), (627, 606), (575, 606)), 12.5, 'ADS', 'SymbolAvg'], [((652, 575), (762, 575), (762, 606), (652, 606)), 4.17, 'Wireshark', 'SymbolAvg'], [((781, 575), (877, 575), (877, 606), (781, 606)), 6.25, 'VMware', 'SymbolAvg'], [((885, 575), (1019, 575), (1019, 606), (885, 606)), 3.41, 'Workstation', 'SymbolAvg'], [((1037, 575), (1158, 575), (1158, 606), (1037, 606)), 7.5, 'VirtualBox', 'SymbolAvg'], [((1493, 575), (1574, 575), (1574, 606), (1493, 606)), 15.0, 'PuTTY', 'SymbolAvg'], [((87, 636), (353, 636), (353, 669), (87, 669)), 156.31, 'CERTIFICATION', 'Word'], [((87, 636), (353, 636), (353, 669), (87, 669)), 167.65, 'CERTIFICATION', 'Capital'], [((87, 636), (353, 636), (353, 669), (87, 669)), 87.18, 'CERTIFICATION', 'SymbolAvg'], [((87, 636), (369, 636), (369, 669), (87, 669)), 47.4359, 'N/A', 'SymbolAvg'], [((624, 697), (711, 697), (711, 724), (624, 724)), 32.14, '200-301', 'SymbolAvg'], [((125, 728), (184, 728), (184, 756), (125, 756)), 53.33, 'AWS', 'Word'], [((125, 728), (184, 728), (184, 756), (125, 756)), 27.78, 'AWS', 'SymbolAvg'], [((520, 730), (570, 730), (570, 759), (520, 759)), 53.33, 'CLF', 'Word'], [((520, 730), (570, 730), (570, 759), (520, 759)), 12.5, 'CLF', 'SymbolAvg'], [((581, 731), (621, 731), (621, 759), (581, 759)), 25.0, 'C01', 'SymbolAvg'], [((82, 785), (298, 785), (298, 814), (82, 814)), 160.0, 'EXPERIENCE', 'Word'], [((82, 785), (298, 785), (298, 814), (82, 814)), 119.63, 'EXPERIENCE', 'Capital'], [((82, 785), (298, 785), (298, 814), (82, 814)), 101.25, 'EXPERIENCE', 'SymbolAvg'], [((82, 785), (307, 785), (307, 814), (82, 814)), 60.0, 'N/A', 'SymbolAvg'], [((82, 845), (186, 845), (186, 877), (82, 877)), 30.0, 'Marmon', 'Word'], [((194, 845), (253, 845), (253, 877), (194, 877)), 65.0, 'Food', 'Word'], [((292, 845), (409, 845), (409, 877), (292, 877)), 17.78, 'Beverages', 'Word'], [((418, 845), (573, 845), (573, 877), (418, 877)), 13.33, 'Technologies', 'Word'], [((587, 845), (702, 845), (702, 877), (587, 877)), 17.78, 'Cornelius', 'Word'], [((1321, 845), (1375, 845), (1375, 874), (1321, 874)), 40.0, 'June', 'Word'], [((82, 845), (186, 845), (186, 877), (82, 877)), 6.25, 'Marmon', 'SymbolAvg'], [((194, 845), (253, 845), (253, 877), (194, 877)), 32.29, 'Food', 'SymbolAvg'], [((263, 845), (282, 845), (282, 877), (263, 877)), 75.0, '&', 'SymbolAvg'], [((292, 845), (409, 845), (409, 877), (292, 877)), 8.33, 'Beverages', 'SymbolAvg'], [((418, 845), (573, 845), (573, 877), (418, 877)), 3.12, 'Technologies', 'SymbolAvg'], [((587, 845), (702, 845), (702, 877), (587, 877)), 4.17, 'Cornelius', 'SymbolAvg'], [((717, 845), (777, 845), (777, 877), (717, 877)), 7.5, 'India', 'SymbolAvg'], [((1321, 845), (1375, 845), (1375, 874), (1321, 874)), 18.75, 'June', 'SymbolAvg'], [((1385, 845), (1438, 845), (1438, 874), (1385, 874)), 75.0, '2019', 'SymbolAvg'], [((1463, 846), (1512, 846), (1512, 875), (1463, 875)), 32.29, 'July', 'SymbolAvg'], [((1521, 846), (1574, 846), (1574, 875), (1521, 875)), 75.0, '2019', 'SymbolAvg'], [((211, 910), (272, 910), (272, 941), (211, 941)), 7.5, 'based', 'SymbolAvg'], [((260, 944), (340, 944), (340, 977), (260, 977)), 26.67, 'Dongle', 'Word'], [((260, 944), (340, 944), (340, 977), (260, 977)), 6.25, 'Dongle', 'SymbolAvg'], [((125, 979), (202, 979), (202, 1009), (125, 1009)), 10.67, 'Python', 'Word'], [((749, 979), (805, 979), (805, 1009), (749, 1009)), 28.0, 'Food', 'Word'], [((814, 979), (902, 979), (902, 1009), (814, 1009)), 22.86, 'Holding', 'Word'], [((911, 979), (950, 979), (950, 1009), (911, 1009)), 53.33, 'Bin', 'Word'], [((125, 979), (202, 979), (202, 1009), (125, 1009)), 6.25, 'Python', 'SymbolAvg'], [((814, 979), (902, 979), (902, 1009), (814, 1009)), 10.71, 'Holding', 'SymbolAvg'], [((911, 979), (950, 979), (950, 1009), (911, 1009)), 12.5, 'Bin', 'SymbolAvg'], [((81, 1042), (262, 1043), (262, 1074), (81, 1073)), 140.0, 'ACADEMIC', 'Word'], [((81, 1042), (262, 1043), (262, 1074), (81, 1073)), 107.16, 'ACADEMIC', 'Capital'], [((81, 1042), (262, 1043), (262, 1074), (81, 1073)), 79.17, 'ACADEMIC', 'SymbolAvg'], [((81, 1042), (461, 1044), (461, 1075), (81, 1073)), 66.6667, 'N/A', 'SymbolAvg'], [((278, 1043), (450, 1044), (450, 1075), (278, 1074)), 160.0, 'PROJECTS', 'Word'], [((278, 1043), (450, 1044), (450, 1075), (278, 1074)), 101.83, 'PROJECTS', 'Capital'], [((278, 1043), (450, 1044), (450, 1075), (278, 1074)), 97.4, 'PROJECTS', 'SymbolAvg'], [((1334, 1119), (1382, 1119), (1382, 1147), (1334, 1147)), 23.33, 'Aug', 'Word'], [((1391, 1119), (1444, 1119), (1444, 1147), (1391, 1147)), 75.0, '2019', 'SymbolAvg'], [((88, 1120), (166, 1120), (166, 1148), (88, 1148)), 26.67, 'Secure', 'Word'], [((351, 1120), (457, 1120), (457, 1148), (351, 1148)), 25.0, 'networks', 'Word'], [((88, 1120), (166, 1120), (166, 1148), (88, 1148)), 6.25, 'Secure', 'SymbolAvg'], [((300, 1120), (341, 1120), (341, 1148), (300, 1148)), 12.5, 'IoT', 'SymbolAvg'], [((351, 1120), (457, 1120), (457, 1148), (351, 1148)), 9.38, 'networks', 'SymbolAvg'], [((125, 1179), (202, 1179), (202, 1211), (125, 1211)), 26.67, 'Design', 'Word'], [((125, 1179), (202, 1179), (202, 1211), (125, 1211)), 12.5, 'Design', 'SymbolAvg'], [((243, 1212), (291, 1212), (291, 1243), (243, 1243)), 53.33, 'Man', 'Word'], [((370, 1212), (448, 1212), (448, 1243), (370, 1243)), 26.67, 'Middle', 'Word'], [((243, 1212), (291, 1212), (291, 1243), (243, 1243)), 27.78, 'Man', 'SymbolAvg'], [((370, 1212), (448, 1212), (448, 1243), (370, 1243)), 12.5, 'Middle', 'SymbolAvg'], [((835, 1212), (880, 1212), (880, 1243), (835, 1243)), 9.38, 'Kali', 'SymbolAvg'], [((597, 1246), (688, 1246), (688, 1276), (597, 1276)), 17.14, 'problem', 'Word'], [((125, 1246), (232, 1246), (232, 1276), (125, 1276)), 8.33, 'Detection', 'SymbolAvg'], [((597, 1246), (688, 1246), (688, 1276), (597, 1276)), 5.36, 'problem', 'SymbolAvg'], [((83, 1308), (183, 1309), (183, 1337), (83, 1336)), 12.5, 'Illumino', 'Word'], [((83, 1308), (183, 1309), (183, 1337), (83, 1336)), 9.38, 'Illumino', 'SymbolAvg'], [((201, 1310), (242, 1310), (242, 1337), (201, 1337)), 53.33, 'IoT', 'Word'], [((251, 1310), (323, 1311), (323, 1339), (251, 1338)), 46.0, 'Smart', 'Word'], [((1469, 1310), (1511, 1310), (1511, 1338), (1469, 1338)), 53.33, 'Dec', 'Word'], [((201, 1310), (242, 1310), (242, 1337), (201, 1337)), 12.5, 'IoT', 'SymbolAvg'], [((251, 1310), (323, 1311), (323, 1339), (251, 1338)), 7.5, 'Smart', 'SymbolAvg'], [((1469, 1310), (1511, 1310), (1511, 1338), (1469, 1338)), 27.78, 'Dec', 'SymbolAvg'], [((1520, 1310), (1574, 1309), (1574, 1336), (1520, 1337)), 75.0, '2019', 'SymbolAvg'], [((332, 1311), (395, 1312), (395, 1339), (332, 1338)), 62.4, 'Light', 'Word'], [((332, 1311), (395, 1312), (395, 1339), (332, 1338)), 24.17, 'Light', 'SymbolAvg'], [((1390, 1311), (1443, 1310), (1443, 1338), (1390, 1339)), 75.0, '2019', 'SymbolAvg'], [((1334, 1312), (1381, 1311), (1381, 1338), (1334, 1339)), 23.33, 'Aug', 'Word'], [((753, 1371), (854, 1371), (854, 1401), (753, 1401)), 32.14, 'ESP8266', 'SymbolAvg'], [((141, 1403), (245, 1403), (245, 1436), (141, 1436)), 20.0, 'Designed', 'Word'], [((933, 1403), (993, 1403), (993, 1436), (933, 1436)), 25.0, 'mode', 'Word'], [((141, 1403), (245, 1403), (245, 1436), (141, 1436)), 9.38, 'Designed', 'SymbolAvg'], [((933, 1403), (993, 1403), (993, 1436), (933, 1436)), 9.38, 'mode', 'SymbolAvg'], [((1520, 1491), (1574, 1490), (1574, 1518), (1520, 1519)), 75.0, '2019', 'SymbolAvg'], [((82, 1492), (147, 1492), (147, 1519), (82, 1519)), 32.0, 'Voice', 'Word'], [((444, 1492), (489, 1492), (489, 1519), (444, 1519)), 53.33, 'Hoc', 'Word'], [((499, 1492), (610, 1492), (610, 1519), (499, 1519)), 12.5, 'Networks', 'Word'], [((629, 1492), (731, 1492), (731, 1519), (629, 1519)), 150.4, 'WANET', 'Word'], [((1468, 1492), (1511, 1491), (1511, 1519), (1468, 1520)), 53.33, 'Dec', 'Word'], [((629, 1492), (731, 1492), (731, 1519), (629, 1519)), 52.6, 'WANET', 'Capital'], [((82, 1492), (147, 1492), (147, 1519), (82, 1519)), 15.0, 'Voice', 'SymbolAvg'], [((293, 1492), (392, 1492), (392, 1519), (293, 1519)), 9.38, 'Wireless', 'SymbolAvg'], [((401, 1492), (435, 1492), (435, 1519), (401, 1519)), 45.83, 'Ad', 'SymbolAvg'], [((444, 1492), (489, 1492), (489, 1519), (444, 1519)), 27.78, 'Hoc', 'SymbolAvg'], [((499, 1492), (610, 1492), (610, 1519), (499, 1519)), 4.69, 'Networks', 'SymbolAvg'], [((629, 1492), (731, 1492), (731, 1519), (629, 1519)), 47.5, 'WANET', 'SymbolAvg'], [((82, 1492), (740, 1492), (740, 1519), (82, 1519)), 7.6768, 'N/A', 'SymbolAvg'], [((1468, 1492), (1511, 1491), (1511, 1519), (1468, 1520)), 27.78, 'Dec', 'SymbolAvg'], [((1389, 1493), (1443, 1492), (1443, 1520), (1389, 1521)), 75.0, '2019', 'SymbolAvg'], [((1333, 1494), (1380, 1493), (1380, 1521), (1333, 1522)), 23.33, 'Aug', 'Word'], [((142, 1549), (218, 1549), (218, 1580), (142, 1580)), 16.67, 'Simple', 'Word'], [((720, 1549), (818, 1549), (818, 1580), (720, 1580)), 32.0, 'WANET', 'Word'], [((720, 1549), (818, 1549), (818, 1580), (720, 1580)), 58.02, 'WANET', 'Capital'], [((142, 1549), (218, 1549), (218, 1580), (142, 1580)), 6.25, 'Simple', 'SymbolAvg'], [((720, 1549), (818, 1549), (818, 1580), (720, 1580)), 7.5, 'WANET', 'SymbolAvg'], [((583, 1669), (627, 1669), (627, 1699), (583, 1699)), 53.33, 'Box', 'Word'], [((489, 1669), (573, 1669), (573, 1699), (489, 1699)), 10.71, 'Virtual', 'SymbolAvg'], [((583, 1669), (627, 1669), (627, 1699), (583, 1699)), 27.78, 'Box', 'SymbolAvg'], [((246, 1670), (411, 1669), (411, 1700), (246, 1701)), 5.36, 'Virtualization', 'SymbolAvg'], [((420, 1670), (481, 1670), (481, 1700), (420, 1700)), 7.5, 'using', 'SymbolAvg'], [((81, 1671), (237, 1670), (237, 1701), (81, 1702)), 19.17, 'Experiencing', 'Word'], [((1321, 1671), (1363, 1671), (1363, 1701), (1321, 1701)), 53.33, 'Jan', 'Word'], [((81, 1671), (237, 1670), (237, 1701), (81, 1702)), 3.12, 'Experiencing', 'SymbolAvg'], [((1321, 1671), (1363, 1671), (1363, 1701), (1321, 1701)), 27.78, 'Jan', 'SymbolAvg'], [((1371, 1671), (1425, 1671), (1425, 1701), (1371, 1701)), 75.0, '2019', 'SymbolAvg'], [((1521, 1671), (1574, 1671), (1574, 1701), (1521, 1701)), 75.0, '2019', 'SymbolAvg'], [((139, 1737), (226, 1737), (226, 1769), (139, 1769)), 26.67, 'Worked', 'Word'], [((270, 1737), (327, 1737), (327, 1769), (270, 1769)), 40.0, 'Open', 'Word'], [((548, 1737), (592, 1737), (592, 1769), (548, 1769)), 53.33, 'Box', 'Word'], [((671, 1737), (750, 1737), (750, 1769), (671, 1769)), 16.67, 'Ubuntu', 'Word'], [((139, 1737), (226, 1737), (226, 1769), (139, 1769)), 6.25, 'Worked', 'SymbolAvg'], [((270, 1737), (327, 1737), (327, 1769), (270, 1769)), 9.38, 'Open', 'SymbolAvg'], [((464, 1737), (538, 1737), (538, 1769), (464, 1769)), 5.36, 'Virtual', 'SymbolAvg'], [((548, 1737), (592, 1737), (592, 1769), (548, 1769)), 12.5, 'Box', 'SymbolAvg'], [((671, 1737), (750, 1737), (750, 1769), (671, 1769)), 6.25, 'Ubuntu', 'SymbolAvg'], [((138, 1772), (292, 1772), (292, 1802), (138, 1802)), 13.33, 'Demonstrated', 'Word'], [((397, 1772), (482, 1772), (482, 1802), (397, 1802)), 32.0, 'VLANs', 'Word'], [((754, 1772), (806, 1772), (806, 1802), (754, 1802)), 106.67, 'VMs', 'Word'], [((138, 1772), (292, 1772), (292, 1802), (138, 1802)), 3.12, 'Demonstrated', 'SymbolAvg'], [((397, 1772), (482, 1772), (482, 1802), (397, 1802)), 7.5, 'VLANs', 'SymbolAvg'], [((754, 1772), (806, 1772), (806, 1802), (754, 1802)), 45.83, 'VMs', 'SymbolAvg'], [((588, 1805), (640, 1805), (640, 1836), (588, 1836)), 106.67, 'VMs', 'Word'], [((845, 1805), (908, 1805), (908, 1836), (845, 1836)), 44.0, 'PING', 'Word'], [((588, 1805), (640, 1805), (640, 1836), (588, 1836)), 45.83, 'VMs', 'SymbolAvg'], [((845, 1805), (908, 1805), (908, 1836), (845, 1836)), 9.38, 'PING', 'SymbolAvg'], [((336, 1869), (436, 1868), (436, 1898), (336, 1899)), 51.43, 'Network', 'Word'], [((445, 1869), (523, 1869), (523, 1898), (445, 1898)), 38.33, 'Design', 'Word'], [((336, 1869), (436, 1868), (436, 1898), (336, 1899)), 16.07, 'Network', 'SymbolAvg'], [((445, 1869), (523, 1869), (523, 1898), (445, 1898)), 12.5, 'Design', 'SymbolAvg'], [((214, 1870), (325, 1869), (325, 1899), (214, 1900)), 65.71, 'Company', 'Word'], [((1470, 1870), (1512, 1869), (1512, 1896), (1470, 1897)), 53.33, 'Dec', 'Word'], [((214, 1870), (325, 1869), (325, 1899), (214, 1900)), 30.36, 'Company', 'SymbolAvg'], [((1470, 1870), (1512, 1869), (1512, 1896), (1470, 1897)), 27.78, 'Dec', 'SymbolAvg'], [((1520, 1870), (1573, 1869), (1573, 1896), (1520, 1897)), 75.0, '2018', 'SymbolAvg'], [((82, 1871), (203, 1870), (203, 1900), (82, 1901)), 28.89, 'Corporate', 'Word'], [((82, 1871), (203, 1870), (203, 1900), (82, 1901)), 8.33, 'Corporate', 'SymbolAvg'], [((82, 1871), (523, 1868), (523, 1898), (82, 1901)), 3.5714, 'N/A', 'SymbolAvg'], [((1394, 1871), (1448, 1870), (1448, 1897), (1394, 1898)), 75.0, '2018', 'SymbolAvg'], [((1339, 1872), (1387, 1871), (1387, 1897), (1339, 1898)), 60.67, 'Aug', 'Word'], [((122, 1935), (225, 1935), (225, 1970), (122, 1970)), 20.0, 'Designed', 'Word'], [((281, 1935), (424, 1935), (424, 1970), (281, 1970)), 12.73, 'implemented', 'Word'], [((83, 1935), (93, 1935), (93, 1970), (83, 1970)), 75.0, '•', 'SymbolAvg'], [((122, 1935), (225, 1935), (225, 1970), (122, 1970)), 9.38, 'Designed', 'SymbolAvg'], [((749, 2003), (812, 2003), (812, 2036), (749, 2036)), 80.0, 'OSPF', 'Word'], [((829, 2003), (881, 2003), (881, 2036), (829, 2036)), 90.67, 'BGP', 'Word'], [((897, 2003), (949, 2003), (949, 2036), (897, 2036)), 53.33, 'DNS', 'Word'], [((967, 2003), (1042, 2003), (1042, 2036), (967, 2036)), 48.0, 'VLAN', 'Word'], [((1158, 2003), (1230, 2003), (1230, 2036), (1158, 2036)), 80.0, 'DHCP', 'Word'], [((1287, 2003), (1354, 2003), (1354, 2036), (1287, 2036)), 80.0, 'HSRP', 'Word'], [((749, 2003), (812, 2003), (812, 2036), (749, 2036)), 20.83, 'OSPF', 'SymbolAvg'], [((829, 2003), (881, 2003), (881, 2036), (829, 2036)), 27.78, 'BGP', 'SymbolAvg'], [((897, 2003), (949, 2003), (949, 2036), (897, 2036)), 12.5, 'DNS', 'SymbolAvg'], [((967, 2003), (1042, 2003), (1042, 2036), (967, 2036)), 9.38, 'VLAN', 'SymbolAvg'], [((1158, 2003), (1230, 2003), (1230, 2036), (1158, 2036)), 45.83, 'DHCP', 'SymbolAvg'], [((1287, 2003), (1354, 2003), (1354, 2036), (1287, 2036)), 32.29, 'HSRP', 'SymbolAvg'], [((82, 2103), (161, 2103), (161, 2131), (82, 2131)), 43.33, 'Design', 'Word'], [((229, 2103), (290, 2103), (290, 2131), (229, 2131)), 65.0, 'Band', 'Word'], [((299, 2103), (365, 2103), (365, 2131), (299, 2131)), 95.0, '8PSK', 'Word'], [((374, 2103), (500, 2103), (500, 2131), (374, 2131)), 17.78, 'Modulator', 'Word'], [((579, 2103), (632, 2103), (632, 2131), (579, 2131)), 144.0, 'ADS', 'Word'], [((82, 2103), (161, 2103), (161, 2131), (82, 2131)), 18.75, 'Design', 'SymbolAvg'], [((200, 2103), (218, 2103), (218, 2131), (200, 2131)), 100.0, 'X', 'SymbolAvg'], [((229, 2103), (290, 2103), (290, 2131), (229, 2131)), 45.83, 'Band', 'SymbolAvg'], [((299, 2103), (365, 2103), (365, 2131), (299, 2131)), 64.58, '8PSK', 'SymbolAvg'], [((374, 2103), (500, 2103), (500, 2131), (374, 2131)), 4.17, 'Modulator', 'SymbolAvg'], [((509, 2103), (570, 2103), (570, 2131), (509, 2131)), 7.5, 'using', 'SymbolAvg'], [((579, 2103), (632, 2103), (632, 2131), (579, 2131)), 45.83, 'ADS', 'SymbolAvg'], [((82, 2103), (632, 2103), (632, 2131), (82, 2131)), 22.2222, 'N/A', 'SymbolAvg'], [((1322, 2104), (1364, 2104), (1364, 2133), (1322, 2133)), 53.33, 'Jan', 'Word'], [((1322, 2104), (1364, 2104), (1364, 2133), (1322, 2133)), 27.78, 'Jan', 'SymbolAvg'], [((1372, 2104), (1425, 2104), (1425, 2133), (1372, 2133)), 75.0, '2017', 'SymbolAvg'], [((1450, 2104), (1511, 2104), (1511, 2133), (1450, 2133)), 7.5, 'April', 'SymbolAvg'], [((1520, 2104), (1574, 2104), (1574, 2133), (1520, 2133)), 75.0, '2017', 'SymbolAvg'], [((125, 2159), (229, 2159), (229, 2189), (125, 2189)), 20.0, 'Designed', 'Word'], [((886, 2159), (951, 2159), (951, 2189), (886, 2189)), 120.0, 'ISRO', 'Word'], [((970, 2159), (1046, 2159), (1046, 2189), (970, 2189)), 16.67, 'Indian', 'Word'], [((1056, 2159), (1122, 2159), (1122, 2189), (1056, 2189)), 52.0, 'Space', 'Word'], [((1132, 2159), (1239, 2159), (1239, 2189), (1132, 2189)), 32.5, 'Research', 'Word'], [((1248, 2159), (1400, 2159), (1400, 2189), (1248, 2189)), 13.33, 'Organization', 'Word'], [((125, 2159), (229, 2159), (229, 2189), (125, 2189)), 9.38, 'Designed', 'SymbolAvg'], [((886, 2159), (951, 2159), (951, 2189), (886, 2189)), 63.54, 'ISRO', 'SymbolAvg'], [((970, 2159), (1046, 2159), (1046, 2189), (970, 2189)), 12.5, 'Indian', 'SymbolAvg'], [((1056, 2159), (1122, 2159), (1122, 2189), (1056, 2189)), 15.0, 'Space', 'SymbolAvg'], [((1132, 2159), (1239, 2159), (1239, 2189), (1132, 2189)), 18.75, 'Research', 'SymbolAvg'], [((1248, 2159), (1400, 2159), (1400, 2189), (1248, 2189)), 3.12, 'Organization', 'SymbolAvg'], [((1429, 2159), (1538, 2159), (1538, 2189), (1429, 2189)), 4.17, 'Bangalore', 'SymbolAvg'], [((1175, 2192), (1227, 2192), (1227, 2225), (1175, 2225)), 53.33, 'ADS', 'Word'], [((125, 2192), (241, 2192), (241, 2225), (125, 2225)), 4.17, 'Performed', 'SymbolAvg'], [((470, 2192), (602, 2192), (602, 2225), (470, 2225)), 3.75, 'components', 'SymbolAvg'], [((641, 2192), (738, 2192), (738, 2225), (641, 2225)), 16.07, '8.75GHz', 'SymbolAvg'], [((1038, 2192), (1135, 2192), (1135, 2225), (1038, 2225)), 4.17, 'available', 'SymbolAvg'], [((1175, 2192), (1227, 2192), (1227, 2225), (1175, 2225)), 12.5, 'ADS', 'SymbolAvg'], [((288, 2226), (362, 2226), (362, 2252), (288, 2252)), 6.25, 'Return', 'SymbolAvg']]
+YPos - Starting - Ending - Distance
+YPos - Starting - Ending - Distance
+C:\Users\kunal\Anaconda3\lib\site-packages\spacy\util.py:275: UserWarning: [W031] Model 'en_training' (0.0.0) requires spaCy v2.1 and is incompatible with the current spaCy version (2.3.1). This may lead to unexpected results or runtime errors. To resolve this, download a newer compatible model or retrain your custom model with the current spaCy version. For more details and available updates, run: python -m spacy validate
+  warnings.warn(warn_msg)
+0:09:00.712857
+
+Process finished with exit code 0
