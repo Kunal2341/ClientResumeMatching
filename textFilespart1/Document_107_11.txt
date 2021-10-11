@@ -1,7 +1,0 @@
-Managed IP addressing and implemented IP Access Lists.
-Worked on HSRP and GLBP for first hop redundancy and load balancing.
-Configured the Cisco router as IP Firewall and for NATting.
-Prepare, update, and maintain technical and logistical network documentation
-Configured and troubleshoot VLAN, VTP, STP and Trunks.
-Installing and configuring protocols like TCP/IP and Internet protocols including Local
-Area Networking, routing and
