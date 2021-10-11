@@ -5,6 +5,10 @@ A client company is looking for employees. Employees are looking for jobs. Emplo
 ## Learning more about how it works
 All my reasearch and powerpoint descriptions are in this directory
 https://github.com/Kunal2341/ClientResumeMatching/tree/master/DocumentsEXPLAINING
+# Architecture Diagram
+Example architecture of the process of the program. Lays out the details for database connections and fucntions deployment. 
+![Architecture Diagram](https://github.com/Kunal2341/ClientResumeMatching/blob/master/DocumentsEXPLAINING/WorkFlowVdart.PNG?raw=true)
+
 # Naive Baise Classifier
 The following Jupyter Notebook gives a step-by-step description on Naive Baise Classifier
 https://github.com/Kunal2341/ClientResumeMatching/blob/master/Jnotebooks/Naive%20Bayes%20Classifier.ipynb
