@@ -2,6 +2,12 @@
 # Client Resume Matcher 
 ### Connecting Employees to Employers
 A client company is looking for employees. Employees are looking for jobs. Employees send in a resume and the company sends in a job description. Extract exact which resume matches the job description the best.
+[YOUTUBE VIDEO](https://youtu.be/cQqoGe7kLKQ)
+
+
+[![Video Image](https://github.com/Kunal2341/ClientResumeMatching/blob/master/coverPhotoVideo.png?raw=true)](https://youtu.be/cQqoGe7kLKQ)
+
+
 ## Learning more about how it works
 All my reasearch and powerpoint descriptions are in this directory
 https://github.com/Kunal2341/ClientResumeMatching/tree/master/DocumentsEXPLAINING
